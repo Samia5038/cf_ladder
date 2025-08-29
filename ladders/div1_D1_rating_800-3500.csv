@@ -1,0 +1,10 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1799,Codeforces Round 854 by cybercats (Div. 1 + Div. 2),D1,Hot Start Up (easy version),1900,5255,dp,https://codeforces.com/contest/1799/problem/D1,div1
+2,2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),D1,DFS Checker (Easy Version),1900,4744,brute force;data structures;dfs and similar;graphs;hashing;trees,https://codeforces.com/contest/2002/problem/D1,div1
+3,1628,Codeforces Round 767 (Div. 1),D1,Game on Sum (Easy Version),2100,3455,combinatorics;dp;games;math,https://codeforces.com/contest/1628/problem/D1,div1
+4,1548,Codeforces Round 736 (Div. 1),D1,Gregor and the Odd Cows (Easy),2300,1548,bitmasks;geometry;math;number theory,https://codeforces.com/contest/1548/problem/D1,div1
+5,1943,Codeforces Round 934 (Div. 1),D1,Counting Is Fun (Easy Version),2400,1765,brute force;combinatorics;dp;math,https://codeforces.com/contest/1943/problem/D1,div1
+6,2066,Codeforces Round 1004 (Div. 1),D1,Club of Young Aircraft Builders (easy version),2400,1206,combinatorics;dp;math,https://codeforces.com/contest/2066/problem/D1,div1
+7,1264,Codeforces Round 604 (Div. 1),D1,Beautiful Bracket Sequence (easy version),2600,1411,combinatorics;dp;probabilities,https://codeforces.com/contest/1264/problem/D1,div1
+8,1446,"Codeforces Round 683 (Div. 1, by Meet IT)",D1,Frequency Problem (Easy Version),2600,1946,data structures;greedy,https://codeforces.com/contest/1446/problem/D1,div1
+9,1685,Codeforces Round 794 (Div. 1),D1,Permutation Weight (Easy Version),2800,479,constructive algorithms;dfs and similar;dsu,https://codeforces.com/contest/1685/problem/D1,div1

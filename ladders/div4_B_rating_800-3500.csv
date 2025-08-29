@@ -1,0 +1,24 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1669,Codeforces Round 784 (Div. 4),B,Triple,800,49987,implementation;sortings,https://codeforces.com/contest/1669/problem/B,div4
+2,1676,Codeforces Round 790 (Div. 4),B,Equal Candies,800,55264,greedy;math;sortings,https://codeforces.com/contest/1676/problem/B,div4
+3,1692,Codeforces Round 799 (Div. 4),B,All Distinct,800,37079,greedy;sortings,https://codeforces.com/contest/1692/problem/B,div4
+4,1703,Codeforces Round 806 (Div. 4),B,ICPC Balloons,800,58628,data structures;implementation,https://codeforces.com/contest/1703/problem/B,div4
+5,1722,Codeforces Round 817 (Div. 4),B,Colourblindness,800,52150,implementation,https://codeforces.com/contest/1722/problem/B,div4
+6,1742,Codeforces Round 827 (Div. 4),B,Increasing,800,54838,greedy;implementation;sortings,https://codeforces.com/contest/1742/problem/B,div4
+7,1760,Codeforces Round 835 (Div. 4),B,Atilla's Favorite Problem,800,49800,greedy;implementation;strings,https://codeforces.com/contest/1760/problem/B,div4
+8,1791,Codeforces Round 849 (Div. 4),B,Following Directions,800,49125,geometry;implementation,https://codeforces.com/contest/1791/problem/B,div4
+9,1807,Codeforces Round 859 (Div. 4),B,Grab the Candies,800,46403,greedy,https://codeforces.com/contest/1807/problem/B,div4
+10,1829,Codeforces Round 871 (Div. 4),B,Blank Space,800,61839,implementation,https://codeforces.com/contest/1829/problem/B,div4
+11,1850,Codeforces Round 886 (Div. 4),B,Ten Words of Wisdom,800,47390,implementation;sortings,https://codeforces.com/contest/1850/problem/B,div4
+12,1873,Codeforces Round 898 (Div. 4),B,Good Kid,800,56796,brute force;greedy;math,https://codeforces.com/contest/1873/problem/B,div4
+13,1915,Codeforces Round 918 (Div. 4),B,Not Quite Latin Square,800,47028,bitmasks;brute force;implementation,https://codeforces.com/contest/1915/problem/B,div4
+14,1926,Codeforces Round 928 (Div. 4),B,Vlad and Shapes,800,34930,geometry;implementation,https://codeforces.com/contest/1926/problem/B,div4
+15,1950,Codeforces Round 937 (Div. 4),B,Upscaling,800,41860,implementation,https://codeforces.com/contest/1950/problem/B,div4
+16,1971,Codeforces Round 944 (Div. 4),B,Different String,800,41675,implementation;strings,https://codeforces.com/contest/1971/problem/B,div4
+17,1985,Codeforces Round 952 (Div. 4),B,Maximum Multiple Sum,800,52482,brute force;math;number theory,https://codeforces.com/contest/1985/problem/B,div4
+18,2009,Codeforces Round 971 (Div. 4),B,osu!mania,800,49448,brute force;implementation,https://codeforces.com/contest/2009/problem/B,div4
+19,2044,Codeforces Round 993 (Div. 4),B,Normal Problem,800,46409,implementation;strings,https://codeforces.com/contest/2044/problem/B,div4
+20,2065,Codeforces Round 1003 (Div. 4),B,Skibidus and Ohio,800,37598,strings,https://codeforces.com/contest/2065/problem/B,div4
+21,2094,Codeforces Round 1017 (Div. 4),B,Bobritto Bandito,800,29023,brute force;constructive algorithms,https://codeforces.com/contest/2094/problem/B,div4
+22,1999,Codeforces Round 964 (Div. 4),B,Card Game,1000,38695,brute force;constructive algorithms;implementation,https://codeforces.com/contest/1999/problem/B,div4
+23,1352,Codeforces Round 640 (Div. 4),B,Same Parity Summands,1200,41701,constructive algorithms;math,https://codeforces.com/contest/1352/problem/B,div4

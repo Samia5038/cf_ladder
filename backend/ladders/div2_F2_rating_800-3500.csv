@@ -1,0 +1,18 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1304,Codeforces Round 620 (Div. 2),F2,Animal Observation (hard version),2400,1695,data structures;dp;greedy,https://codeforces.com/contest/1304/problem/F2,div2
+2,1582,Codeforces Round 750 (Div. 2),F2,Korney Korneevich and XOR (hard version),2400,1983,binary search;brute force;dp;greedy;two pointers,https://codeforces.com/contest/1582/problem/F2,div2
+3,1370,Codeforces Round 651 (Div. 2),F2,The Hidden Pair (Hard Version),2700,1603,binary search;dfs and similar;graphs;interactive;shortest paths;trees,https://codeforces.com/contest/1370/problem/F2,div2
+4,1957,Codeforces Round 940 (Div. 2) and CodeCraft-23,F2,Frequency Mismatch (Hard Version),2700,535,binary search;data structures;dfs and similar;hashing;probabilities;trees,https://codeforces.com/contest/1957/problem/F2,div2
+5,2063,Codeforces Round 1000 (Div. 2),F2,Counting Is Not Fun (Hard Version),2700,786,combinatorics;data structures;dfs and similar;dsu;graphs;implementation;trees,https://codeforces.com/contest/2063/problem/F2,div2
+6,1379,Codeforces Round 657 (Div. 2),F2,Chess Strikes Back (hard version),2800,546,data structures;divide and conquer,https://codeforces.com/contest/1379/problem/F2,div2
+7,1592,Codeforces Round 746 (Div. 2),F2,Alice and Recoloring 2,2800,901,constructive algorithms;flows;graph matchings;greedy,https://codeforces.com/contest/1592/problem/F2,div2
+8,1993,Codeforces Round 963 (Div. 2),F2,Dyn-scripted Robot (Hard Version),2800,499,chinese remainder theorem;math;number theory,https://codeforces.com/contest/1993/problem/F2,div2
+9,2107,Codeforces Round 1023 (Div. 2),F2,Cycling (Hard Version),2800,359,binary search;brute force;data structures;dp;greedy,https://codeforces.com/contest/2107/problem/F2,div2
+10,1792,Educational Codeforces Round 142 (Rated for Div. 2),F2,Graph Coloring (hard version),2900,439,brute force;combinatorics;divide and conquer;dp;fft;graphs,https://codeforces.com/contest/1792/problem/F2,div2
+11,1806,Codeforces Round 858 (Div. 2),F2,GCD Master (hard version),2900,399,greedy;math;sortings,https://codeforces.com/contest/1806/problem/F2,div2
+12,2085,Codeforces Round 1011 (Div. 2),F2,Serval and Colorful Array (Hard Version),2900,339,data structures;greedy,https://codeforces.com/contest/2085/problem/F2,div2
+13,1152,Codeforces Round 554 (Div. 2),F2,Neko Rules the Catniverse (Large Version),3000,761,bitmasks;dp;matrices,https://codeforces.com/contest/1152/problem/F2,div2
+14,1920,Codeforces Round 919 (Div. 2),F2,Smooth Sailing (Hard Version),3000,587,binary search;data structures;dsu;geometry;graphs;trees,https://codeforces.com/contest/1920/problem/F2,div2
+15,2056,Codeforces Round 997 (Div. 2),F2,Xor of Median (Hard Version),3000,233,bitmasks;brute force;combinatorics;dp;math,https://codeforces.com/contest/2056/problem/F2,div2
+16,1805,Codeforces Round 862 (Div. 2),F2,Survival of the Weakest (hard version),3100,407,greedy;math;sortings;two pointers,https://codeforces.com/contest/1805/problem/F2,div2
+17,2013,Codeforces Round 973 (Div. 2),F2,Game in Tree (Hard Version),3500,139,binary search;data structures;trees,https://codeforces.com/contest/2013/problem/F2,div2

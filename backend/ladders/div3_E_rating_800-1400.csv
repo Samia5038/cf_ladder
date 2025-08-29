@@ -1,0 +1,19 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1360,Codeforces Round 644 (Div. 3),E,Polygon,1300,26921,dp;graphs;implementation;shortest paths,https://codeforces.com/contest/1360/problem/E,div3
+2,1520,Codeforces Round 719 (Div. 3),E,Arranging The Sheep,1400,25047,greedy;math,https://codeforces.com/contest/1520/problem/E,div3
+3,1931,Codeforces Round 925 (Div. 3),E,Anna and the Valentine's Day Gift,1400,20926,games;greedy;math;sortings,https://codeforces.com/contest/1931/problem/E,div3
+4,1490,Codeforces Round 702 (Div. 3),E,Accidental Victory,1400,20265,binary search;data structures;greedy,https://codeforces.com/contest/1490/problem/E,div3
+5,1714,Codeforces Round 811 (Div. 3),E,Add Modulo 10,1400,20079,brute force;math;number theory,https://codeforces.com/contest/1714/problem/E,div3
+6,1433,Codeforces Round 677 (Div. 3),E,Two Round Dances,1300,19272,combinatorics;math,https://codeforces.com/contest/1433/problem/E,div3
+7,2091,Codeforces Round 1013 (Div. 3),E,Interesting Ratio,1300,17550,brute force;math;number theory;two pointers,https://codeforces.com/contest/2091/problem/E,div3
+8,1899,Codeforces Round 909 (Div. 3),E,Queue Sort,1300,17371,greedy;implementation;sortings,https://codeforces.com/contest/1899/problem/E,div3
+9,1878,Codeforces Round 900 (Div. 3),E,Iva & Pav,1400,16751,binary search;bitmasks;data structures;greedy,https://codeforces.com/contest/1878/problem/E,div3
+10,1790,Codeforces Round 847 (Div. 3),E,Vlad and a Pair of Numbers,1400,16556,bitmasks;constructive algorithms,https://codeforces.com/contest/1790/problem/E,div3
+11,1927,Codeforces Round 923 (Div. 3),E,Klever Permutation,1400,16090,constructive algorithms;math;two pointers,https://codeforces.com/contest/1927/problem/E,div3
+12,2000,Codeforces Round 966 (Div. 3),E,Photoshoot for Gorillas,1400,15344,combinatorics;data structures;greedy;math,https://codeforces.com/contest/2000/problem/E,div3
+13,2126,Codeforces Round 1037 (Div. 3),E,"G-C-D, Unlucky!",1400,13610,math;number theory,https://codeforces.com/contest/2126/problem/E,div3
+14,2033,Codeforces Round 981 (Div. 3),E,"Sakurako, Kosuke, and the Permutation",1400,13101,brute force;data structures;dfs and similar;dsu;graphs;greedy;math,https://codeforces.com/contest/2033/problem/E,div3
+15,2131,Codeforces Round 1042 (Div. 3),E,Adjacent XOR,1400,13076,brute force;greedy,https://codeforces.com/contest/2131/problem/E,div3
+16,2123,Codeforces Round 1034 (Div. 3),E,MEX Count,1400,12342,binary search;data structures;greedy;sortings;two pointers,https://codeforces.com/contest/2123/problem/E,div3
+17,2114,Codeforces Round 1027 (Div. 3),E,Kirei Attacks the Estate,1400,11512,dfs and similar;dp;greedy;trees,https://codeforces.com/contest/2114/problem/E,div3
+18,978,Codeforces Round 481 (Div. 3),E,Bus Video System,1400,10116,combinatorics;math,https://codeforces.com/contest/978/problem/E,div3

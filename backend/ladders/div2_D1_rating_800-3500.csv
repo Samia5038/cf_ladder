@@ -1,0 +1,27 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1419,Codeforces Round 671 (Div. 2),D1,Sage's Birthday (easy version),1000,25645,binary search;constructive algorithms;greedy;sortings,https://codeforces.com/contest/1419/problem/D1,div2
+2,670,Codeforces Round 350 (Div. 2),D1,Magic Powder - 1,1400,21260,binary search;brute force;implementation,https://codeforces.com/contest/670/problem/D1,div2
+3,1559,Codeforces Round 738 (Div. 2),D1,Mocha and Diana (Easy Version),1400,15040,brute force;constructive algorithms;dsu;graphs;greedy;trees,https://codeforces.com/contest/1559/problem/D1,div2
+4,1733,Codeforces Round 821 (Div. 2),D1,Zero-One (Easy Version),1400,14556,constructive algorithms;greedy;math,https://codeforces.com/contest/1733/problem/D1,div2
+5,1195,Codeforces Round 574 (Div. 2),D1,Submarine in the Rybinsk Sea (easy edition),1500,8056,combinatorics;math;number theory,https://codeforces.com/contest/1195/problem/D1,div2
+6,1732,Codeforces Round 830 (Div. 2),D1,Balance (Easy version),1500,9455,brute force;data structures;implementation;number theory,https://codeforces.com/contest/1732/problem/D1,div2
+7,2003,Codeforces Round 968 (Div. 2),D1,Turtle and a MEX Problem (Easy Version),1500,12663,greedy;math,https://codeforces.com/contest/2003/problem/D1,div2
+8,1658,Codeforces Round 779 (Div. 2),D1,388535 (Easy Version),1600,9677,bitmasks;math,https://codeforces.com/contest/1658/problem/D1,div2
+9,1904,Codeforces Round 914 (Div. 2),D1,Set To Max (Easy Version),1600,7973,brute force;constructive algorithms;greedy,https://codeforces.com/contest/1904/problem/D1,div2
+10,1543,Codeforces Round 730 (Div. 2),D1,RPD and Rap Sheet (Easy Version),1700,7849,bitmasks;constructive algorithms;interactive;math,https://codeforces.com/contest/1543/problem/D1,div2
+11,1561,"Codeforces Round 740 (Div. 2, based on VK Cup 2021 - Final (Engine))",D1,Up the Strip (simplified version),1700,5899,brute force;data structures;dp;math;number theory,https://codeforces.com/contest/1561/problem/D1,div2
+12,1562,Codeforces Round 741 (Div. 2),D1,Two Hundred Twenty One (easy version),1700,6540,data structures;dp;math,https://codeforces.com/contest/1562/problem/D1,div2
+13,1706,Codeforces Round 809 (Div. 2),D1,Chopping Carrots (Easy Version),1700,7459,binary search;brute force;constructive algorithms;greedy;number theory,https://codeforces.com/contest/1706/problem/D1,div2
+14,1903,Codeforces Round 912 (Div. 2),D1,Maximum And Queries (easy version),1700,6568,binary search;bitmasks;brute force;greedy,https://codeforces.com/contest/1903/problem/D1,div2
+15,2027,Codeforces Round 982 (Div. 2),D1,The Endspeaker (Easy Version),1700,6296,binary search;dp;graphs;greedy;implementation;two pointers,https://codeforces.com/contest/2027/problem/D1,div2
+16,2118,Codeforces Round 1030 (Div. 2),D1,"Red Light, Green Light (Easy version)",1700,6702,brute force;dfs and similar;dp;graphs;implementation;number theory,https://codeforces.com/contest/2118/problem/D1,div2
+17,1617,Codeforces Round 761 (Div. 2),D1,Too Many Impostors (easy version),1800,4990,constructive algorithms;implementation;interactive,https://codeforces.com/contest/1617/problem/D1,div2
+18,1720,Codeforces Round 815 (Div. 2),D1,Xor-Subsequence (easy version),1800,6415,bitmasks;brute force;dp;strings;trees;two pointers,https://codeforces.com/contest/1720/problem/D1,div2
+19,2071,Codeforces Round 1007 (Div. 2),D1,Infinite Sequence (Easy Version),1800,5937,bitmasks;brute force;dp;implementation;math,https://codeforces.com/contest/2071/problem/D1,div2
+20,2022,Codeforces Round 978 (Div. 2),D1,Asesino (Easy Version),1900,3597,binary search;brute force;constructive algorithms;implementation;interactive,https://codeforces.com/contest/2022/problem/D1,div2
+21,1204,Codeforces Round 581 (Div. 2),D1,Kirk and a Binary String (easy version),2000,3143,brute force;greedy;strings,https://codeforces.com/contest/1204/problem/D1,div2
+22,1248,Codeforces Round 594 (Div. 2),D1,The World Is Just a Programming Task (Easy Version),2000,2457,brute force;dp;greedy;implementation,https://codeforces.com/contest/1248/problem/D1,div2
+23,1614,Codeforces Round 757 (Div. 2),D1,Divan and Kostomuksha (easy version),2100,4223,dp;number theory,https://codeforces.com/contest/1614/problem/D1,div2
+24,1832,Educational Codeforces Round 148 (Rated for Div. 2),D1,Red-Blue Operations (Easy Version),2100,3167,binary search;greedy;implementation;math,https://codeforces.com/contest/1832/problem/D1,div2
+25,1934,Codeforces Round 931 (Div. 2),D1,XOR Break --- Solo Version,2100,3856,bitmasks;constructive algorithms;greedy,https://codeforces.com/contest/1934/problem/D1,div2
+26,1695,Codeforces Round 801 (Div. 2) and EPIC Institute of Technology Round,D1,Tree Queries (Easy Version),2200,2335,brute force;constructive algorithms;dfs and similar;dp;greedy;trees,https://codeforces.com/contest/1695/problem/D1,div2

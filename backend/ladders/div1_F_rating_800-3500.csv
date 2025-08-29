@@ -1,0 +1,170 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1218,"Bubble Cup 12 - Finals [Online Mirror, unrated, Div. 1]",F,Workout plan,1500,3060,data structures;greedy,https://codeforces.com/contest/1218/problem/F,div1
+2,542,"VK Cup 2015 - Round 3 (unofficial online mirror, Div. 1 only)",F,Quest,2100,967,dp;greedy,https://codeforces.com/contest/542/problem/F,div1
+3,960,"Divide by Zero 2018 and Codeforces Round 474 (Div. 1 + Div. 2, combined)",F,Pathwalks,2100,3219,data structures;dp;graphs,https://codeforces.com/contest/960/problem/F,div1
+4,1991,Pinely Round 4 (Div. 1 + Div. 2),F,Triangle Formation,2200,2627,brute force;greedy;implementation;math;sortings,https://codeforces.com/contest/1991/problem/F,div1
+5,768,"Divide by Zero 2017 and Codeforces Round 399 (Div. 1 + Div. 2, combined)",F,Barrels and boxes,2300,1061,brute force;combinatorics;math;number theory;probabilities,https://codeforces.com/contest/768/problem/F,div1
+6,1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",F,Pairwise Modulo,2300,2344,data structures;math,https://codeforces.com/contest/1553/problem/F,div1
+7,1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),F,Exotic Queries,2300,1561,data structures;implementation;sortings,https://codeforces.com/contest/1864/problem/F,div1
+8,533,"VK Cup 2015 - Round 2 (unofficial online mirror, Div. 1 only)",F,Encoding,2400,936,hashing;string suffix structures;strings,https://codeforces.com/contest/533/problem/F,div1
+9,1428,Codeforces Raif Round 1 (Div. 1 + Div. 2),F,Fruit Sequences,2400,2478,binary search;data structures;divide and conquer;dp;two pointers,https://codeforces.com/contest/1428/problem/F,div1
+10,868,Codeforces Round 438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),F,Yet Another Minimization Problem,2500,4477,divide and conquer;dp,https://codeforces.com/contest/868/problem/F,div1
+11,875,"Codeforces Round 441 (Div. 1, by Moscow Team Olympiad)",F,Royal Questions,2500,1473,dsu;graphs;greedy,https://codeforces.com/contest/875/problem/F,div1
+12,1017,"Codeforces Round 502 (in memory of Leopoldo Taravilse, Div. 1 + Div. 2)",F,The Neutral Zone,2500,878,brute force;math,https://codeforces.com/contest/1017/problem/F,div1
+13,1037,"Manthan, Codefest 18 (rated, Div. 1 + Div. 2)",F,Maximum Reduction,2500,1192,combinatorics;data structures;math,https://codeforces.com/contest/1037/problem/F,div1
+14,1305,"Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",F,Kuroni and the Punishment,2500,2995,math;number theory;probabilities,https://codeforces.com/contest/1305/problem/F,div1
+15,1556,"Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",F,Sports Betting,2500,1371,bitmasks;combinatorics;dp;graphs;math;probabilities,https://codeforces.com/contest/1556/problem/F,div1
+16,1787,"TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",F,Inverse Transformation,2500,760,constructive algorithms;implementation;math,https://codeforces.com/contest/1787/problem/F,div1
+17,1842,"CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",F,Tenzing and Tree,2500,1627,dfs and similar;greedy;shortest paths;sortings;trees,https://codeforces.com/contest/1842/problem/F,div1
+18,1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),F,Stardew Valley,2500,1389,constructive algorithms;dfs and similar;graphs;trees,https://codeforces.com/contest/1994/problem/F,div1
+19,240,"Codeforces Round 145 (Div. 1, ACM-ICPC Rules)",F,TorCoder,2600,2131,data structures,https://codeforces.com/contest/240/problem/F,div1
+20,653,IndiaHacks 2016 - Online Edition (Div. 1 + Div. 2),F,Paper task,2600,1074,data structures;string suffix structures;strings,https://codeforces.com/contest/653/problem/F,div1
+21,1023,"Codeforces Round 504 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",F,Mobile Phone Network,2600,947,dfs and similar;dsu;graphs;trees,https://codeforces.com/contest/1023/problem/F,div1
+22,1208,"Manthan, Codefest 19 (open for everyone, rated, Div. 1 + Div. 2)",F,Bits And Pieces,2600,2926,bitmasks;dfs and similar;dp;greedy,https://codeforces.com/contest/1208/problem/F,div1
+23,1209,"Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",F,Koala and Notebook,2600,1328,data structures;dfs and similar;graphs;shortest paths;strings;trees,https://codeforces.com/contest/1209/problem/F,div1
+24,1530,"Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",F,Bingo,2600,924,bitmasks;combinatorics;dp;math;probabilities,https://codeforces.com/contest/1530/problem/F,div1
+25,1656,"CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",F,Parametric MST,2600,1136,binary search;constructive algorithms;graphs;greedy;math;sortings,https://codeforces.com/contest/1656/problem/F,div1
+26,1684,Codeforces Round 792 (Div. 1 + Div. 2),F,Diverse Segments,2600,1015,data structures;two pointers,https://codeforces.com/contest/1684/problem/F,div1
+27,1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",F,Colouring Game,2600,1234,constructive algorithms;dp;games,https://codeforces.com/contest/1704/problem/F,div1
+28,1740,Codeforces Round 831 (Div. 1 + Div. 2),F,Conditional Mix,2600,907,combinatorics;dp;math,https://codeforces.com/contest/1740/problem/F,div1
+29,1863,Pinely Round 2 (Div. 1 + Div. 2),F,"Divide, XOR, and Conquer",2600,1245,bitmasks;dp;math,https://codeforces.com/contest/1863/problem/F,div1
+30,1896,"CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",F,Bracket Xoring,2600,887,constructive algorithms;greedy;implementation;math,https://codeforces.com/contest/1896/problem/F,div1
+31,1975,Codeforces Round 947 (Div. 1 + Div. 2),F,Set,2600,941,bitmasks;brute force;combinatorics;dfs and similar;divide and conquer;dp;math,https://codeforces.com/contest/1975/problem/F,div1
+32,724,"Intel Code Challenge Final Round (Div. 1 + Div. 2, Combined)",F,Uniformly Branched Trees,2700,497,combinatorics;dp;trees,https://codeforces.com/contest/724/problem/F,div1
+33,932,"ICM Technex 2018 and Codeforces Round 463 (Div. 1 + Div. 2, combined)",F,Escape Through Leaf,2700,3500,data structures;dp;geometry,https://codeforces.com/contest/932/problem/F,div1
+34,995,"Codeforces Round 492 (Div. 1) [Thanks, uDebug!]",F,Cowmpany Cowmpensation,2700,1433,combinatorics;dp;math;trees,https://codeforces.com/contest/995/problem/F,div1
+35,1025,"Codeforces Round 505 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",F,Disjoint Triangles,2700,817,geometry,https://codeforces.com/contest/1025/problem/F,div1
+36,1214,"Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",F,Employment,2700,480,greedy;sortings,https://codeforces.com/contest/1214/problem/F,div1
+37,1220,Codeforces Round 586 (Div. 1 + Div. 2),F,Gardener Alex,2700,809,binary search;data structures,https://codeforces.com/contest/1220/problem/F,div1
+38,1423,"Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]",F,Coins,2700,410,math,https://codeforces.com/contest/1423/problem/F,div1
+39,1599,"Bubble Cup 14 - Finals Online Mirror (Unrated, ICPC Rules, Teams Preferred, Div. 1)",F,Mars,2700,369,hashing,https://codeforces.com/contest/1599/problem/F,div1
+40,1603,Codeforces Round 752 (Div. 1),F,"October 18, 2017",2700,307,combinatorics;dp;implementation;math,https://codeforces.com/contest/1603/problem/F,div1
+41,1750,"CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)",F,Majority,2700,1040,combinatorics;dp;math;strings,https://codeforces.com/contest/1750/problem/F,div1
+42,1799,Codeforces Round 854 by cybercats (Div. 1 + Div. 2),F,Halve or Subtract,2700,958,binary search;brute force;dp;greedy;sortings,https://codeforces.com/contest/1799/problem/F,div1
+43,1801,Codeforces Round 857 (Div. 1),F,Another n-dimensional chocolate bar,2700,689,dp;math;meet-in-the-middle;number theory,https://codeforces.com/contest/1801/problem/F,div1
+44,1804,Nebius Welcome Round (Div. 1 + Div. 2),F,Approximate Diameter,2700,1077,binary search;divide and conquer;graphs;shortest paths,https://codeforces.com/contest/1804/problem/F,div1
+45,1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",F,Farmer John's Favorite Function,2700,791,brute force;data structures;implementation;math,https://codeforces.com/contest/1942/problem/F,div1
+46,722,"Intel Code Challenge Elimination Round (Div. 1 + Div. 2, combined)",F,Cyclic Cipher,2800,563,chinese remainder theorem;data structures;implementation;number theory;two pointers,https://codeforces.com/contest/722/problem/F,div1
+47,757,"Codecraft-17 and Codeforces Round 391 (Div. 1 + Div. 2, combined)",F,Team Rocket Rises Again,2800,1259,data structures;graphs;shortest paths,https://codeforces.com/contest/757/problem/F,div1
+48,776,"ICM Technex 2017 and Codeforces Round 400 (Div. 1 + Div. 2, combined)",F,Sherlock's bet to Moriarty,2800,482,constructive algorithms;data structures;divide and conquer;geometry;graphs;implementation;trees,https://codeforces.com/contest/776/problem/F,div1
+49,794,"Tinkoff Challenge - Final Round (Codeforces Round 414, rated, Div. 1 + Div. 2)",F,Leha and security system,2800,901,data structures,https://codeforces.com/contest/794/problem/F,div1
+50,850,"Codeforces Round 432 (Div. 1, based on IndiaHacks Final Round 2017)",F,Rainbow Balls,2800,727,math,https://codeforces.com/contest/850/problem/F,div1
+51,1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",F,Interesting Sections,2800,885,data structures;divide and conquer;meet-in-the-middle;two pointers,https://codeforces.com/contest/1609/problem/F,div1
+52,1654,"Codeforces Round 778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round)",F,Minimal String Xoration,2800,1386,bitmasks;data structures;divide and conquer;greedy;hashing;sortings;strings,https://codeforces.com/contest/1654/problem/F,div1
+53,1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",F,M-tree,2800,629,data structures;math;sortings;trees,https://codeforces.com/contest/1810/problem/F,div1
+54,2127,"Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",F,Hamed and AghaBalaSar,2800,609,brute force;combinatorics;dp;math;probabilities,https://codeforces.com/contest/2127/problem/F,div1
+55,1028,"AIM Tech Round 5 (rated, Div. 1 + Div. 2)",F,Make Symmetrical,2900,539,brute force,https://codeforces.com/contest/1028/problem/F,div1
+56,1060,"Codeforces Round 513 by Barcelona Bootcamp (rated, Div. 1 + Div. 2)",F,Shrinking Tree,2900,711,combinatorics;dp,https://codeforces.com/contest/1060/problem/F,div1
+57,1198,Codeforces Round 576 (Div. 1),F,GCD Groups 2,2900,1035,greedy;number theory;probabilities,https://codeforces.com/contest/1198/problem/F,div1
+58,1726,Codeforces Round 819 (Div. 1 + Div. 2) and Grimoire of Code Annual Contest 2022,F,Late For Work (submissions are not allowed),2900,131,data structures;greedy;schedules;shortest paths,https://codeforces.com/contest/1726/problem/F,div1
+59,1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",F,Lazy Numbers,2900,531,binary search;math,https://codeforces.com/contest/1870/problem/F,div1
+60,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",F,Traveling Salescat,2900,527,constructive algorithms;dp;geometry;graphs;greedy;math;sortings,https://codeforces.com/contest/2062/problem/F,div1
+61,2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",F,Skyscape,2900,356,constructive algorithms;data structures;greedy,https://codeforces.com/contest/2084/problem/F,div1
+62,587,Codeforces Round 326 (Div. 1),F,Duff is Mad,3000,1183,data structures;strings,https://codeforces.com/contest/587/problem/F,div1
+63,618,Wunder Fund Round 2016 (Div. 1 + Div. 2 combined),F,Double Knapsack,3000,1615,constructive algorithms;two pointers,https://codeforces.com/contest/618/problem/F,div1
+64,698,Codeforces Round 363 (Div. 1),F,Coprime Permutation,3000,469,combinatorics;number theory,https://codeforces.com/contest/698/problem/F,div1
+65,856,"Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed]",F,To Play or not to Play,3000,111,greedy,https://codeforces.com/contest/856/problem/F,div1
+66,914,"Codecraft-18 and Codeforces Round 458 (Div. 1 + Div. 2, combined)",F,Substrings in a String,3000,1876,bitmasks;brute force;data structures;string suffix structures;strings,https://codeforces.com/contest/914/problem/F,div1
+67,720,"Russian Code Cup 2016 - Finals [Unofficial Mirror, Div. 1 Only Recommended]",F,Array Covering,3100,190,data structures,https://codeforces.com/contest/720/problem/F,div1
+68,765,Codeforces Round 397 by Kaspersky Lab and Barcelona Bootcamp (Div. 1 + Div. 2 combined),F,Souvenirs,3100,2340,data structures,https://codeforces.com/contest/765/problem/F,div1
+69,1120,"Codeforces Round 543 (Div. 1, based on Technocup 2019 Final Round)",F,Secret Letters,3100,274,data structures;dp;greedy,https://codeforces.com/contest/1120/problem/F,div1
+70,1240,"Codeforces Round 591 (Div. 1, based on Technocup 2020 Elimination Round 1)",F,Football,3100,308,graphs,https://codeforces.com/contest/1240/problem/F,div1
+71,1261,"Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",F,Xor-Set,3100,422,bitmasks;divide and conquer;math,https://codeforces.com/contest/1261/problem/F,div1
+72,1286,Codeforces Round 612 (Div. 1),F,Harry The Potter,3100,271,brute force;constructive algorithms;dp;fft;implementation;math,https://codeforces.com/contest/1286/problem/F,div1
+73,2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",F,Wonderful Impostors,3100,377,data structures;implementation;two pointers,https://codeforces.com/contest/2096/problem/F,div1
+74,578,Codeforces Round 320 (Div. 1) [Bayan Thanks-Round],F,Mirror Box,3200,584,matrices;trees,https://codeforces.com/contest/578/problem/F,div1
+75,585,Codeforces Round 325 (Div. 1),F,Digits of Number Pi,3200,732,dp;implementation;strings,https://codeforces.com/contest/585/problem/F,div1
+76,827,"Codeforces Round 423 (Div. 1, rated, based on VK Cup Finals)",F,Dirty Arkady's Kitchen,3200,496,data structures;dp;graphs;shortest paths,https://codeforces.com/contest/827/problem/F,div1
+77,993,Codeforces Round 488 by NEAR (Div. 1),F,The Moral Dilemma,3200,65,,https://codeforces.com/contest/993/problem/F,div1
+78,1109,Codeforces Round 539 (Div. 1),F,Sasha and Algorithm of Silence's Sounds,3200,326,data structures;trees,https://codeforces.com/contest/1109/problem/F,div1
+79,1344,Codeforces Round 639 (Div. 1),F,Piet's Palette,3200,475,matrices,https://codeforces.com/contest/1344/problem/F,div1
+80,1383,Codeforces Round 659 (Div. 1),F,Special Edges,3200,407,flows;graphs,https://codeforces.com/contest/1383/problem/F,div1
+81,1446,"Codeforces Round 683 (Div. 1, by Meet IT)",F,Line Distance,3200,359,binary search;data structures;geometry,https://codeforces.com/contest/1446/problem/F,div1
+82,1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),F,Reunion,3200,541,combinatorics;dp;trees,https://codeforces.com/contest/1517/problem/F,div1
+83,1608,Codeforces Round 758 (Div.1 + Div. 2),F,MEX counting,3200,715,combinatorics;dp;implementation,https://codeforces.com/contest/1608/problem/F,div1
+84,1830,Codeforces Round 875 (Div. 1),F,The Third Grace,3200,308,data structures;dp,https://codeforces.com/contest/1830/problem/F,div1
+85,1967,Codeforces Round 942 (Div. 1),F,Next and Prev,3200,86,brute force;data structures;implementation,https://codeforces.com/contest/1967/problem/F,div1
+86,696,Codeforces Round 362 (Div. 1),F,...Dary!,3300,135,binary search;geometry;two pointers,https://codeforces.com/contest/696/problem/F,div1
+87,737,"Codeforces Round 380 (Div. 1, Rated, Based on Technocup 2017 - Elimination Round 2)",F,Dirty plates,3300,83,constructive algorithms;math,https://codeforces.com/contest/737/problem/F,div1
+88,949,Codeforces Round 469 (Div. 1),F,Astronomy,3300,62,geometry;probabilities,https://codeforces.com/contest/949/problem/F,div1
+89,986,Codeforces Round 485 (Div. 1),F,Oppa Funcan Style Remastered,3300,703,graphs;math;number theory;shortest paths,https://codeforces.com/contest/986/problem/F,div1
+90,1063,"Codeforces Round 516 (Div. 1, by Moscow Team Olympiad)",F,String Journey,3300,965,data structures;dp;string suffix structures,https://codeforces.com/contest/1063/problem/F,div1
+91,1083,Codeforces Round 526 (Div. 1),F,The Fair Nut and Amusing Xor,3300,301,data structures,https://codeforces.com/contest/1083/problem/F,div1
+92,1172,Codeforces Round 564 (Div. 1),F,Nauuo and Bug,3300,566,data structures,https://codeforces.com/contest/1172/problem/F,div1
+93,1307,Codeforces Round 621 (Div. 1 + Div. 2),F,Cow and Vacation,3300,629,dfs and similar;dsu;trees,https://codeforces.com/contest/1307/problem/F,div1
+94,1340,"Codeforces Round 637 (Div. 1) - Thanks, Ivan Belonogov!",F,Nastya and CBS,3300,641,brute force;data structures;hashing,https://codeforces.com/contest/1340/problem/F,div1
+95,1361,"Codeforces Round 647 (Div. 1) - Thanks, Algo Muse!",F,Johnny and New Toy,3300,168,data structures;implementation;math,https://codeforces.com/contest/1361/problem/F,div1
+96,1416,Codeforces Round 673 (Div. 1),F,Showing Off,3300,570,flows;graph matchings;greedy;implementation,https://codeforces.com/contest/1416/problem/F,div1
+97,1495,Codeforces Round 706 (Div. 1),F,Squares,3300,389,constructive algorithms;data structures;dp;graphs;trees,https://codeforces.com/contest/1495/problem/F,div1
+98,1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",F,Favorite Game,3300,458,bitmasks;dp,https://codeforces.com/contest/1523/problem/F,div1
+99,1528,Codeforces Round 722 (Div. 1),F,AmShZ Farm,3300,316,combinatorics;fft;math,https://codeforces.com/contest/1528/problem/F,div1
+100,1558,"Codeforces Round 740 (Div. 1, based on VK Cup 2021 - Final (Engine))",F,Strange Sort,3300,443,data structures;sortings,https://codeforces.com/contest/1558/problem/F,div1
+101,1580,Codeforces Round 745 (Div. 1),F,Problems for Codeforces,3300,147,combinatorics;fft;math,https://codeforces.com/contest/1580/problem/F,div1
+102,1718,Codeforces Round 814 (Div. 1),F,"Burenka, an Array and Queries",3300,182,data structures;math;number theory,https://codeforces.com/contest/1718/problem/F,div1
+103,1936,Codeforces Round 930 (Div. 1),F,Grand Finale: Circles,3300,160,binary search;geometry,https://codeforces.com/contest/1936/problem/F,div1
+104,1965,Codeforces Round 941 (Div. 1),F,Conference,3300,235,data structures;flows,https://codeforces.com/contest/1965/problem/F,div1
+105,2066,Codeforces Round 1004 (Div. 1),F,Curse,3300,57,constructive algorithms;dp;math,https://codeforces.com/contest/2066/problem/F,div1
+106,2077,Codeforces Round 1008 (Div. 1),F,AND x OR,3300,209,bitmasks;constructive algorithms;dp,https://codeforces.com/contest/2077/problem/F,div1
+107,2081,"Codeforces Round 1010 (Div. 1, Unrated)",F,Hot Matrix,3300,103,constructive algorithms;math,https://codeforces.com/contest/2081/problem/F,div1
+108,2101,Codeforces Round 1024 (Div. 1),F,Shoo Shatters the Sunshine,3300,102,combinatorics;dp;trees,https://codeforces.com/contest/2101/problem/F,div1
+109,804,Codeforces Round 411 (Div. 1),F,Fake bullions,3400,198,combinatorics;dfs and similar;dp;graphs;number theory,https://codeforces.com/contest/804/problem/F,div1
+110,1010,Codeforces Round 499 (Div. 1),F,Tree,3400,240,fft;graphs;trees,https://codeforces.com/contest/1010/problem/F,div1
+111,1012,Codeforces Round 500 (Div. 1) [based on EJOI],F,Passports,3400,193,dp;implementation,https://codeforces.com/contest/1012/problem/F,div1
+112,1045,"Bubble Cup 11 - Finals [Online Mirror, Div. 1]",F,Shady Lady,3400,111,geometry;math,https://codeforces.com/contest/1045/problem/F,div1
+113,1137,Codeforces Round 545 (Div. 1),F,Matches Are Not a Child's Play ,3400,494,data structures;trees,https://codeforces.com/contest/1137/problem/F,div1
+114,1190,Codeforces Round 573 (Div. 1),F,Tokitsukaze and Powers,3400,104,number theory;probabilities,https://codeforces.com/contest/1190/problem/F,div1
+115,1205,Codeforces Round 580 (Div. 1),F,Beauty of a Permutation,3400,135,constructive algorithms;math,https://codeforces.com/contest/1205/problem/F,div1
+116,1239,Codeforces Round 594 (Div. 1),F,"Swiper, no swiping!",3400,302,graphs;implementation,https://codeforces.com/contest/1239/problem/F,div1
+117,1276,"Codeforces Round 606 (Div. 1, based on Technocup 2020 Elimination Round 4)",F,Asterisk Substrings,3400,385,string suffix structures,https://codeforces.com/contest/1276/problem/F,div1
+118,1280,Codeforces Round 607 (Div. 1),F,Intergalactic Sliding Puzzle,3400,70,combinatorics;constructive algorithms;math,https://codeforces.com/contest/1280/problem/F,div1
+119,1442,"Codeforces Round 681 (Div. 1, based on VK Cup 2019-2020 - Final)",F,Differentiating Games,3400,156,games;interactive,https://codeforces.com/contest/1442/problem/F,div1
+120,1572,Codeforces Round 743 (Div. 1),F,Stations,3400,330,data structures,https://codeforces.com/contest/1572/problem/F,div1
+121,1601,Codeforces Round 751 (Div. 1),F,Two Sorts,3400,261,binary search;dfs and similar;math;meet-in-the-middle,https://codeforces.com/contest/1601/problem/F,div1
+122,1630,Codeforces Round 768 (Div. 1),F,Making It Bipartite,3400,745,flows;graph matchings;graphs;number theory,https://codeforces.com/contest/1630/problem/F,div1
+123,1693,Codeforces Round 800 (Div. 1),F,I Might Be Wrong,3400,546,binary search;greedy;two pointers,https://codeforces.com/contest/1693/problem/F,div1
+124,1887,Codeforces Round 905 (Div. 1),F,Minimum Segments,3400,216,constructive algorithms,https://codeforces.com/contest/1887/problem/F,div1
+125,2122,"Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",F,Colorful Polygon,3400,89,constructive algorithms;divide and conquer;geometry,https://codeforces.com/contest/2122/problem/F,div1
+126,799,"Playrix Codescapes Cup (Codeforces Round 413, rated, Div. 1 + Div. 2)",F,Beautiful fountains rows,3500,478,data structures,https://codeforces.com/contest/799/problem/F,div1
+127,1086,"Codeforces Round 528 (Div. 1, based on Technocup 2019 Elimination Round 4)",F,Forest Fires,3500,292,math,https://codeforces.com/contest/1086/problem/F,div1
+128,1098,Codeforces Round 530 (Div. 1),F,Ж-function,3500,265,string suffix structures;strings,https://codeforces.com/contest/1098/problem/F,div1
+129,1158,Codeforces Round 559 (Div. 1),F,Density of subarrays,3500,473,dp;math,https://codeforces.com/contest/1158/problem/F,div1
+130,1246,"Codeforces Round 596 (Div. 1, based on Technocup 2020 Elimination Round 2)",F,Cursor Distance,3500,201,,https://codeforces.com/contest/1246/problem/F,div1
+131,1264,Codeforces Round 604 (Div. 1),F,Beautiful Fibonacci Problem,3500,1027,constructive algorithms;number theory,https://codeforces.com/contest/1264/problem/F,div1
+132,1290,Codeforces Round 616 (Div. 1),F,Making Shapes,3500,531,dp,https://codeforces.com/contest/1290/problem/F,div1
+133,1292,Codeforces Round 614 (Div. 1),F,Nora's Toy Boxes,3500,353,bitmasks;combinatorics;dp,https://codeforces.com/contest/1292/problem/F,div1
+134,1320,"Codeforces Round 625 (Div. 1, based on Technocup 2020 Final Round)",F,Blocks and Sensors,3500,174,brute force,https://codeforces.com/contest/1320/problem/F,div1
+135,1322,"Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",F,Assigning Fares,3500,133,dp;trees,https://codeforces.com/contest/1322/problem/F,div1
+136,1336,Codeforces Round 635 (Div. 1),F,Journey,3500,240,data structures;divide and conquer;graphs;trees,https://codeforces.com/contest/1336/problem/F,div1
+137,1458,Codeforces Round 691 (Div. 1),F,Range Diameter Sum,3500,384,data structures;trees,https://codeforces.com/contest/1458/problem/F,div1
+138,1464,"Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",F,My Beautiful Madness,3500,402,data structures;trees,https://codeforces.com/contest/1464/problem/F,div1
+139,1470,Codeforces Round 694 (Div. 1),F,Strange Covering,3500,150,divide and conquer,https://codeforces.com/contest/1470/problem/F,div1
+140,1477,Codeforces Round 698 (Div. 1),F,Nezzar and Chocolate Bars,3500,157,combinatorics;fft;math;probabilities,https://codeforces.com/contest/1477/problem/F,div1
+141,1500,"Codeforces Round 707 (Div. 1, based on Moscow Open Olympiad in Informatics)",F,Cupboards Jumps,3500,374,dp,https://codeforces.com/contest/1500/problem/F,div1
+142,1503,Codeforces Round 712 (Div. 1),F,Balance the Cards,3500,203,constructive algorithms;data structures;divide and conquer;geometry;graphs;implementation,https://codeforces.com/contest/1503/problem/F,div1
+143,1508,Codeforces Round 715 (Div. 1),F,Optimal Encoding,3500,138,brute force;data structures,https://codeforces.com/contest/1508/problem/F,div1
+144,1545,Codeforces Round 732 (Div. 1),F,AquaMoon and Potatoes,3500,121,brute force;data structures;dp,https://codeforces.com/contest/1545/problem/F,div1
+145,1588,"Codeforces Round 755 (Div. 1, based on Technocup 2022 Elimination Round 2)",F,Jumping Through the Array,3500,332,binary search;data structures;graphs;two pointers,https://codeforces.com/contest/1588/problem/F,div1
+146,1628,Codeforces Round 767 (Div. 1),F,Spaceship Crisis Management,3500,92,binary search;data structures;geometry;sortings,https://codeforces.com/contest/1628/problem/F,div1
+147,1641,Codeforces Round 773 (Div. 1),F,Covering Circle,3500,114,geometry,https://codeforces.com/contest/1641/problem/F,div1
+148,1648,"Codeforces Round 775 (Div. 1, based on Moscow Open Olympiad in Informatics)",F,Two Avenues,3500,160,data structures;dfs and similar;graphs,https://codeforces.com/contest/1648/problem/F,div1
+149,1667,Codeforces Round 783 (Div. 1),F,Yin Yang,3500,110,implementation,https://codeforces.com/contest/1667/problem/F,div1
+150,1677,Codeforces Round 789 (Div. 1),F,Tokitsukaze and Gems,3500,103,dp;math,https://codeforces.com/contest/1677/problem/F,div1
+151,1687,Codeforces Round 796 (Div. 1),F,Koishi's Unconscious Permutation,3500,98,fft;math,https://codeforces.com/contest/1687/problem/F,div1
+152,1707,Codeforces Round 808 (Div. 1),F,Bugaboo,3500,167,bitmasks;constructive algorithms;dp;number theory,https://codeforces.com/contest/1707/problem/F,div1
+153,1753,Codeforces Round 829 (Div. 1),F,Minecraft Series,3500,231,brute force;two pointers,https://codeforces.com/contest/1753/problem/F,div1
+154,1815,Codeforces Round 865 (Div. 1),F,OH NO1 (-2-3-4),3500,303,constructive algorithms;graphs;math,https://codeforces.com/contest/1815/problem/F,div1
+155,1817,Codeforces Round 869 (Div. 1),F,Entangled Substrings,3500,268,string suffix structures;strings,https://codeforces.com/contest/1817/problem/F,div1
+156,1819,Codeforces Round 866 (Div. 1),F,"Willy-nilly, Crack, Into Release!",3500,146,data structures;dp,https://codeforces.com/contest/1819/problem/F,div1
+157,1827,Codeforces Round 873 (Div. 1),F,Copium Permutation,3500,127,constructive algorithms;data structures;greedy,https://codeforces.com/contest/1827/problem/F,div1
+158,1835,Codeforces Round 880 (Div. 1),F,Good Graph,3500,213,bitmasks;dfs and similar;graph matchings;graphs;implementation,https://codeforces.com/contest/1835/problem/F,div1
+159,1852,Codeforces Round 887 (Div. 1),F,Panda Meetups,3500,140,data structures;dp;flows,https://codeforces.com/contest/1852/problem/F,div1
+160,1854,Codeforces Round 889 (Div. 1),F,Mark and Spaceship,3500,134,brute force;dp,https://codeforces.com/contest/1854/problem/F,div1
+161,1868,Codeforces Round 896 (Div. 1),F,LIS?,3500,85,data structures;greedy;implementation,https://codeforces.com/contest/1868/problem/F,div1
+162,1874,Codeforces Round 901 (Div. 1),F,Jellyfish and OEIS,3500,315,dp,https://codeforces.com/contest/1874/problem/F,div1
+163,1876,"Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",F,Indefinite Clownfish,3500,180,binary search;graphs,https://codeforces.com/contest/1876/problem/F,div1
+164,1889,Codeforces Round 906 (Div. 1),F,Doremy's Average Tree,3500,141,data structures;dp;greedy;trees,https://codeforces.com/contest/1889/problem/F,div1
+165,1924,Codeforces Round 921 (Div. 1),F,Anti-Proxy Attendance,3500,188,constructive algorithms;dp;interactive;ternary search,https://codeforces.com/contest/1924/problem/F,div1
+166,1943,Codeforces Round 934 (Div. 1),F,Minimum Hamming Distance,3500,131,dp,https://codeforces.com/contest/1943/problem/F,div1
+167,2006,Codeforces Round 969 (Div. 1),F,Dora's Paint,3500,145,brute force;combinatorics;constructive algorithms;graphs;implementation,https://codeforces.com/contest/2006/problem/F,div1
+168,2023,Codeforces Round 980 (Div. 1),F,Hills and Pits,3500,102,data structures;greedy;math;matrices,https://codeforces.com/contest/2023/problem/F,div1
+169,2097,Codeforces Round 1021 (Div. 1),F,Lost Luggage,3500,88,dp;flows,https://codeforces.com/contest/2097/problem/F,div1

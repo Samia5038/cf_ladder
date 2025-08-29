@@ -1,0 +1,13 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1497,Codeforces Round 708 (Div. 2),C2,k-LCM (hard version),1600,18570,constructive algorithms;math,https://codeforces.com/contest/1497/problem/C2,div2
+2,1526,Codeforces Round 723 (Div. 2),C2,Potions (Hard Version),1600,26310,data structures;greedy,https://codeforces.com/contest/1526/problem/C2,div2
+3,1185,Codeforces Round 568 (Div. 2),C2,Exam in BerSU (hard version),1700,7649,brute force;data structures;greedy;math,https://codeforces.com/contest/1185/problem/C2,div2
+4,2109,Codeforces Round 1025 (Div. 2),C2,Hacking Numbers (Medium Version),1700,7352,constructive algorithms;interactive;math;number theory,https://codeforces.com/contest/2109/problem/C2,div2
+5,1163,Codeforces Round 558 (Div. 2),C2,Power Transmission (Hard Edition),1900,3860,data structures;geometry;implementation;math,https://codeforces.com/contest/1163/problem/C2,div2
+6,1313,Codeforces Round 622 (Div. 2),C2,Skyscrapers (hard version),1900,6869,data structures;dp;greedy,https://codeforces.com/contest/1313/problem/C2,div2
+7,1486,Codeforces Round 703 (Div. 2),C2,Guessing the Greatest (hard version),1900,9347,binary search;interactive,https://codeforces.com/contest/1486/problem/C2,div2
+8,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",C2,Adjust The Presentation (Hard Version),1900,4223,constructive algorithms;data structures;greedy;implementation;sortings,https://codeforces.com/contest/2021/problem/C2,div2
+9,1354,Educational Codeforces Round 87 (Rated for Div. 2),C2,Not So Simple Polygon Embedding,2000,6240,binary search;brute force;geometry;math,https://codeforces.com/contest/1354/problem/C2,div2
+10,1420,Codeforces Round 672 (Div. 2),C2,Pokémon Army (hard version),2100,4947,data structures;divide and conquer;dp;greedy;implementation,https://codeforces.com/contest/1420/problem/C2,div2
+11,1732,Codeforces Round 830 (Div. 2),C2,Sheikh (Hard Version),2100,2789,binary search;bitmasks;brute force;greedy;implementation;two pointers,https://codeforces.com/contest/1732/problem/C2,div2
+12,1736,Codeforces Round 825 (Div. 2),C2,Good Subarrays (Hard Version),2400,1398,binary search;data structures;dp;two pointers,https://codeforces.com/contest/1736/problem/C2,div2

@@ -1,0 +1,8 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1669,Codeforces Round 784 (Div. 4),F,Eating Candies,1100,32769,binary search;data structures;greedy;two pointers,https://codeforces.com/contest/1669/problem/F,div4
+2,1692,Codeforces Round 799 (Div. 4),F,3SUM,1300,25639,brute force;math,https://codeforces.com/contest/1692/problem/F,div4
+3,1703,Codeforces Round 806 (Div. 4),F,Yet Another Problem About Pairs Satisfying an Inequality,1300,24983,binary search;data structures;dp;greedy;sortings,https://codeforces.com/contest/1703/problem/F,div4
+4,1850,Codeforces Round 886 (Div. 4),F,We Were Both Children,1300,22605,brute force;implementation;math;number theory,https://codeforces.com/contest/1850/problem/F,div4
+5,1829,Codeforces Round 871 (Div. 4),F,Forever Winter,1300,20148,dfs and similar;graphs;math,https://codeforces.com/contest/1829/problem/F,div4
+6,1676,Codeforces Round 790 (Div. 4),F,Longest Strike,1300,18893,data structures;greedy;implementation;sortings;two pointers,https://codeforces.com/contest/1676/problem/F,div4
+7,1873,Codeforces Round 898 (Div. 4),F,Money Trees,1300,18211,binary search;greedy;math;two pointers,https://codeforces.com/contest/1873/problem/F,div4

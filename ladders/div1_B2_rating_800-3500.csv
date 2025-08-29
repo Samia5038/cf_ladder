@@ -1,0 +1,8 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1254,Codeforces Round 601 (Div. 1),B2,Send Boxes to Alice (Hard Version),2100,3323,constructive algorithms;greedy;math;number theory;ternary search;two pointers,https://codeforces.com/contest/1254/problem/B2,div1
+2,1479,Codeforces Round 700 (Div. 1),B2,Painting the Array II,2100,4254,constructive algorithms;data structures;dp;greedy;implementation,https://codeforces.com/contest/1479/problem/B2,div1
+3,1868,Codeforces Round 896 (Div. 1),B2,Candy Party (Hard Version),2100,2599,bitmasks;constructive algorithms;dp;greedy;implementation;math,https://codeforces.com/contest/1868/problem/B2,div1
+4,1967,Codeforces Round 942 (Div. 1),B2,Reverse Card (Hard Version),2200,4472,brute force;math;number theory,https://codeforces.com/contest/1967/problem/B2,div1
+5,1824,Codeforces Round 872 (Div. 1),B2,LuoTianyi and the Floating Islands (Hard Version),2300,3078,combinatorics;dfs and similar;math;probabilities;trees,https://codeforces.com/contest/1824/problem/B2,div1
+6,2089,Codeforces Round 1012 (Div. 1),B2,Canteen (Hard Version),2300,1069,binary search;data structures;dp;flows;greedy;two pointers,https://codeforces.com/contest/2089/problem/B2,div1
+7,1827,Codeforces Round 873 (Div. 1),B2,Range Sorting (Hard Version),2400,2116,binary search;data structures;dp;greedy,https://codeforces.com/contest/1827/problem/B2,div1

@@ -1,0 +1,8 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1967,Codeforces Round 942 (Div. 1),B1,Reverse Card (Easy Version),1400,15080,brute force;math;number theory,https://codeforces.com/contest/1967/problem/B1,div1
+2,1868,Codeforces Round 896 (Div. 1),B1,Candy Party (Easy Version),1700,7731,bitmasks;constructive algorithms;graphs;greedy;implementation;math,https://codeforces.com/contest/1868/problem/B1,div1
+3,1254,Codeforces Round 601 (Div. 1),B1,Send Boxes to Alice (Easy Version),1800,4857,constructive algorithms;greedy;math;number theory;ternary search;two pointers,https://codeforces.com/contest/1254/problem/B1,div1
+4,1824,Codeforces Round 872 (Div. 1),B1,LuoTianyi and the Floating Islands (Easy Version),1800,5380,combinatorics;math;probabilities;trees,https://codeforces.com/contest/1824/problem/B1,div1
+5,1479,Codeforces Round 700 (Div. 1),B1,Painting the Array I,1900,7241,constructive algorithms;data structures;dp;greedy;implementation,https://codeforces.com/contest/1479/problem/B1,div1
+6,2089,Codeforces Round 1012 (Div. 1),B1,Canteen (Easy Version),1900,2670,binary search;data structures;flows;greedy;two pointers,https://codeforces.com/contest/2089/problem/B1,div1
+7,1827,Codeforces Round 873 (Div. 1),B1,Range Sorting (Easy Version),2000,4267,binary search;dp;dsu;greedy;trees;two pointers,https://codeforces.com/contest/1827/problem/B1,div1

@@ -1,0 +1,9 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1196,Codeforces Round 575 (Div. 3),D2,RGB Substring (hard version),1600,10198,data structures;dp;implementation;two pointers,https://codeforces.com/contest/1196/problem/D2,div3
+2,1213,Codeforces Round 582 (Div. 3),D2,Equalizing by Division (hard version),1600,11897,brute force;math;sortings,https://codeforces.com/contest/1213/problem/D2,div3
+3,1118,Codeforces Round 540 (Div. 3),D2,Coffee and Coursework (Hard Version),1700,6602,binary search;greedy,https://codeforces.com/contest/1118/problem/D2,div3
+4,1203,Codeforces Round 579 (Div. 3),D2,Remove the Substring (hard version),1700,7810,binary search;greedy;implementation;two pointers,https://codeforces.com/contest/1203/problem/D2,div3
+5,1249,Codeforces Round 595 (Div. 3),D2,Too Many Segments (hard version),1800,5584,data structures;greedy;sortings,https://codeforces.com/contest/1249/problem/D2,div3
+6,1593,Codeforces Round 748 (Div. 3),D2,Half of Same,1900,5345,brute force;math;number theory,https://codeforces.com/contest/1593/problem/D2,div3
+7,1551,Codeforces Round 734 (Div. 3),D2,Domino (hard version),2100,2886,constructive algorithms;implementation;math,https://codeforces.com/contest/1551/problem/D2,div3
+8,1092,Codeforces Round 527 (Div. 3),D2,Great Vova Wall (Version 2),2200,3209,data structures;implementation,https://codeforces.com/contest/1092/problem/D2,div3

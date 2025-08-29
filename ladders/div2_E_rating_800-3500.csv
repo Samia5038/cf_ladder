@@ -1,0 +1,601 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,166,Codeforces Round 113 (Div. 2),E,Tetrahedron,1500,23634,dp;math;matrices,https://codeforces.com/contest/166/problem/E,div2
+2,1101,Educational Codeforces Round 58 (Rated for Div. 2),E,Polycarp's New Job,1500,8122,implementation,https://codeforces.com/contest/1101/problem/E,div2
+3,234,"Codeforces Round 145 (Div. 2, ACM-ICPC Rules)",E,Champions' League,1600,1027,implementation,https://codeforces.com/contest/234/problem/E,div2
+4,659,Codeforces Round 346 (Div. 2),E,New Reform,1600,7781,data structures;dfs and similar;dsu;graphs;greedy,https://codeforces.com/contest/659/problem/E,div2
+5,898,Codeforces Round 451 (Div. 2),E,Squares and not squares,1600,4782,constructive algorithms;greedy,https://codeforces.com/contest/898/problem/E,div2
+6,131,Codeforces Beta Round 95 (Div. 2),E,Yet Another Task with Queens,1700,1983,sortings,https://codeforces.com/contest/131/problem/E,div2
+7,670,Codeforces Round 350 (Div. 2),E,Correct Bracket Sequence Editor,1700,3326,data structures;dsu;strings,https://codeforces.com/contest/670/problem/E,div2
+8,747,Codeforces Round 387 (Div. 2),E,Comments,1700,2043,dfs and similar;expression parsing;implementation;strings,https://codeforces.com/contest/747/problem/E,div2
+9,2104,Educational Codeforces Round 178 (Rated for Div. 2),E,Unpleasant Strings,1700,6899,binary search;dp;greedy;strings,https://codeforces.com/contest/2104/problem/E,div2
+10,69,Codeforces Beta Round 63 (Div. 2),E,Subsegments,1800,4754,data structures;implementation,https://codeforces.com/contest/69/problem/E,div2
+11,180,"Codeforces Round 116 (Div. 2, ACM-ICPC Rules)",E,Cubes,1800,1954,binary search;dp;two pointers,https://codeforces.com/contest/180/problem/E,div2
+12,182,Codeforces Round 117 (Div. 2),E,Wooden Fence,1800,1579,dp,https://codeforces.com/contest/182/problem/E,div2
+13,939,Codeforces Round 464 (Div. 2),E,Maximize!,1800,3295,binary search;greedy;ternary search;two pointers,https://codeforces.com/contest/939/problem/E,div2
+14,991,Codeforces Round 491 (Div. 2),E,Bus Number,1800,3618,brute force;combinatorics;math,https://codeforces.com/contest/991/problem/E,div2
+15,1327,Educational Codeforces Round 84 (Rated for Div. 2),E,Count The Blocks,1800,9336,combinatorics;dp;math,https://codeforces.com/contest/1327/problem/E,div2
+16,1922,Educational Codeforces Round 161 (Rated for Div. 2),E,Increasing Subsequences,1800,8591,bitmasks;constructive algorithms;divide and conquer;greedy;math,https://codeforces.com/contest/1922/problem/E,div2
+17,6,Codeforces Beta Round 6 (Div. 2 Only),E,Exposition,1900,3512,binary search;data structures;dsu;trees;two pointers,https://codeforces.com/contest/6/problem/E,div2
+18,14,Codeforces Beta Round 14 (Div. 2),E,Camels,1900,1889,dp,https://codeforces.com/contest/14/problem/E,div2
+19,16,Codeforces Beta Round 16 (Div. 2 Only),E,Fish,1900,5943,bitmasks;dp;probabilities,https://codeforces.com/contest/16/problem/E,div2
+20,41,Codeforces Beta Round 40 (Div. 2),E,3-cycles,1900,2083,constructive algorithms;graphs;greedy,https://codeforces.com/contest/41/problem/E,div2
+21,61,Codeforces Beta Round 57 (Div. 2),E,Enemy is weak,1900,13216,data structures;trees,https://codeforces.com/contest/61/problem/E,div2
+22,148,Codeforces Round 105 (Div. 2),E,Porcelain,1900,4484,dp,https://codeforces.com/contest/148/problem/E,div2
+23,222,Codeforces Round 137 (Div. 2),E,Decoding Genome,1900,3279,dp;matrices,https://codeforces.com/contest/222/problem/E,div2
+24,228,Codeforces Round 141 (Div. 2),E,The Road to Berland is Paved With Good Intentions,1900,2670,2-sat;dfs and similar;dsu;graphs,https://codeforces.com/contest/228/problem/E,div2
+25,279,Codeforces Round 171 (Div. 2),E,Beautiful Decomposition,1900,1507,dp;games;greedy;number theory,https://codeforces.com/contest/279/problem/E,div2
+26,459,Codeforces Round 261 (Div. 2),E,Pashmak and Graph,1900,5752,dp;sortings,https://codeforces.com/contest/459/problem/E,div2
+27,479,Codeforces Round 274 (Div. 2),E,Riding in a Lift,1900,5380,combinatorics;dp,https://codeforces.com/contest/479/problem/E,div2
+28,746,Codeforces Round 386 (Div. 2),E,Numbers Exchange,1900,1794,greedy;implementation;math,https://codeforces.com/contest/746/problem/E,div2
+29,909,Codeforces Round 455 (Div. 2),E,Coprocessor,1900,2297,dfs and similar;dp;graphs;greedy,https://codeforces.com/contest/909/problem/E,div2
+30,959,Codeforces Round 473 (Div. 2),E,Mahmoud and Ehab and the xor-MST,1900,3639,bitmasks;dp;graphs;implementation;math,https://codeforces.com/contest/959/problem/E,div2
+31,961,Educational Codeforces Round 41 (Rated for Div. 2),E,Tufurama,1900,3987,data structures,https://codeforces.com/contest/961/problem/E,div2
+32,1041,Codeforces Round 509 (Div. 2),E,Tree Reconstruction,1900,3735,constructive algorithms;data structures;graphs;greedy,https://codeforces.com/contest/1041/problem/E,div2
+33,1076,Educational Codeforces Round 54 (Rated for Div. 2),E,Vasya and a Tree,1900,3960,data structures;trees,https://codeforces.com/contest/1076/problem/E,div2
+34,1207,Educational Codeforces Round 71 (Rated for Div. 2),E,XOR Guessing,1900,6383,bitmasks;interactive;math,https://codeforces.com/contest/1207/problem/E,div2
+35,1365,Codeforces Round 648 (Div. 2),E,Maximum Subsequence Value,1900,8103,brute force;constructive algorithms,https://codeforces.com/contest/1365/problem/E,div2
+36,1430,Educational Codeforces Round 96 (Rated for Div. 2),E,String Reversal,1900,6999,data structures;greedy;strings,https://codeforces.com/contest/1430/problem/E,div2
+37,1600,"Bubble Cup 14 - Finals Online Mirror (Unrated, ICPC Rules, Teams Preferred, Div. 2)",E,Array Game,1900,2290,games;greedy;two pointers,https://codeforces.com/contest/1600/problem/E,div2
+38,1620,Educational Codeforces Round 119 (Rated for Div. 2),E,Replace the Numbers,1900,9016,constructive algorithms;data structures;dsu;implementation,https://codeforces.com/contest/1620/problem/E,div2
+39,1644,Educational Codeforces Round 123 (Rated for Div. 2),E,Expand the Path,1900,3380,brute force;combinatorics;data structures;implementation;math,https://codeforces.com/contest/1644/problem/E,div2
+40,1902,Educational Codeforces Round 159 (Rated for Div. 2),E,Collapsing Strings,1900,5016,data structures;strings;trees,https://codeforces.com/contest/1902/problem/E,div2
+41,2111,Educational Codeforces Round 179 (Rated for Div. 2),E,Changing the String,1900,4703,binary search;data structures;greedy;implementation;sortings;strings,https://codeforces.com/contest/2111/problem/E,div2
+42,18,Codeforces Beta Round 18 (Div. 2 Only),E,Flag 2,2000,1185,dp,https://codeforces.com/contest/18/problem/E,div2
+43,27,"Codeforces Beta Round 27 (Codeforces format, Div. 2)",E,Number With The Given Amount Of Divisors,2000,4582,brute force;dp;number theory,https://codeforces.com/contest/27/problem/E,div2
+44,34,Codeforces Beta Round 34 (Div. 2),E,Collisions,2000,622,brute force;implementation;math,https://codeforces.com/contest/34/problem/E,div2
+45,59,Codeforces Beta Round 55 (Div. 2),E,Shortest Path,2000,4193,graphs;shortest paths,https://codeforces.com/contest/59/problem/E,div2
+46,63,Codeforces Beta Round 59 (Div. 2),E,Sweets Game,2000,812,bitmasks;dfs and similar;dp;games;implementation,https://codeforces.com/contest/63/problem/E,div2
+47,66,Codeforces Beta Round 61 (Div. 2),E,Petya and Post,2000,828,data structures;dp,https://codeforces.com/contest/66/problem/E,div2
+48,118,Codeforces Beta Round 89 (Div. 2),E,Bertown roads,2000,7516,dfs and similar;graphs,https://codeforces.com/contest/118/problem/E,div2
+49,137,Codeforces Beta Round 98 (Div. 2),E,Last Chance,2000,1291,data structures;implementation;strings,https://codeforces.com/contest/137/problem/E,div2
+50,195,Codeforces Round 123 (Div. 2),E,Building Forest,2000,792,data structures;dsu;graphs,https://codeforces.com/contest/195/problem/E,div2
+51,216,Codeforces Round 133 (Div. 2),E,Martian Luck,2000,612,math;number theory,https://codeforces.com/contest/216/problem/E,div2
+52,237,Codeforces Round 147 (Div. 2),E,Build String,2000,1862,flows;graphs,https://codeforces.com/contest/237/problem/E,div2
+53,242,Codeforces Round 149 (Div. 2),E,XOR on Segment,2000,10715,bitmasks;data structures,https://codeforces.com/contest/242/problem/E,div2
+54,250,"CROC-MBTU 2012, Final Round (Online version, Div. 2)",E,Mad Joe,2000,491,brute force,https://codeforces.com/contest/250/problem/E,div2
+55,340,Codeforces Round 198 (Div. 2),E,Iahub and Permutations,2000,2606,combinatorics;math,https://codeforces.com/contest/340/problem/E,div2
+56,371,Codeforces Round 218 (Div. 2),E,Subway Innovation,2000,1378,greedy;math;two pointers,https://codeforces.com/contest/371/problem/E,div2
+57,427,Codeforces Round 244 (Div. 2),E,Police Patrol,2000,1526,greedy;implementation;math;ternary search,https://codeforces.com/contest/427/problem/E,div2
+58,474,Codeforces Round 271 (Div. 2),E,Pillars,2000,3829,binary search;data structures;dp;sortings;trees,https://codeforces.com/contest/474/problem/E,div2
+59,490,Codeforces Round 279 (Div. 2),E,Restoring Increasing Sequence,2000,1656,binary search;brute force;greedy;implementation,https://codeforces.com/contest/490/problem/E,div2
+60,492,Codeforces Round 280 (Div. 2),E,Vanya and Field,2000,1689,math,https://codeforces.com/contest/492/problem/E,div2
+61,509,"Codeforces Round 289 (Div. 2, ACM ICPC Rules)",E,Pretty Song,2000,1839,math;strings,https://codeforces.com/contest/509/problem/E,div2
+62,545,Codeforces Round 303 (Div. 2),E,Paths and Trees,2000,5151,graphs;greedy;shortest paths,https://codeforces.com/contest/545/problem/E,div2
+63,621,Codeforces Round 341 (Div. 2),E,Wet Shark and Blocks,2000,3035,dp;matrices,https://codeforces.com/contest/621/problem/E,div2
+64,689,Codeforces Round 361 (Div. 2),E,Mike and Geometry Problem,2000,2045,combinatorics;data structures;dp;geometry;implementation,https://codeforces.com/contest/689/problem/E,div2
+65,761,Codeforces Round 394 (Div. 2),E,Dasha and Puzzle,2000,2267,constructive algorithms;dfs and similar;graphs;greedy;trees,https://codeforces.com/contest/761/problem/E,div2
+66,777,Codeforces Round 401 (Div. 2),E,Hanoi Factory,2000,4361,brute force;data structures;dp;greedy;sortings,https://codeforces.com/contest/777/problem/E,div2
+67,864,Codeforces Round 436 (Div. 2),E,Fire,2000,4459,dp;sortings,https://codeforces.com/contest/864/problem/E,div2
+68,877,Codeforces Round 442 (Div. 2),E,Danil and a Part-time Job,2000,5021,bitmasks;data structures;trees,https://codeforces.com/contest/877/problem/E,div2
+69,893,Educational Codeforces Round 33 (Rated for Div. 2),E,Counting Arrays,2000,3934,combinatorics;dp;math;number theory,https://codeforces.com/contest/893/problem/E,div2
+70,899,Codeforces Round 452 (Div. 2),E,Segments Removal,2000,3320,data structures;dsu;flows;implementation;two pointers,https://codeforces.com/contest/899/problem/E,div2
+71,911,Educational Codeforces Round 35 (Rated for Div. 2),E,Stack Sorting,2000,2703,constructive algorithms;data structures;greedy;implementation,https://codeforces.com/contest/911/problem/E,div2
+72,940,Codeforces Round 466 (Div. 2),E,Cashback,2000,4124,data structures;dp;greedy;math,https://codeforces.com/contest/940/problem/E,div2
+73,954,Educational Codeforces Round 40 (Rated for Div. 2),E,Water Taps,2000,2000,binary search;greedy;sortings,https://codeforces.com/contest/954/problem/E,div2
+74,1009,Educational Codeforces Round 47 (Rated for Div. 2),E,Intercity Travelling,2000,3168,combinatorics;math;probabilities,https://codeforces.com/contest/1009/problem/E,div2
+75,1082,Educational Codeforces Round 55 (Rated for Div. 2),E,Increasing Frequency,2000,5455,binary search;dp;greedy,https://codeforces.com/contest/1082/problem/E,div2
+76,1185,Codeforces Round 568 (Div. 2),E,Polycarp and Snakes,2000,2743,brute force;implementation,https://codeforces.com/contest/1185/problem/E,div2
+77,1200,Codeforces Round 578 (Div. 2),E,Compress Words,2000,8536,brute force;hashing;implementation;string suffix structures;strings,https://codeforces.com/contest/1200/problem/E,div2
+78,1244,Codeforces Round 592 (Div. 2),E,Minimizing Difference,2000,5803,binary search;constructive algorithms;greedy;sortings;ternary search;two pointers,https://codeforces.com/contest/1244/problem/E,div2
+79,1257,Educational Codeforces Round 76 (Rated for Div. 2),E,The Contest,2000,4408,data structures;dp;greedy,https://codeforces.com/contest/1257/problem/E,div2
+80,1288,Educational Codeforces Round 80 (Rated for Div. 2),E,Messenger Simulator,2000,3817,data structures,https://codeforces.com/contest/1288/problem/E,div2
+81,1304,Codeforces Round 620 (Div. 2),E,1-Trees and Queries,2000,5578,data structures;dfs and similar;shortest paths;trees,https://codeforces.com/contest/1304/problem/E,div2
+82,1359,Educational Codeforces Round 88 (Rated for Div. 2),E,Modular Stability,2000,6380,combinatorics;math;number theory,https://codeforces.com/contest/1359/problem/E,div2
+83,1363,Codeforces Round 646 (Div. 2),E,Tree Shuffling,2000,7151,dfs and similar;dp;greedy;trees,https://codeforces.com/contest/1363/problem/E,div2
+84,1487,Educational Codeforces Round 104 (Rated for Div. 2),E,Cheap Dinner,2000,4862,brute force;data structures;graphs;greedy;implementation;sortings;two pointers,https://codeforces.com/contest/1487/problem/E,div2
+85,1582,Codeforces Round 750 (Div. 2),E,Pchelyonok and Segments,2000,3985,binary search;data structures;dp;greedy;math,https://codeforces.com/contest/1582/problem/E,div2
+86,1612,Educational Codeforces Round 117 (Rated for Div. 2),E,Messages,2000,2687,brute force;dp;greedy;probabilities;sortings,https://codeforces.com/contest/1612/problem/E,div2
+87,1613,Educational Codeforces Round 118 (Rated for Div. 2),E,Crazy Robot,2000,5632,dfs and similar;graphs,https://codeforces.com/contest/1613/problem/E,div2
+88,1680,Educational Codeforces Round 128 (Rated for Div. 2),E,Moving Chips,2000,4079,bitmasks;dp;greedy,https://codeforces.com/contest/1680/problem/E,div2
+89,1731,Codeforces Round 841 (Div. 2) and Divide by Zero 2022,E,Graph Cost,2000,3251,dp;greedy;math;number theory,https://codeforces.com/contest/1731/problem/E,div2
+90,1903,Codeforces Round 912 (Div. 2),E,Geo Game,2000,2340,greedy;interactive;math,https://codeforces.com/contest/1903/problem/E,div2
+91,1923,Educational Codeforces Round 162 (Rated for Div. 2),E,Count Paths,2000,4558,data structures;dfs and similar;dp;dsu;graphs;trees,https://codeforces.com/contest/1923/problem/E,div2
+92,1978,Codeforces Round 953 (Div. 2),E,Computing Machine,2000,4312,brute force;data structures;dp;greedy;implementation,https://codeforces.com/contest/1978/problem/E,div2
+93,2020,Codeforces Round 976 (Div. 2) and Divide By Zero 9.0,E,Expected Power,2000,3589,bitmasks;dp;math;probabilities,https://codeforces.com/contest/2020/problem/E,div2
+94,12,Codeforces Beta Round 12 (Div 2 Only),E,Start of the session,2100,1360,constructive algorithms,https://codeforces.com/contest/12/problem/E,div2
+95,35,Codeforces Beta Round 35 (Div. 2),E,Parade,2100,832,data structures;sortings,https://codeforces.com/contest/35/problem/E,div2
+96,106,Codeforces Beta Round 82 (Div. 2),E,Space Rescuers,2100,920,geometry;ternary search,https://codeforces.com/contest/106/problem/E,div2
+97,190,Codeforces Round 120 (Div. 2),E,Counter Attack,2100,1631,data structures;dsu;graphs;hashing;sortings,https://codeforces.com/contest/190/problem/E,div2
+98,208,Codeforces Round 130 (Div. 2),E,Blood Cousins,2100,7874,binary search;data structures;dfs and similar;trees,https://codeforces.com/contest/208/problem/E,div2
+99,215,Codeforces Round 132 (Div. 2),E,Periodical Numbers,2100,620,combinatorics;dp;number theory,https://codeforces.com/contest/215/problem/E,div2
+100,225,Codeforces Round 139 (Div. 2),E,Unsolvable,2100,854,math;number theory,https://codeforces.com/contest/225/problem/E,div2
+101,231,Codeforces Round 143 (Div. 2),E,Cactus,2100,2097,data structures;dfs and similar;dp;graphs;trees,https://codeforces.com/contest/231/problem/E,div2
+102,254,Codeforces Round 155 (Div. 2),E,Dormitory,2100,709,dp;implementation,https://codeforces.com/contest/254/problem/E,div2
+103,268,Codeforces Round 164 (Div. 2),E,Playlist,2100,1050,math;probabilities;sortings,https://codeforces.com/contest/268/problem/E,div2
+104,276,Codeforces Round 169 (Div. 2),E,Little Girl and Problem on Trees,2100,1728,data structures;graphs;trees,https://codeforces.com/contest/276/problem/E,div2
+105,400,Codeforces Round 234 (Div. 2),E,Inna and Binary Logic,2100,1013,binary search;bitmasks;data structures,https://codeforces.com/contest/400/problem/E,div2
+106,439,Codeforces Round 251 (Div. 2),E,Devu and Birthday Celebration,2100,1678,combinatorics;dp;math,https://codeforces.com/contest/439/problem/E,div2
+107,463,Codeforces Round 264 (Div. 2),E,Caisa and Tree,2100,1678,brute force;dfs and similar;math;number theory;trees,https://codeforces.com/contest/463/problem/E,div2
+108,466,Codeforces Round 266 (Div. 2),E,Information Graph,2100,2392,dfs and similar;dsu;graphs;trees,https://codeforces.com/contest/466/problem/E,div2
+109,496,Codeforces Round 283 (Div. 2),E,Distributing Parts ,2100,1705,greedy;sortings,https://codeforces.com/contest/496/problem/E,div2
+110,507,Codeforces Round 287 (Div. 2),E,Breaking Good,2100,3108,dfs and similar;dp;graphs;shortest paths,https://codeforces.com/contest/507/problem/E,div2
+111,519,Codeforces Round 294 (Div. 2),E,A and B and Lecture Rooms,2100,7698,binary search;data structures;dfs and similar;dp;trees,https://codeforces.com/contest/519/problem/E,div2
+112,525,Codeforces Round 297 (Div. 2),E,Anya and Cubes,2100,3787,binary search;bitmasks;brute force;dp;math;meet-in-the-middle,https://codeforces.com/contest/525/problem/E,div2
+113,540,Codeforces Round 301 (Div. 2),E,Infinite Inversions,2100,2301,binary search;data structures;implementation;sortings;trees,https://codeforces.com/contest/540/problem/E,div2
+114,546,Codeforces Round 304 (Div. 2),E,Soldier and Traveling,2100,4115,flows;graphs;math,https://codeforces.com/contest/546/problem/E,div2
+115,552,Codeforces Round 308 (Div. 2),E,Vanya and Brackets,2100,1675,brute force;dp;expression parsing;greedy;implementation;strings,https://codeforces.com/contest/552/problem/E,div2
+116,615,Codeforces Round 338 (Div. 2),E,Hexagons,2100,1011,binary search;implementation;math,https://codeforces.com/contest/615/problem/E,div2
+117,732,Codeforces Round 377 (Div. 2),E,Sockets,2100,1638,greedy;sortings,https://codeforces.com/contest/732/problem/E,div2
+118,734,Codeforces Round 379 (Div. 2),E,Anton and Tree,2100,4697,dfs and similar;dp;trees,https://codeforces.com/contest/734/problem/E,div2
+119,766,Codeforces Round 396 (Div. 2),E,Mahmoud and a xor trip,2100,3263,bitmasks;constructive algorithms;data structures;dfs and similar;dp;math;trees,https://codeforces.com/contest/766/problem/E,div2
+120,821,Codeforces Round 420 (Div. 2),E,Okabe and El Psy Kongroo,2100,1571,dp;matrices,https://codeforces.com/contest/821/problem/E,div2
+121,862,Codeforces Round 435 (Div. 2),E,Mahmoud and Ehab and the function,2100,1905,binary search;data structures;sortings,https://codeforces.com/contest/862/problem/E,div2
+122,894,Codeforces Round 447 (Div. 2),E,Ralph and Mushrooms,2100,2687,dp;graphs,https://codeforces.com/contest/894/problem/E,div2
+123,900,Codeforces Round 450 (Div. 2),E,Maximum Questions,2100,1315,data structures;dp;strings,https://codeforces.com/contest/900/problem/E,div2
+124,919,Codeforces Round 460 (Div. 2),E,Congruence Equation,2100,2301,chinese remainder theorem;math;number theory,https://codeforces.com/contest/919/problem/E,div2
+125,920,Educational Codeforces Round 37 (Rated for Div. 2),E,Connected Components?,2100,7072,data structures;dfs and similar;dsu;graphs,https://codeforces.com/contest/920/problem/E,div2
+126,976,Educational Codeforces Round 43 (Rated for Div. 2),E,Well played!,2100,2477,greedy;sortings,https://codeforces.com/contest/976/problem/E,div2
+127,985,Educational Codeforces Round 44 (Rated for Div. 2),E,Pencils and Boxes,2100,3975,binary search;data structures;dp;greedy;two pointers,https://codeforces.com/contest/985/problem/E,div2
+128,990,Educational Codeforces Round 45 (Rated for Div. 2),E,Post Lamps,2100,2099,brute force;greedy,https://codeforces.com/contest/990/problem/E,div2
+129,1000,Educational Codeforces Round 46 (Rated for Div. 2),E,We Need More Bosses,2100,5661,dfs and similar;graphs;trees,https://codeforces.com/contest/1000/problem/E,div2
+130,1027,Educational Codeforces Round 49 (Rated for Div. 2),E,Inverse Coloring,2100,2259,combinatorics;dp;math,https://codeforces.com/contest/1027/problem/E,div2
+131,1106,Codeforces Round 536 (Div. 2),E,Lunar New Year and Red Envelopes,2100,2696,data structures;dp,https://codeforces.com/contest/1106/problem/E,div2
+132,1151,Codeforces Round 553 (Div. 2),E,Number of Components,2100,3534,combinatorics;data structures;dp;math,https://codeforces.com/contest/1151/problem/E,div2
+133,1166,Codeforces Round 561 (Div. 2),E,The LCMs Must be Large,2100,2911,bitmasks;brute force;constructive algorithms;math;number theory,https://codeforces.com/contest/1166/problem/E,div2
+134,1167,Educational Codeforces Round 65 (Rated for Div. 2),E,Range Deleting,2100,2798,binary search;combinatorics;data structures;two pointers,https://codeforces.com/contest/1167/problem/E,div2
+135,1187,Educational Codeforces Round 67 (Rated for Div. 2),E,Tree Painting,2100,9731,dfs and similar;dp;trees,https://codeforces.com/contest/1187/problem/E,div2
+136,1195,Codeforces Round 574 (Div. 2),E,OpenStreetMap,2100,3325,data structures;two pointers,https://codeforces.com/contest/1195/problem/E,div2
+137,1263,Codeforces Round 603 (Div. 2),E,Editor,2100,2894,data structures;implementation,https://codeforces.com/contest/1263/problem/E,div2
+138,1265,Codeforces Round 604 (Div. 2),E,Beautiful Mirrors,2100,4138,data structures;dp;math;probabilities,https://codeforces.com/contest/1265/problem/E,div2
+139,1271,Codeforces Round 608 (Div. 2),E,Common Number,2100,3590,binary search;combinatorics;dp;math,https://codeforces.com/contest/1271/problem/E,div2
+140,1312,Educational Codeforces Round 83 (Rated for Div. 2),E,Array Shrinking,2100,6766,dp;greedy,https://codeforces.com/contest/1312/problem/E,div2
+141,1332,Codeforces Round 630 (Div. 2),E,Height All the Same,2100,4079,combinatorics;constructive algorithms;math;matrices,https://codeforces.com/contest/1332/problem/E,div2
+142,1354,Educational Codeforces Round 87 (Rated for Div. 2),E,Graph Coloring,2100,3565,dfs and similar;dp;graphs,https://codeforces.com/contest/1354/problem/E,div2
+143,1355,Codeforces Round 643 (Div. 2),E,Restorer Distance,2100,5497,binary search;greedy;math;sortings;ternary search,https://codeforces.com/contest/1355/problem/E,div2
+144,1366,Educational Codeforces Round 89 (Rated for Div. 2),E,Two Arrays,2100,4473,binary search;brute force;combinatorics;constructive algorithms;dp;two pointers,https://codeforces.com/contest/1366/problem/E,div2
+145,1370,Codeforces Round 651 (Div. 2),E,Binary Subsequence Rotation,2100,5053,binary search;constructive algorithms;data structures;greedy,https://codeforces.com/contest/1370/problem/E,div2
+146,1419,Codeforces Round 671 (Div. 2),E,Decryption,2100,3391,constructive algorithms;implementation;math;number theory,https://codeforces.com/contest/1419/problem/E,div2
+147,1511,Educational Codeforces Round 107 (Rated for Div. 2),E,Colorings and Dominoes,2100,2754,combinatorics;dp;greedy;math,https://codeforces.com/contest/1511/problem/E,div2
+148,1525,Educational Codeforces Round 109 (Rated for Div. 2),E,Assimilation IV,2100,2236,combinatorics;dp;math;probabilities;two pointers,https://codeforces.com/contest/1525/problem/E,div2
+149,1555,Educational Codeforces Round 112 (Rated for Div. 2),E,Boring Segments,2100,4320,data structures;sortings;trees;two pointers,https://codeforces.com/contest/1555/problem/E,div2
+150,1598,Educational Codeforces Round 115 (Rated for Div. 2),E,Staircases,2100,2431,brute force;combinatorics;data structures;dfs and similar;dp;implementation;math,https://codeforces.com/contest/1598/problem/E,div2
+151,1606,Educational Codeforces Round 116 (Rated for Div. 2),E,Arena,2100,3879,combinatorics;dp;math,https://codeforces.com/contest/1606/problem/E,div2
+152,1671,Educational Codeforces Round 127 (Rated for Div. 2),E,Preorder,2100,2973,combinatorics;divide and conquer;dp;dsu;hashing;sortings;trees,https://codeforces.com/contest/1671/problem/E,div2
+153,1734,Codeforces Round 822 (Div. 2),E,Rectangular Congruence,2100,3094,constructive algorithms;number theory,https://codeforces.com/contest/1734/problem/E,div2
+154,1775,Codeforces Round 843 (Div. 2),E,The Human Equation,2100,3598,greedy;implementation,https://codeforces.com/contest/1775/problem/E,div2
+155,1821,Educational Codeforces Round 147 (Rated for Div. 2),E,Rearrange Brackets,2100,2556,brute force;dp;greedy;sortings;strings,https://codeforces.com/contest/1821/problem/E,div2
+156,1900,Codeforces Round 911 (Div. 2),E,Transitive Graph,2100,2423,dfs and similar;dp;dsu;graphs;implementation,https://codeforces.com/contest/1900/problem/E,div2
+157,1920,Codeforces Round 919 (Div. 2),E,Counting Binary Strings,2100,3113,combinatorics;dp;math,https://codeforces.com/contest/1920/problem/E,div2
+158,1948,Educational Codeforces Round 163 (Rated for Div. 2),E,Clique Partition,2100,3306,brute force;constructive algorithms;graphs;greedy;implementation,https://codeforces.com/contest/1948/problem/E,div2
+159,2004,Educational Codeforces Round 169 (Rated for Div. 2),E,Not a Nim Problem,2100,4685,brute force;games;math;number theory,https://codeforces.com/contest/2004/problem/E,div2
+160,2031,Codeforces Round 987 (Div. 2),E,Penchick and Chloe's Trees,2100,2459,data structures;dfs and similar;dp;greedy;implementation;math;sortings;trees,https://codeforces.com/contest/2031/problem/E,div2
+161,2040,Codeforces Round 992 (Div. 2),E,Control of Randomness,2100,2351,combinatorics;dfs and similar;dp;graphs;greedy;math;probabilities;trees,https://codeforces.com/contest/2040/problem/E,div2
+162,2092,Codeforces Round 1014 (Div. 2),E,She knows...,2100,3243,combinatorics;constructive algorithms;graphs;math,https://codeforces.com/contest/2092/problem/E,div2
+163,25,Codeforces Beta Round 25 (Div. 2 Only),E,Test,2200,2857,hashing;strings,https://codeforces.com/contest/25/problem/E,div2
+164,47,Codeforces Beta Round 44 (Div. 2),E,Cannon,2200,424,data structures;geometry;sortings,https://codeforces.com/contest/47/problem/E,div2
+165,56,Codeforces Beta Round 52 (Div. 2),E,Domino Principle,2200,2667,binary search;data structures;sortings,https://codeforces.com/contest/56/problem/E,div2
+166,71,Codeforces Beta Round 65 (Div. 2),E,Nuclear Fusion,2200,834,bitmasks;dp,https://codeforces.com/contest/71/problem/E,div2
+167,144,Codeforces Round 103 (Div. 2),E,Competition,2200,647,data structures;greedy,https://codeforces.com/contest/144/problem/E,div2
+168,165,Codeforces Round 112 (Div. 2),E,Compatible Numbers,2200,8052,bitmasks;brute force;dfs and similar;dp,https://codeforces.com/contest/165/problem/E,div2
+169,219,Codeforces Round 135 (Div. 2),E,Parking Lot,2200,642,data structures,https://codeforces.com/contest/219/problem/E,div2
+170,253,Codeforces Round 154 (Div. 2),E,Printer,2200,571,binary search;data structures;implementation;sortings,https://codeforces.com/contest/253/problem/E,div2
+171,255,Codeforces Round 156 (Div. 2),E,Furlo and Rublo and Game,2200,916,games;implementation;math,https://codeforces.com/contest/255/problem/E,div2
+172,257,Codeforces Round 159 (Div. 2),E,Greedy Elevator,2200,328,data structures;implementation,https://codeforces.com/contest/257/problem/E,div2
+173,271,Codeforces Round 166 (Div. 2),E,Three Horses,2200,564,constructive algorithms;math;number theory,https://codeforces.com/contest/271/problem/E,div2
+174,272,Codeforces Round 167 (Div. 2),E,Dima and Horses,2200,1258,combinatorics;constructive algorithms;graphs,https://codeforces.com/contest/272/problem/E,div2
+175,282,Codeforces Round 173 (Div. 2),E,Sausage Maximization,2200,3995,bitmasks;data structures;trees,https://codeforces.com/contest/282/problem/E,div2
+176,337,Codeforces Round 196 (Div. 2),E,Divisor Tree,2200,1065,brute force;number theory;trees,https://codeforces.com/contest/337/problem/E,div2
+177,350,Codeforces Round 203 (Div. 2),E,Wrong Floyd,2200,811,brute force;constructive algorithms;dfs and similar;graphs,https://codeforces.com/contest/350/problem/E,div2
+178,353,Codeforces Round 205 (Div. 2),E,Antichain,2200,631,dp;graph matchings;greedy,https://codeforces.com/contest/353/problem/E,div2
+179,366,Codeforces Round 214 (Div. 2),E,Dima and Magic Guitar,2200,805,brute force;implementation;math,https://codeforces.com/contest/366/problem/E,div2
+180,369,Codeforces Round 216 (Div. 2),E,Valera and Queries,2200,2466,binary search;data structures,https://codeforces.com/contest/369/problem/E,div2
+181,387,Codeforces Round 227 (Div. 2),E,George and Cards,2200,956,binary search;data structures,https://codeforces.com/contest/387/problem/E,div2
+182,402,Codeforces Round 236 (Div. 2),E,Strictly Positive Matrix,2200,2272,graphs;math,https://codeforces.com/contest/402/problem/E,div2
+183,404,Codeforces Round 237 (Div. 2),E,Maze 1D,2200,623,binary search;greedy;implementation,https://codeforces.com/contest/404/problem/E,div2
+184,431,Codeforces Round 247 (Div. 2),E,Chemistry Experiment,2200,1121,binary search;data structures;ternary search,https://codeforces.com/contest/431/problem/E,div2
+185,448,Codeforces Round 256 (Div. 2),E,Divisors,2200,1583,brute force;dfs and similar;implementation;number theory,https://codeforces.com/contest/448/problem/E,div2
+186,476,Codeforces Round 272 (Div. 2),E,Dreamoon and Strings,2200,2047,dp;strings,https://codeforces.com/contest/476/problem/E,div2
+187,486,Codeforces Round 277 (Div. 2),E,LIS of Sequence,2200,2442,data structures;dp;greedy;hashing;math,https://codeforces.com/contest/486/problem/E,div2
+188,508,Codeforces Round 288 (Div. 2),E,Arthur and Brackets,2200,1843,dp;greedy,https://codeforces.com/contest/508/problem/E,div2
+189,514,Codeforces Round 291 (Div. 2),E,Darth Vader and Tree,2200,1582,dp;matrices,https://codeforces.com/contest/514/problem/E,div2
+190,518,Codeforces Round 293 (Div. 2),E,Arthur and Questions,2200,1017,greedy;implementation;math;ternary search,https://codeforces.com/contest/518/problem/E,div2
+191,520,Codeforces Round 295 (Div. 2),E,Pluses everywhere,2200,1954,combinatorics;dp;math;number theory,https://codeforces.com/contest/520/problem/E,div2
+192,550,Codeforces Round 306 (Div. 2),E,Brackets in Implications,2200,1414,constructive algorithms;greedy;implementation;math,https://codeforces.com/contest/550/problem/E,div2
+193,567,Codeforces Round #Pi (Div. 2),E,President and Roads,2200,2039,dfs and similar;graphs;hashing;shortest paths,https://codeforces.com/contest/567/problem/E,div2
+194,617,Codeforces Round 340 (Div. 2),E,XOR and Favorite Number,2200,9630,data structures,https://codeforces.com/contest/617/problem/E,div2
+195,723,Codeforces Round 375 (Div. 2),E,One-Way Reform,2200,2129,constructive algorithms;dfs and similar;flows;graphs;greedy,https://codeforces.com/contest/723/problem/E,div2
+196,731,Codeforces Round 376 (Div. 2),E,Funny Game,2200,1798,dp;games,https://codeforces.com/contest/731/problem/E,div2
+197,743,Codeforces Round 384 (Div. 2),E,Vladik and cards,2200,1552,binary search;bitmasks;brute force;dp,https://codeforces.com/contest/743/problem/E,div2
+198,785,Codeforces Round 404 (Div. 2),E,Anton and Permutation,2200,2074,brute force;data structures,https://codeforces.com/contest/785/problem/E,div2
+199,903,Educational Codeforces Round 34 (Rated for Div. 2),E,Swapping Characters,2200,1532,brute force;hashing;implementation;strings,https://codeforces.com/contest/903/problem/E,div2
+200,922,Codeforces Round 461 (Div. 2),E,Birds,2200,2300,dp,https://codeforces.com/contest/922/problem/E,div2
+201,946,Educational Codeforces Round 39 (Rated for Div. 2),E,Largest Beautiful Number,2200,1154,greedy;implementation,https://codeforces.com/contest/946/problem/E,div2
+202,962,Educational Codeforces Round 42 (Rated for Div. 2),E,"Byteland, Berland and Disputed Cities",2200,1118,constructive algorithms;greedy,https://codeforces.com/contest/962/problem/E,div2
+203,965,"Codeforces Round 476 (Div. 2) [Thanks, Telegram!]",E,Short Code,2200,1715,data structures;dp;greedy;strings;trees,https://codeforces.com/contest/965/problem/E,div2
+204,980,Codeforces Round 480 (Div. 2),E,The Number Games,2200,2018,data structures;greedy;trees,https://codeforces.com/contest/980/problem/E,div2
+205,1100,Codeforces Round 532 (Div. 2),E,Andrew and Taxi,2200,2499,binary search;dfs and similar;graphs,https://codeforces.com/contest/1100/problem/E,div2
+206,1105,Codeforces Round 533 (Div. 2),E,Helping Hiasat ,2200,1756,bitmasks;brute force;dp;meet-in-the-middle,https://codeforces.com/contest/1105/problem/E,div2
+207,1114,Codeforces Round 538 (Div. 2),E,Arithmetic Progression,2200,3040,binary search;interactive;number theory;probabilities,https://codeforces.com/contest/1114/problem/E,div2
+208,1117,Educational Codeforces Round 60 (Rated for Div. 2),E,Decypher the String,2200,1586,bitmasks;chinese remainder theorem;constructive algorithms;interactive;math,https://codeforces.com/contest/1117/problem/E,div2
+209,1136,Codeforces Round 546 (Div. 2),E,Nastya Hasn't Written a Legend,2200,1117,binary search;data structures,https://codeforces.com/contest/1136/problem/E,div2
+210,1140,Educational Codeforces Round 62 (Rated for Div. 2),E,Palindrome-less Arrays,2200,2039,combinatorics;divide and conquer;dp,https://codeforces.com/contest/1140/problem/E,div2
+211,1153,Codeforces Round 551 (Div. 2),E,Serval and Snake,2200,1681,binary search;brute force;interactive,https://codeforces.com/contest/1153/problem/E,div2
+212,1155,Educational Codeforces Round 63 (Rated for Div. 2),E,Guess the Root,2200,1524,brute force;interactive;math,https://codeforces.com/contest/1155/problem/E,div2
+213,1156,Educational Codeforces Round 64 (Rated for Div. 2),E,Special Segments of Permutation,2200,3552,data structures;divide and conquer;dsu;two pointers,https://codeforces.com/contest/1156/problem/E,div2
+214,1175,Educational Codeforces Round 66 (Rated for Div. 2),E,Minimal Segment Cover,2200,4069,data structures;dfs and similar;divide and conquer;dp;greedy;implementation;trees,https://codeforces.com/contest/1175/problem/E,div2
+215,1194,Educational Codeforces Round 68 (Rated for Div. 2),E,Count The Rectangles,2200,1978,bitmasks;brute force;data structures;geometry;sortings,https://codeforces.com/contest/1194/problem/E,div2
+216,1215,Codeforces Round 585 (Div. 2),E,Marbles,2200,3256,bitmasks;dp,https://codeforces.com/contest/1215/problem/E,div2
+217,1238,Educational Codeforces Round 74 (Rated for Div. 2),E,Keyboard Purchase,2200,3317,bitmasks;dp,https://codeforces.com/contest/1238/problem/E,div2
+218,1253,Codeforces Round 600 (Div. 2),E,Antenna Coverage,2200,2975,data structures;dp;greedy;sortings,https://codeforces.com/contest/1253/problem/E,div2
+219,1278,Educational Codeforces Round 78 (Rated for Div. 2),E,Tests for problem D,2200,1993,constructive algorithms;dfs and similar;divide and conquer;trees,https://codeforces.com/contest/1278/problem/E,div2
+220,1295,Educational Codeforces Round 81 (Rated for Div. 2),E,Permutation Separation,2200,2670,data structures;divide and conquer,https://codeforces.com/contest/1295/problem/E,div2
+221,1303,Educational Codeforces Round 82 (Rated for Div. 2),E,Erase Subsequences,2200,3036,dp;strings,https://codeforces.com/contest/1303/problem/E,div2
+222,1334,Educational Codeforces Round 85 (Rated for Div. 2),E,Divisor Paths,2200,2970,combinatorics;graphs;greedy;math;number theory,https://codeforces.com/contest/1334/problem/E,div2
+223,1373,Educational Codeforces Round 90 (Rated for Div. 2),E,Sum of Digits,2200,2858,brute force;constructive algorithms;dp;greedy,https://codeforces.com/contest/1373/problem/E,div2
+224,1389,Educational Codeforces Round 92 (Rated for Div. 2),E,Calendar Ambiguity,2200,3623,math;number theory,https://codeforces.com/contest/1389/problem/E,div2
+225,1398,Educational Codeforces Round 93 (Rated for Div. 2),E,Two Types of Spells,2200,2514,binary search;data structures;greedy;implementation;math;sortings,https://codeforces.com/contest/1398/problem/E,div2
+226,1400,Educational Codeforces Round 94 (Rated for Div. 2),E,Clear the Multiset,2200,5931,data structures;divide and conquer;dp;greedy,https://codeforces.com/contest/1400/problem/E,div2
+227,1437,Educational Codeforces Round 97 (Rated for Div. 2),E,Make It Increasing,2200,3669,binary search;constructive algorithms;data structures;dp;implementation,https://codeforces.com/contest/1437/problem/E,div2
+228,1461,"Codeforces Round 689 (Div. 2, based on Zed Code Competition)",E,Water Level,2200,2168,brute force;graphs;greedy;implementation;math,https://codeforces.com/contest/1461/problem/E,div2
+229,1486,Codeforces Round 703 (Div. 2),E,Paired Payment,2200,3151,binary search;brute force;constructive algorithms;dp;flows;graphs;shortest paths,https://codeforces.com/contest/1486/problem/E,div2
+230,1498,CodeCraft-21 and Codeforces Round 711 (Div. 2),E,Two Houses,2200,2021,brute force;graphs;greedy;interactive;sortings,https://codeforces.com/contest/1498/problem/E,div2
+231,1535,Educational Codeforces Round 110 (Rated for Div. 2),E,Gold Transfer,2200,2947,binary search;data structures;dp;greedy;interactive;trees,https://codeforces.com/contest/1535/problem/E,div2
+232,1559,Codeforces Round 738 (Div. 2),E,Mocha and Stars,2200,2522,combinatorics;dp;fft;math;number theory,https://codeforces.com/contest/1559/problem/E,div2
+233,1567,Codeforces Round 742 (Div. 2),E,Non-Decreasing Dilemma,2200,3929,data structures;divide and conquer;math,https://codeforces.com/contest/1567/problem/E,div2
+234,1622,Educational Codeforces Round 120 (Rated for Div. 2),E,Math Test,2200,2069,bitmasks;brute force;greedy,https://codeforces.com/contest/1622/problem/E,div2
+235,1627,Codeforces Round 766 (Div. 2),E,Not Escaping,2200,2617,data structures;dp;implementation;shortest paths;two pointers,https://codeforces.com/contest/1627/problem/E,div2
+236,1635,Codeforces Round 772 (Div. 2),E,Cars ,2200,2550,2-sat;constructive algorithms;dfs and similar;dsu;graphs;greedy;sortings,https://codeforces.com/contest/1635/problem/E,div2
+237,1646,Codeforces Round 774 (Div. 2),E,Power Board,2200,2627,brute force;dp;math;number theory,https://codeforces.com/contest/1646/problem/E,div2
+238,1657,Educational Codeforces Round 125 (Rated for Div. 2),E,Star MST,2200,2317,combinatorics;dp;graph matchings;math,https://codeforces.com/contest/1657/problem/E,div2
+239,1659,Codeforces Round 782 (Div. 2),E,AND-MEX Walk,2200,1803,bitmasks;brute force;constructive algorithms;dfs and similar;dsu;graphs,https://codeforces.com/contest/1659/problem/E,div2
+240,1670,Codeforces Round 788 (Div. 2),E,Hemose on the Tree,2200,1859,bitmasks;constructive algorithms;dfs and similar;trees,https://codeforces.com/contest/1670/problem/E,div2
+241,1717,Codeforces Round 818 (Div. 2),E,Madoka and The Best University,2200,3097,math;number theory,https://codeforces.com/contest/1717/problem/E,div2
+242,1721,Educational Codeforces Round 134 (Rated for Div. 2),E,Prefix Function Queries,2200,2334,dfs and similar;dp;hashing;string suffix structures;strings;trees,https://codeforces.com/contest/1721/problem/E,div2
+243,1763,Codeforces Round 840 (Div. 2) and Enigma 2022 - Cybros LNMIIT,E,Node Pairs,2200,1971,dp;graphs;math;number theory,https://codeforces.com/contest/1763/problem/E,div2
+244,1777,Codeforces Round 845 (Div. 2) and ByteRace 2023,E,Edge Reverse,2200,2096,binary search;dfs and similar;graphs;trees,https://codeforces.com/contest/1777/problem/E,div2
+245,1788,Codeforces Round 851 (Div. 2),E,Sum Over Zero,2200,3024,data structures;dfs and similar;dp,https://codeforces.com/contest/1788/problem/E,div2
+246,1795,Educational Codeforces Round 143 (Rated for Div. 2),E,Explosions?,2200,2246,binary search;data structures;dp;greedy;math,https://codeforces.com/contest/1795/problem/E,div2
+247,1806,Codeforces Round 858 (Div. 2),E,Tree Master,2200,3162,brute force;data structures;dfs and similar;trees,https://codeforces.com/contest/1806/problem/E,div2
+248,1832,Educational Codeforces Round 148 (Rated for Div. 2),E,Combinatorics Problem,2200,2382,brute force;combinatorics;dp,https://codeforces.com/contest/1832/problem/E,div2
+249,1837,Educational Codeforces Round 149 (Rated for Div. 2),E,Playoff Fixing,2200,2419,combinatorics;trees,https://codeforces.com/contest/1837/problem/E,div2
+250,1841,Educational Codeforces Round 150 (Rated for Div. 2),E,Fill the Matrix,2200,2231,data structures;greedy;math,https://codeforces.com/contest/1841/problem/E,div2
+251,1898,Codeforces Round 910 (Div. 2),E,Sofia and Strings,2200,2557,data structures;greedy;sortings;strings;two pointers,https://codeforces.com/contest/1898/problem/E,div2
+252,1901,Educational Codeforces Round 158 (Rated for Div. 2),E,Compressed Tree,2200,1814,dfs and similar;dp;graphs;greedy;sortings;trees,https://codeforces.com/contest/1901/problem/E,div2
+253,1918,Codeforces Round 922 (Div. 2),E,ace5 and Task Order,2200,1926,constructive algorithms;divide and conquer;implementation;interactive;probabilities;sortings,https://codeforces.com/contest/1918/problem/E,div2
+254,1946,Codeforces Round 936 (Div. 2),E,Girl Permutation,2200,2915,combinatorics;dp;math;number theory,https://codeforces.com/contest/1946/problem/E,div2
+255,1954,Educational Codeforces Round 164 (Rated for Div. 2),E,Chain Reaction,2200,2691,binary search;data structures;dsu;greedy;implementation;math;number theory,https://codeforces.com/contest/1954/problem/E,div2
+256,1997,Educational Codeforces Round 168 (Rated for Div. 2),E,Level Up,2200,3522,binary search;brute force;data structures;divide and conquer;implementation,https://codeforces.com/contest/1997/problem/E,div2
+257,2013,Codeforces Round 973 (Div. 2),E,Prefix GCD,2200,3920,brute force;dp;greedy;math;number theory,https://codeforces.com/contest/2013/problem/E,div2
+258,2025,Educational Codeforces Round 170 (Rated for Div. 2),E,Card Game,2200,2163,combinatorics;dp;fft;greedy;math,https://codeforces.com/contest/2025/problem/E,div2
+259,2030,Codeforces Round 979 (Div. 2),E,MEXimize the Score,2200,1721,combinatorics;data structures;dp;greedy;implementation;math,https://codeforces.com/contest/2030/problem/E,div2
+260,2070,Educational Codeforces Round 175 (Rated for Div. 2),E,Game with Binary String,2200,1577,constructive algorithms;data structures;divide and conquer;games;greedy;math,https://codeforces.com/contest/2070/problem/E,div2
+261,2085,Codeforces Round 1011 (Div. 2),E,Serval and Modulo,2200,2756,constructive algorithms;math;number theory,https://codeforces.com/contest/2085/problem/E,div2
+262,2112,Educational Codeforces Round 180 (Rated for Div. 2),E,Tree Colorings,2200,2582,combinatorics;dfs and similar;dp;graphs;math;number theory;trees,https://codeforces.com/contest/2112/problem/E,div2
+263,9,Codeforces Beta Round 9 (Div. 2 Only),E,Interestring graph and Apples,2300,1098,dfs and similar;dsu;graphs,https://codeforces.com/contest/9/problem/E,div2
+264,22,Codeforces Beta Round 22 (Div. 2 Only),E,Scheme,2300,1885,dfs and similar;graphs;trees,https://codeforces.com/contest/22/problem/E,div2
+265,43,Codeforces Beta Round 42 (Div. 2),E,Race,2300,420,brute force;implementation;two pointers,https://codeforces.com/contest/43/problem/E,div2
+266,49,Codeforces Beta Round 46 (Div. 2),E,Common ancestor,2300,732,dp,https://codeforces.com/contest/49/problem/E,div2
+267,78,Codeforces Beta Round 70 (Div. 2),E,Evacuation,2300,666,flows;graphs;shortest paths,https://codeforces.com/contest/78/problem/E,div2
+268,141,Codeforces Round 101 (Div. 2),E,Clearing Up,2300,1238,constructive algorithms;dp;dsu;graphs,https://codeforces.com/contest/141/problem/E,div2
+269,149,Codeforces Round 106 (Div. 2),E,Martian Strings,2300,2405,string suffix structures;strings,https://codeforces.com/contest/149/problem/E,div2
+270,203,Codeforces Round 128 (Div. 2),E,Transportation,2300,296,greedy;sortings;two pointers,https://codeforces.com/contest/203/problem/E,div2
+271,294,Codeforces Round 178 (Div. 2),E,Shaass the Great,2300,1034,dp;trees,https://codeforces.com/contest/294/problem/E,div2
+272,300,Codeforces Round 181 (Div. 2),E,Empire Strikes Back,2300,1079,binary search;math;number theory,https://codeforces.com/contest/300/problem/E,div2
+273,305,Codeforces Round 184 (Div. 2),E,Playing with String,2300,700,games,https://codeforces.com/contest/305/problem/E,div2
+274,313,Codeforces Round 186 (Div. 2),E,Ilya and Two Numbers,2300,583,constructive algorithms;data structures;dsu;greedy,https://codeforces.com/contest/313/problem/E,div2
+275,327,Codeforces Round 191 (Div. 2),E,Axis Walking,2300,1514,bitmasks;combinatorics;constructive algorithms;dp;meet-in-the-middle,https://codeforces.com/contest/327/problem/E,div2
+276,358,Codeforces Round 208 (Div. 2),E,Dima and Kicks,2300,411,brute force;dsu;graphs;implementation,https://codeforces.com/contest/358/problem/E,div2
+277,362,Codeforces Round 212 (Div. 2),E,Petya and Pipes,2300,843,flows;graphs;shortest paths,https://codeforces.com/contest/362/problem/E,div2
+278,385,Codeforces Round 226 (Div. 2),E,Bear in the Field,2300,614,math;matrices,https://codeforces.com/contest/385/problem/E,div2
+279,405,Codeforces Round 238 (Div. 2),E,Graph Cutting,2300,1483,dfs and similar;graphs,https://codeforces.com/contest/405/problem/E,div2
+280,432,Codeforces Round 246 (Div. 2),E,Square Tiling,2300,772,constructive algorithms;greedy,https://codeforces.com/contest/432/problem/E,div2
+281,451,Codeforces Round 258 (Div. 2),E,Devu and Flowers,2300,4088,bitmasks;combinatorics;number theory,https://codeforces.com/contest/451/problem/E,div2
+282,467,Codeforces Round 267 (Div. 2),E,Alex and Complicated Task,2300,823,data structures;dp;greedy,https://codeforces.com/contest/467/problem/E,div2
+283,489,Codeforces Round 277.5 (Div. 2),E,Hiking,2300,1085,binary search;dp,https://codeforces.com/contest/489/problem/E,div2
+284,510,Codeforces Round 290 (Div. 2),E,Fox And Dinner,2300,2318,flows,https://codeforces.com/contest/510/problem/E,div2
+285,515,Codeforces Round 292 (Div. 2),E,Drazil and Park,2300,2272,data structures,https://codeforces.com/contest/515/problem/E,div2
+286,557,Codeforces Round 311 (Div. 2),E,Ann and Half-Palindrome,2300,1172,data structures;dp;graphs;string suffix structures;strings;trees,https://codeforces.com/contest/557/problem/E,div2
+287,558,Codeforces Round 312 (Div. 2),E,A Simple Task,2300,6828,data structures;sortings;strings,https://codeforces.com/contest/558/problem/E,div2
+288,570,Codeforces Round 316 (Div. 2),E,Pig and Palindromes,2300,2004,combinatorics;dp,https://codeforces.com/contest/570/problem/E,div2
+289,584,Codeforces Round 324 (Div. 2),E,Anton and Ira,2300,1455,constructive algorithms;greedy;math,https://codeforces.com/contest/584/problem/E,div2
+290,629,Codeforces Round 343 (Div. 2),E,Famil Door and Roads,2300,1092,combinatorics;data structures;dfs and similar;dp;probabilities;trees,https://codeforces.com/contest/629/problem/E,div2
+291,675,Codeforces Round 353 (Div. 2),E,Trains and Statistic,2300,3034,data structures;dp;greedy,https://codeforces.com/contest/675/problem/E,div2
+292,677,Codeforces Round 355 (Div. 2),E,Vanya and Balloons,2300,621,binary search;brute force;dp;implementation,https://codeforces.com/contest/677/problem/E,div2
+293,711,Codeforces Round 369 (Div. 2),E,ZS and The Birthday Paradox,2300,1323,math;number theory;probabilities,https://codeforces.com/contest/711/problem/E,div2
+294,727,"Technocup 2017 - Elimination Round 1 (Unofficially Open for Everyone, Rated for Div. 2)",E,Games on a CD,2300,1400,data structures;hashing;string suffix structures;strings,https://codeforces.com/contest/727/problem/E,div2
+295,812,Codeforces Round 417 (Div. 2),E,Sagheer and Apple Tree,2300,1186,games;trees,https://codeforces.com/contest/812/problem/E,div2
+296,895,Codeforces Round 448 (Div. 2),E,Eyes Closed,2300,1199,data structures;probabilities,https://codeforces.com/contest/895/problem/E,div2
+297,915,Educational Codeforces Round 36 (Rated for Div. 2),E,Physical Education Lessons,2300,5005,data structures;implementation;sortings,https://codeforces.com/contest/915/problem/E,div2
+298,935,Codeforces Round 465 (Div. 2),E,Fafa and Ancient Mathematics,2300,917,dfs and similar;dp;trees,https://codeforces.com/contest/935/problem/E,div2
+299,938,Educational Codeforces Round 38 (Rated for Div. 2),E,Max History,2300,1402,combinatorics;math,https://codeforces.com/contest/938/problem/E,div2
+300,1042,Codeforces Round 510 (Div. 2),E,Vasya and Magic Matrix,2300,1937,dp;math;probabilities,https://codeforces.com/contest/1042/problem/E,div2
+301,1062,Codeforces Round 520 (Div. 2),E,Company,2300,1964,binary search;data structures;dfs and similar;greedy;trees,https://codeforces.com/contest/1062/problem/E,div2
+302,1065,Educational Codeforces Round 52 (Rated for Div. 2),E,Side Transmutations,2300,1164,combinatorics;strings,https://codeforces.com/contest/1065/problem/E,div2
+303,1073,Educational Codeforces Round 53 (Rated for Div. 2),E,Segment Sum,2300,3020,bitmasks;combinatorics;dp;math,https://codeforces.com/contest/1073/problem/E,div2
+304,1131,Codeforces Round 541 (Div. 2),E,String Multiplication,2300,1198,dp;greedy;strings,https://codeforces.com/contest/1131/problem/E,div2
+305,1132,Educational Codeforces Round 61 (Rated for Div. 2),E,Knapsack,2300,1774,dfs and similar;dp;greedy,https://codeforces.com/contest/1132/problem/E,div2
+306,1182,Codeforces Round 566 (Div. 2),E,Product Oriented Recurrence,2300,3070,dp;math;matrices;number theory,https://codeforces.com/contest/1182/problem/E,div2
+307,1197,Educational Codeforces Round 69 (Rated for Div. 2),E,Culture Code,2300,1771,binary search;combinatorics;data structures;dp;shortest paths;sortings,https://codeforces.com/contest/1197/problem/E,div2
+308,1204,Codeforces Round 581 (Div. 2),E,"Natasha, Sasha and the Prefix Sums",2300,1856,combinatorics;dp;math;number theory,https://codeforces.com/contest/1204/problem/E,div2
+309,1217,Educational Codeforces Round 72 (Rated for Div. 2),E,Sum Queries?,2300,2014,data structures;greedy;implementation;math,https://codeforces.com/contest/1217/problem/E,div2
+310,1228,Codeforces Round 589 (Div. 2),E,Another Filling the Grid,2300,3127,combinatorics;dp;math,https://codeforces.com/contest/1228/problem/E,div2
+311,1245,Codeforces Round 597 (Div. 2),E,Hyakugoku and Ladders,2300,1319,dp;probabilities;shortest paths,https://codeforces.com/contest/1245/problem/E,div2
+312,1285,Codeforces Round 613 (Div. 2),E,Delete a Segment,2300,1930,brute force;constructive algorithms;data structures;dp;graphs;sortings;trees;two pointers,https://codeforces.com/contest/1285/problem/E,div2
+313,1316,CodeCraft-20 (Div. 2),E,Team Building,2300,4767,bitmasks;dp;greedy;sortings,https://codeforces.com/contest/1316/problem/E,div2
+314,1342,Educational Codeforces Round 86 (Rated for Div. 2),E,Placing Rooks,2300,3321,combinatorics;fft;math,https://codeforces.com/contest/1342/problem/E,div2
+315,1380,Educational Codeforces Round 91 (Rated for Div. 2),E,Merging Towers,2300,2335,data structures;dsu;implementation;trees,https://codeforces.com/contest/1380/problem/E,div2
+316,1453,Codeforces Round 688 (Div. 2),E,Dog Snacks,2300,2152,binary search;dfs and similar;dp;greedy;trees,https://codeforces.com/contest/1453/problem/E,div2
+317,1476,Educational Codeforces Round 103 (Rated for Div. 2),E,Pattern Matching,2300,2526,bitmasks;data structures;dfs and similar;graphs;hashing;sortings;strings,https://codeforces.com/contest/1476/problem/E,div2
+318,1513,Divide by Zero 2021 and Codeforces Round 714 (Div. 2),E,Cost Equilibrium,2300,1585,combinatorics;constructive algorithms;math;sortings,https://codeforces.com/contest/1513/problem/E,div2
+319,1536,Codeforces Round 724 (Div. 2),E,Omkar and Forest,2300,2572,combinatorics;graphs;math;shortest paths,https://codeforces.com/contest/1536/problem/E,div2
+320,1691,CodeCraft-22 and Codeforces Round 795 (Div. 2),E,Number of Groups,2300,1960,data structures;dfs and similar;dsu;graphs;greedy;sortings,https://codeforces.com/contest/1691/problem/E,div2
+321,1698,Codeforces Round 803 (Div. 2),E,PermutationForces II,2300,1723,brute force;combinatorics;greedy;sortings;trees;two pointers,https://codeforces.com/contest/1698/problem/E,div2
+322,1705,Codeforces Round 807 (Div. 2),E,Mark and Professor Koro,2300,2259,binary search;bitmasks;brute force;combinatorics;data structures;greedy,https://codeforces.com/contest/1705/problem/E,div2
+323,1706,Codeforces Round 809 (Div. 2),E,Qpwoeirut and Vertices,2300,3226,binary search;data structures;dfs and similar;divide and conquer;dsu;greedy;trees,https://codeforces.com/contest/1706/problem/E,div2
+324,1728,Educational Codeforces Round 135 (Rated for Div. 2),E,Red-Black Pepper,2300,1917,brute force;data structures;greedy;math;number theory,https://codeforces.com/contest/1728/problem/E,div2
+325,1748,Codeforces Round 833 (Div. 2),E,Yet Another Array Counting Problem,2300,2316,binary search;data structures;divide and conquer;dp;flows;math;trees,https://codeforces.com/contest/1748/problem/E,div2
+326,1766,Educational Codeforces Round 139 (Rated for Div. 2),E,Decomposition,2300,1353,binary search;brute force;data structures;divide and conquer;dp;two pointers,https://codeforces.com/contest/1766/problem/E,div2
+327,1768,Codeforces Round 842 (Div. 2),E,Partial Sorting,2300,2060,combinatorics;math;number theory,https://codeforces.com/contest/1768/problem/E,div2
+328,1783,Educational Codeforces Round 141 (Rated for Div. 2),E,Game of the Year,2300,2304,brute force;data structures;math;number theory,https://codeforces.com/contest/1783/problem/E,div2
+329,1797,Codeforces Round 864 (Div. 2),E,Li Hua and Array,2300,1488,brute force;data structures;dsu;math;number theory;two pointers,https://codeforces.com/contest/1797/problem/E,div2
+330,1798,Codeforces Round 860 (Div. 2),E,Multitest Generator,2300,1775,brute force;dp,https://codeforces.com/contest/1798/problem/E,div2
+331,1805,Codeforces Round 862 (Div. 2),E,There Should Be a Lot of Maximums,2300,1778,brute force;data structures;dfs and similar;dp;trees;two pointers,https://codeforces.com/contest/1805/problem/E,div2
+332,1814,Educational Codeforces Round 146 (Rated for Div. 2),E,Chain Chips,2300,1559,data structures;dp;matrices,https://codeforces.com/contest/1814/problem/E,div2
+333,1834,Codeforces Round 879 (Div. 2),E,MEX of LCM,2300,2521,binary search;data structures;implementation;math;number theory,https://codeforces.com/contest/1834/problem/E,div2
+334,1849,Educational Codeforces Round 152 (Rated for Div. 2),E,Max to the Right of Min,2300,2010,binary search;data structures;divide and conquer;dp;dsu;two pointers,https://codeforces.com/contest/1849/problem/E,div2
+335,1861,Educational Codeforces Round 154 (Rated for Div. 2),E,Non-Intersecting Subpermutations,2300,1921,combinatorics;dp;implementation;math,https://codeforces.com/contest/1861/problem/E,div2
+336,1895,Educational Codeforces Round 157 (Rated for Div. 2),E,Infinite Card Game,2300,1740,binary search;brute force;data structures;dfs and similar;dp;dsu;games;graphs;greedy;sortings;two pointers,https://codeforces.com/contest/1895/problem/E,div2
+337,1928,Codeforces Round 924 (Div. 2),E,Modular Sequence,2300,1953,brute force;constructive algorithms;dp;graphs;greedy;math;number theory,https://codeforces.com/contest/1928/problem/E,div2
+338,1929,Codeforces Round 926 (Div. 2),E,Sasha and the Happy Tree Cutting,2300,1925,bitmasks;brute force;dfs and similar;dp;graphs;greedy;math;trees,https://codeforces.com/contest/1929/problem/E,div2
+339,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",E,Number of k-good subarrays,2300,1790,bitmasks;brute force;combinatorics;divide and conquer;dp;math;meet-in-the-middle,https://codeforces.com/contest/1982/problem/E,div2
+340,1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,E,I Love Balls,2300,2306,combinatorics;math;probabilities,https://codeforces.com/contest/1983/problem/E,div2
+341,1988,Codeforces Round 958 (Div. 2),E,Range Minimum Sum,2300,1656,binary search;brute force;data structures;divide and conquer;implementation,https://codeforces.com/contest/1988/problem/E,div2
+342,1989,Educational Codeforces Round 167 (Rated for Div. 2),E,Distance to Different,2300,2285,combinatorics;dp;math,https://codeforces.com/contest/1989/problem/E,div2
+343,2028,Codeforces Round 986 (Div. 2),E,Alice's Adventures in the Rabbit Hole,2300,1706,combinatorics;dfs and similar;dp;games;greedy;math;probabilities;trees,https://codeforces.com/contest/2028/problem/E,div2
+344,2043,Educational Codeforces Round 173 (Rated for Div. 2),E,Matrix Transformation,2300,1680,bitmasks;brute force;data structures;dfs and similar;graphs;greedy;implementation,https://codeforces.com/contest/2043/problem/E,div2
+345,2063,Codeforces Round 1000 (Div. 2),E,Triangle Tree,2300,2092,data structures;dfs and similar;dp;greedy;trees,https://codeforces.com/contest/2063/problem/E,div2
+346,2069,Educational Codeforces Round 174 (Rated for Div. 2),E,"A, B, AB and BA",2300,1668,constructive algorithms;greedy;sortings;strings,https://codeforces.com/contest/2069/problem/E,div2
+347,2110,Codeforces Round 1026 (Div. 2),E,Melody,2300,1852,dfs and similar;graphs;implementation,https://codeforces.com/contest/2110/problem/E,div2
+348,2120,Codeforces Round 1033 (Div. 2) and CodeNite 2025,E,Lanes of Cars,2300,1434,binary search;dp;ternary search,https://codeforces.com/contest/2120/problem/E,div2
+349,29,"Codeforces Beta Round 29 (Div. 2, Codeforces format)",E,Quarrel,2400,1016,graphs;shortest paths,https://codeforces.com/contest/29/problem/E,div2
+350,31,"Codeforces Beta Round 31 (Div. 2, Codeforces format)",E,TV Game,2400,1189,dp,https://codeforces.com/contest/31/problem/E,div2
+351,32,"Codeforces Beta Round 32 (Div. 2, Codeforces format)",E,Hide-and-Seek,2400,360,geometry;implementation,https://codeforces.com/contest/32/problem/E,div2
+352,58,Codeforces Beta Round 54 (Div. 2),E,Expression,2400,432,dp,https://codeforces.com/contest/58/problem/E,div2
+353,75,Codeforces Beta Round 67 (Div. 2),E,Ship's Shortest Path,2400,286,geometry;shortest paths,https://codeforces.com/contest/75/problem/E,div2
+354,160,Codeforces Round 111 (Div. 2),E,Buses and People,2400,623,binary search;data structures;sortings,https://codeforces.com/contest/160/problem/E,div2
+355,200,Codeforces Round 126 (Div. 2),E,Tractor College,2400,353,implementation;math;number theory;ternary search,https://codeforces.com/contest/200/problem/E,div2
+356,246,Codeforces Round 151 (Div. 2),E,Blood Cousins Return,2400,3893,binary search;data structures;dfs and similar;dp;sortings,https://codeforces.com/contest/246/problem/E,div2
+357,332,Codeforces Round 193 (Div. 2),E,Binary Key,2400,326,dp;greedy;implementation,https://codeforces.com/contest/332/problem/E,div2
+358,342,Codeforces Round 199 (Div. 2),E,Xenia and Tree,2400,9779,data structures;divide and conquer;trees,https://codeforces.com/contest/342/problem/E,div2
+359,359,Codeforces Round 209 (Div. 2),E,Neatness,2400,492,constructive algorithms;dfs and similar,https://codeforces.com/contest/359/problem/E,div2
+360,417,RCC 2014 Warmup (Div. 2),E,Square Table,2400,888,constructive algorithms;math;probabilities,https://codeforces.com/contest/417/problem/E,div2
+361,441,Codeforces Round 252 (Div. 2),E,Valera and Number,2400,778,bitmasks;dp;math;probabilities,https://codeforces.com/contest/441/problem/E,div2
+362,534,Codeforces Round 298 (Div. 2),E,Berland Local Positioning System,2400,379,constructive algorithms;greedy;hashing;implementation,https://codeforces.com/contest/534/problem/E,div2
+363,593,Codeforces Round 329 (Div. 2),E,Strange Calculation and Cats,2400,671,dp;matrices,https://codeforces.com/contest/593/problem/E,div2
+364,676,Codeforces Round 354 (Div. 2),E,The Last Fight Between Human and AI,2400,912,math,https://codeforces.com/contest/676/problem/E,div2
+365,707,Codeforces Round 368 (Div. 2),E,Garlands,2400,1286,data structures,https://codeforces.com/contest/707/problem/E,div2
+366,733,Codeforces Round 378 (Div. 2),E,Sleep in Class,2400,1000,constructive algorithms;data structures;math;two pointers,https://codeforces.com/contest/733/problem/E,div2
+367,749,Codeforces Round 388 (Div. 2),E,Inversions After Shuffle,2400,1192,data structures;probabilities,https://codeforces.com/contest/749/problem/E,div2
+368,767,Codeforces Round 398 (Div. 2),E,Change-free,2400,1051,greedy,https://codeforces.com/contest/767/problem/E,div2
+369,796,Codeforces Round 408 (Div. 2),E,Exam Cheating,2400,713,binary search;dp,https://codeforces.com/contest/796/problem/E,div2
+370,822,Codeforces Round 422 (Div. 2),E,Liar,2400,961,binary search;dp;hashing;string suffix structures,https://codeforces.com/contest/822/problem/E,div2
+371,835,Codeforces Round 427 (Div. 2),E,The penguin's game,2400,1284,binary search;constructive algorithms;interactive,https://codeforces.com/contest/835/problem/E,div2
+372,869,Codeforces Round 439 (Div. 2),E,The Untended Antiquity,2400,1973,data structures;hashing,https://codeforces.com/contest/869/problem/E,div2
+373,912,Codeforces Round 456 (Div. 2),E,Prime Gift,2400,1856,binary search;dfs and similar;math;meet-in-the-middle;number theory;two pointers,https://codeforces.com/contest/912/problem/E,div2
+374,916,Codeforces Round 457 (Div. 2),E,Jamie and Tree,2400,1871,data structures;trees,https://codeforces.com/contest/916/problem/E,div2
+375,979,Codeforces Round 482 (Div. 2),E,Kuro and Topological Parity,2400,827,dp,https://codeforces.com/contest/979/problem/E,div2
+376,1004,Codeforces Round 495 (Div. 2),E,Sonya and Ice Cream,2400,1145,binary search;data structures;dp;greedy;shortest paths;trees,https://codeforces.com/contest/1004/problem/E,div2
+377,1016,Educational Codeforces Round 48 (Rated for Div. 2),E,Rest In The Shades,2400,1229,binary search;geometry,https://codeforces.com/contest/1016/problem/E,div2
+378,1036,Educational Codeforces Round 50 (Rated for Div. 2),E,Covered Points,2400,1704,fft;geometry;number theory,https://codeforces.com/contest/1036/problem/E,div2
+379,1038,Codeforces Round 508 (Div. 2),E,Maximum Matching,2400,1029,bitmasks;brute force;dfs and similar;dp;graphs,https://codeforces.com/contest/1038/problem/E,div2
+380,1059,Codeforces Round 514 (Div. 2),E,Split the Tree,2400,1537,binary search;data structures;dp;greedy;trees,https://codeforces.com/contest/1059/problem/E,div2
+381,1080,Codeforces Round 524 (Div. 2),E,Sonya and Matrix Beauty,2400,1206,strings,https://codeforces.com/contest/1080/problem/E,div2
+382,1088,Codeforces Round 525 (Div. 2),E,Ehab and a component choosing problem,2400,1575,dp;greedy;math;trees,https://codeforces.com/contest/1088/problem/E,div2
+383,1093,Educational Codeforces Round 56 (Rated for Div. 2),E,Intersection of Permutations,2400,1755,data structures,https://codeforces.com/contest/1093/problem/E,div2
+384,1107,Educational Codeforces Round 59 (Rated for Div. 2),E,Vasya and Binary String,2400,2560,dp,https://codeforces.com/contest/1107/problem/E,div2
+385,1139,Codeforces Round 548 (Div. 2),E,Maximize Mex,2400,2083,flows;graph matchings;graphs,https://codeforces.com/contest/1139/problem/E,div2
+386,1152,Codeforces Round 554 (Div. 2),E,Neko and Flashback,2400,1064,constructive algorithms;dfs and similar;graphs,https://codeforces.com/contest/1152/problem/E,div2
+387,1163,Codeforces Round 558 (Div. 2),E,Magical Permutation,2400,873,bitmasks;brute force;constructive algorithms;data structures;graphs;math,https://codeforces.com/contest/1163/problem/E,div2
+388,1202,Educational Codeforces Round 70 (Rated for Div. 2),E,You Are Given Some Strings...,2400,2462,brute force;string suffix structures;strings,https://codeforces.com/contest/1202/problem/E,div2
+389,1260,Educational Codeforces Round 77 (Rated for Div. 2),E,Tournament,2400,1829,brute force;dp;greedy,https://codeforces.com/contest/1260/problem/E,div2
+390,1282,Codeforces Round 610 (Div. 2),E,The Cake Is a Lie,2400,1191,constructive algorithms;data structures;dfs and similar;graphs,https://codeforces.com/contest/1282/problem/E,div2
+391,1333,Codeforces Round 632 (Div. 2),E,Road to 1600,2400,1748,brute force;constructive algorithms,https://codeforces.com/contest/1333/problem/E,div2
+392,1348,Codeforces Round 638 (Div. 2),E,Phoenix and Berries,2400,2344,brute force;dp;greedy;math,https://codeforces.com/contest/1348/problem/E,div2
+393,1358,Codeforces Round 645 (Div. 2),E,Are You Fired?,2400,2405,constructive algorithms;data structures;greedy;implementation,https://codeforces.com/contest/1358/problem/E,div2
+394,1369,Codeforces Round 652 (Div. 2),E,DeadLee,2400,2358,data structures;dfs and similar;greedy;implementation;sortings,https://codeforces.com/contest/1369/problem/E,div2
+395,1401,Codeforces Round 665 (Div. 2),E,Divide Square,2400,2549,data structures;geometry;implementation;sortings,https://codeforces.com/contest/1401/problem/E,div2
+396,1418,Educational Codeforces Round 95 (Rated for Div. 2),E,Expected Damage,2400,2058,binary search;combinatorics;probabilities,https://codeforces.com/contest/1418/problem/E,div2
+397,1436,Codeforces Round 678 (Div. 2),E,Complicated Computations,2400,2526,binary search;data structures;two pointers,https://codeforces.com/contest/1436/problem/E,div2
+398,1443,"Codeforces Round 681 (Div. 2, based on VK Cup 2019-2020 - Final)",E,Long Permutation,2400,1367,brute force;math;two pointers,https://codeforces.com/contest/1443/problem/E,div2
+399,1455,Educational Codeforces Round 99 (Rated for Div. 2),E,Four Points,2400,1600,brute force;constructive algorithms;flows;geometry;greedy;implementation;math;ternary search,https://codeforces.com/contest/1455/problem/E,div2
+400,1463,Educational Codeforces Round 100 (Rated for Div. 2),E,Plan of Lectures,2400,1631,constructive algorithms;dfs and similar;dsu;graphs;implementation;sortings;trees,https://codeforces.com/contest/1463/problem/E,div2
+401,1469,Educational Codeforces Round 101 (Rated for Div. 2),E,A Bit Similar,2400,2085,bitmasks;brute force;hashing;string suffix structures;strings;two pointers,https://codeforces.com/contest/1469/problem/E,div2
+402,1473,Educational Codeforces Round 102 (Rated for Div. 2),E,Minimum Path,2400,4177,graphs;shortest paths,https://codeforces.com/contest/1473/problem/E,div2
+403,1494,Educational Codeforces Round 105 (Rated for Div. 2),E,A-Z Graph,2400,1944,constructive algorithms;data structures;graphs;hashing,https://codeforces.com/contest/1494/problem/E,div2
+404,1499,Educational Codeforces Round 106 (Rated for Div. 2),E,Chaotic Merge,2400,1592,combinatorics;dp;math;strings,https://codeforces.com/contest/1499/problem/E,div2
+405,1526,Codeforces Round 723 (Div. 2),E,Oolimry and Suffix Array,2400,1335,combinatorics;constructive algorithms;math,https://codeforces.com/contest/1526/problem/E,div2
+406,1592,Codeforces Round 746 (Div. 2),E,Bored Bakry,2400,1788,bitmasks;greedy;math;two pointers,https://codeforces.com/contest/1592/problem/E,div2
+407,1605,Codeforces Round 754 (Div. 2),E,Array Equalizer,2400,1121,binary search;greedy;implementation;math;number theory;sortings;two pointers,https://codeforces.com/contest/1605/problem/E,div2
+408,1626,Educational Codeforces Round 121 (Rated for Div. 2),E,Black and White Tree,2400,1726,dfs and similar;greedy;trees,https://codeforces.com/contest/1626/problem/E,div2
+409,1633,Educational Codeforces Round 122 (Rated for Div. 2),E,Spanning Tree Queries,2400,1637,binary search;data structures;dfs and similar;dsu;graphs;greedy;math;sortings;trees,https://codeforces.com/contest/1633/problem/E,div2
+410,1634,Codeforces Round 770 (Div. 2),E,Fair Share,2400,1902,constructive algorithms;data structures;dfs and similar;graph matchings;graphs,https://codeforces.com/contest/1634/problem/E,div2
+411,1638,Codeforces Round 771 (Div. 2),E,Colorful Operations,2400,2199,brute force;data structures;implementation,https://codeforces.com/contest/1638/problem/E,div2
+412,1679,Codeforces Round 791 (Div. 2),E,Typical Party in Dorm,2400,1310,bitmasks;combinatorics;dp;strings,https://codeforces.com/contest/1679/problem/E,div2
+413,1697,Educational Codeforces Round 130 (Rated for Div. 2),E,Coloring,2400,1357,brute force;combinatorics;constructive algorithms;dp;geometry;graphs;greedy;implementation;math,https://codeforces.com/contest/1697/problem/E,div2
+414,1709,Educational Codeforces Round 132 (Rated for Div. 2),E,XOR Tree,2400,3442,bitmasks;data structures;dfs and similar;dsu;greedy;trees,https://codeforces.com/contest/1709/problem/E,div2
+415,1713,Codeforces Round 812 (Div. 2),E,Cross Swapping,2400,1855,2-sat;data structures;dsu;greedy;matrices,https://codeforces.com/contest/1713/problem/E,div2
+416,1715,Codeforces Round 816 (Div. 2),E,Long Way Home,2400,1965,data structures;divide and conquer;dp;geometry;graphs;greedy;shortest paths,https://codeforces.com/contest/1715/problem/E,div2
+417,1735,Codeforces Round 824 (Div. 2),E,House Planning,2400,1175,constructive algorithms;data structures;graph matchings;greedy,https://codeforces.com/contest/1735/problem/E,div2
+418,1739,Educational Codeforces Round 136 (Rated for Div. 2),E,Cleaning Robot,2400,1341,bitmasks;dp,https://codeforces.com/contest/1739/problem/E,div2
+419,1743,Educational Codeforces Round 137 (Rated for Div. 2),E,FTL,2400,1754,binary search;dp,https://codeforces.com/contest/1743/problem/E,div2
+420,1749,Educational Codeforces Round 138 (Rated for Div. 2),E,Cactus Wall,2400,1908,constructive algorithms;dfs and similar;graphs;shortest paths,https://codeforces.com/contest/1749/problem/E,div2
+421,1780,Codeforces Round 846 (Div. 2),E,Josuke and Complete Graph,2400,1631,binary search;brute force;data structures;math;number theory,https://codeforces.com/contest/1780/problem/E,div2
+422,1792,Educational Codeforces Round 142 (Rated for Div. 2),E,Divisors and Table,2400,1522,brute force;dfs and similar;dp;number theory,https://codeforces.com/contest/1792/problem/E,div2
+423,1794,Codeforces Round 856 (Div. 2),E,Labeling the Tree with Distances,2400,1385,data structures;dp;greedy;hashing;implementation;trees,https://codeforces.com/contest/1794/problem/E,div2
+424,1809,Educational Codeforces Round 145 (Rated for Div. 2),E,Two Tanks,2400,981,binary search;dp;implementation;math,https://codeforces.com/contest/1809/problem/E,div2
+425,1826,Codeforces Round 870 (Div. 2),E,Walk the Runway,2400,1805,bitmasks;brute force;data structures;dp;graphs;implementation;sortings,https://codeforces.com/contest/1826/problem/E,div2
+426,1839,Codeforces Round 876 (Div. 2),E,Decreasing Game,2400,1385,constructive algorithms;dfs and similar;dp;greedy;interactive,https://codeforces.com/contest/1839/problem/E,div2
+427,1860,Educational Codeforces Round 153 (Rated for Div. 2),E,Fast Travel Text Editor,2400,1624,data structures;dfs and similar;graphs;shortest paths,https://codeforces.com/contest/1860/problem/E,div2
+428,1879,Educational Codeforces Round 155 (Rated for Div. 2),E,Interactive Game with Coloring,2400,1374,brute force;constructive algorithms;dfs and similar;graphs;implementation;interactive;trees,https://codeforces.com/contest/1879/problem/E,div2
+429,1886,Educational Codeforces Round 156 (Rated for Div. 2),E,I Wanna be the Team Leader,2400,1683,bitmasks;constructive algorithms;dp;greedy;math;sortings;two pointers,https://codeforces.com/contest/1886/problem/E,div2
+430,1905,Codeforces Round 915 (Div. 2),E,One-X,2400,1150,combinatorics;dfs and similar;dp;math;trees,https://codeforces.com/contest/1905/problem/E,div2
+431,1913,Educational Codeforces Round 160 (Rated for Div. 2),E,Matrix Problem,2400,1197,flows;graphs,https://codeforces.com/contest/1913/problem/E,div2
+432,1935,Codeforces Round 932 (Div. 2),E,Distance Learning Courses in MAC,2400,1533,bitmasks;brute force;data structures;greedy;math,https://codeforces.com/contest/1935/problem/E,div2
+433,1957,Codeforces Round 940 (Div. 2) and CodeCraft-23,E,Carousel of Combinations,2400,1487,brute force;combinatorics;dp;math;number theory,https://codeforces.com/contest/1957/problem/E,div2
+434,1969,Educational Codeforces Round 165 (Rated for Div. 2),E,Unique Array,2400,1680,binary search;data structures;divide and conquer;dp;greedy,https://codeforces.com/contest/1969/problem/E,div2
+435,1979,Codeforces Round 951 (Div. 2),E,Manhattan Triangle,2400,1702,binary search;constructive algorithms;data structures;geometry;implementation;two pointers,https://codeforces.com/contest/1979/problem/E,div2
+436,2032,Codeforces Round 983 (Div. 2),E,Balanced,2400,1266,constructive algorithms;data structures;greedy;implementation;math,https://codeforces.com/contest/2032/problem/E,div2
+437,2049,Codeforces Round 994 (Div. 2),E,Broken Queries,2400,1444,binary search;bitmasks;brute force;constructive algorithms;implementation;interactive,https://codeforces.com/contest/2049/problem/E,div2
+438,2064,Codeforces Round 1005 (Div. 2),E,Mycraft Sand Sort,2400,1191,combinatorics;data structures;dsu;greedy;math;sortings,https://codeforces.com/contest/2064/problem/E,div2
+439,2086,Educational Codeforces Round 177 (Rated for Div. 2),E,Zebra-like Numbers,2400,1366,bitmasks;brute force;constructive algorithms;dfs and similar;dp;greedy;math,https://codeforces.com/contest/2086/problem/E,div2
+440,2109,Codeforces Round 1025 (Div. 2),E,Binary String Wowee,2400,1151,combinatorics;dp;strings,https://codeforces.com/contest/2109/problem/E,div2
+441,2118,Codeforces Round 1030 (Div. 2),E,Grid Coloring,2400,1112,constructive algorithms;geometry;greedy;math,https://codeforces.com/contest/2118/problem/E,div2
+442,53,Codeforces Beta Round 49 (Div. 2),E,Dead Ends,2500,1116,bitmasks;dp,https://codeforces.com/contest/53/problem/E,div2
+443,152,Codeforces Round 108 (Div. 2),E,Garden,2500,514,bitmasks;dp;graphs;trees,https://codeforces.com/contest/152/problem/E,div2
+444,260,Codeforces Round 158 (Div. 2),E,Dividing Kingdom,2500,479,binary search;brute force;data structures,https://codeforces.com/contest/260/problem/E,div2
+445,263,Codeforces Round 161 (Div. 2),E,Rhombus,2500,423,brute force;data structures;dp,https://codeforces.com/contest/263/problem/E,div2
+446,266,Codeforces Round 163 (Div. 2),E,More Queries to Array...,2500,994,data structures;math,https://codeforces.com/contest/266/problem/E,div2
+447,363,Codeforces Round 211 (Div. 2),E,Two Circles,2500,219,brute force;data structures;implementation,https://codeforces.com/contest/363/problem/E,div2
+448,370,Codeforces Round 217 (Div. 2),E,Summer Reading,2500,308,dp;greedy,https://codeforces.com/contest/370/problem/E,div2
+449,401,Codeforces Round 235 (Div. 2),E,Olympic Games,2500,171,math,https://codeforces.com/contest/401/problem/E,div2
+450,416,Codeforces Round 241 (Div. 2),E,President's Path,2500,1661,dp;graphs;shortest paths,https://codeforces.com/contest/416/problem/E,div2
+451,424,Codeforces Round 242 (Div. 2),E,Colored Jenga,2500,143,dfs and similar;dp;probabilities,https://codeforces.com/contest/424/problem/E,div2
+452,433,Codeforces Round 248 (Div. 2),E,Tachibana Kanade's Tofu,2500,497,dp,https://codeforces.com/contest/433/problem/E,div2
+453,435,Codeforces Round 249 (Div. 2),E,Special Graph,2500,253,,https://codeforces.com/contest/435/problem/E,div2
+454,437,Codeforces Round 250 (Div. 2),E,The Child and Polygon,2500,748,dp;geometry,https://codeforces.com/contest/437/problem/E,div2
+455,501,Codeforces Round 285 (Div. 2),E,Misha and Palindrome Degree,2500,937,binary search;combinatorics;implementation,https://codeforces.com/contest/501/problem/E,div2
+456,551,Codeforces Round 307 (Div. 2),E,GukiZ and GukiZiana,2500,2039,binary search;data structures;implementation,https://codeforces.com/contest/551/problem/E,div2
+457,580,Codeforces Round 321 (Div. 2),E,Kefa and Watch,2500,2348,data structures;hashing;strings,https://codeforces.com/contest/580/problem/E,div2
+458,596,Codeforces Round 331 (Div. 2),E,Wilbur and Strings,2500,407,dfs and similar;dp;graphs;strings,https://codeforces.com/contest/596/problem/E,div2
+459,610,Codeforces Round 337 (Div. 2),E,Alphabet Permutations,2500,965,data structures;strings,https://codeforces.com/contest/610/problem/E,div2
+460,681,Codeforces Round 357 (Div. 2),E,Runaway to a Shadow,2500,481,geometry;sortings,https://codeforces.com/contest/681/problem/E,div2
+461,706,Codeforces Round 367 (Div. 2),E,Working routine,2500,1230,data structures;implementation,https://codeforces.com/contest/706/problem/E,div2
+462,712,Codeforces Round 370 (Div. 2),E,Memory and Casinos,2500,655,data structures;math;probabilities,https://codeforces.com/contest/712/problem/E,div2
+463,735,Codeforces Round 382 (Div. 2),E,Ostap and Tree,2500,950,dp;trees,https://codeforces.com/contest/735/problem/E,div2
+464,992,Codeforces Round 489 (Div. 2),E,Nastya and King-Shamans,2500,1588,binary search;data structures,https://codeforces.com/contest/992/problem/E,div2
+465,1096,Educational Codeforces Round 57 (Rated for Div. 2),E,The Top Scorer,2500,1188,combinatorics;dp;math;probabilities,https://codeforces.com/contest/1096/problem/E,div2
+466,1111,CodeCraft-19 and Codeforces Round 537 (Div. 2),E,Tree,2500,1009,data structures;dfs and similar;dp;graphs;trees,https://codeforces.com/contest/1111/problem/E,div2
+467,1174,Codeforces Round 563 (Div. 2),E,Ehab and the Expected GCD Problem,2500,1671,combinatorics;dp;math;number theory,https://codeforces.com/contest/1174/problem/E,div2
+468,1186,Codeforces Round 571 (Div. 2),E,Vus the Cossack and a Field,2500,654,divide and conquer;implementation;math,https://codeforces.com/contest/1186/problem/E,div2
+469,1221,Educational Codeforces Round 73 (Rated for Div. 2),E,Game With String,2500,1134,games,https://codeforces.com/contest/1221/problem/E,div2
+470,1236,Codeforces Round 593 (Div. 2),E,Alice and the Unfair Game,2500,716,binary search;data structures;dp;dsu,https://codeforces.com/contest/1236/problem/E,div2
+471,1301,Codeforces Round 619 (Div. 2),E,Nanosoft,2500,1570,binary search;data structures;dp;implementation,https://codeforces.com/contest/1301/problem/E,div2
+472,1407,Codeforces Round 669 (Div. 2),E,Egor in the Republic of Dagestan,2500,1803,constructive algorithms;dfs and similar;dp;graphs;greedy;shortest paths,https://codeforces.com/contest/1407/problem/E,div2
+473,1420,Codeforces Round 672 (Div. 2),E,Battle Lemmings,2500,995,dp;greedy,https://codeforces.com/contest/1420/problem/E,div2
+474,1438,Codeforces Round 682 (Div. 2),E,Yurii Can Do Everything,2500,1431,binary search;bitmasks;brute force;constructive algorithms;divide and conquer;two pointers,https://codeforces.com/contest/1438/problem/E,div2
+475,1452,Educational Codeforces Round 98 (Rated for Div. 2),E,Two Editorials,2500,1645,brute force;dp;greedy;sortings;two pointers,https://codeforces.com/contest/1452/problem/E,div2
+476,1467,Codeforces Round 695 (Div. 2),E,Distinctive Roots in a Tree,2500,1534,data structures;dfs and similar;dp;trees,https://codeforces.com/contest/1467/problem/E,div2
+477,1474,Codeforces Round 696 (Div. 2),E,What Is It?,2500,1417,constructive algorithms;greedy,https://codeforces.com/contest/1474/problem/E,div2
+478,1481,Codeforces Round 699 (Div. 2),E,Sorting Books,2500,2294,data structures;dp;greedy,https://codeforces.com/contest/1481/problem/E,div2
+479,1485,Codeforces Round 701 (Div. 2),E,Move and Swap,2500,1457,dfs and similar;dp;greedy;trees,https://codeforces.com/contest/1485/problem/E,div2
+480,1492,Codeforces Round 704 (Div. 2),E,Almost Fault-Tolerant Database,2500,1266,brute force;constructive algorithms;dfs and similar;greedy;implementation,https://codeforces.com/contest/1492/problem/E,div2
+481,1516,Codeforces Round 717 (Div. 2),E,Baby Ehab Plays with Permutations,2500,938,combinatorics;dp;math,https://codeforces.com/contest/1516/problem/E,div2
+482,1527,Codeforces Round 721 (Div. 2),E,Partition Game,2500,2677,binary search;data structures;divide and conquer;dp,https://codeforces.com/contest/1527/problem/E,div2
+483,1539,Codeforces Round 727 (Div. 2),E,Game with Cards,2500,1018,binary search;constructive algorithms;data structures;dp;greedy;implementation,https://codeforces.com/contest/1539/problem/E,div2
+484,1550,Educational Codeforces Round 111 (Rated for Div. 2),E,Stringforces,2500,1709,binary search;bitmasks;brute force;dp;strings;two pointers,https://codeforces.com/contest/1550/problem/E,div2
+485,1562,Codeforces Round 741 (Div. 2),E,Rescue Niwen!,2500,1534,dp;greedy;string suffix structures;strings,https://codeforces.com/contest/1562/problem/E,div2
+486,1574,Educational Codeforces Round 114 (Rated for Div. 2),E,Coloring,2500,972,combinatorics;constructive algorithms;implementation;math,https://codeforces.com/contest/1574/problem/E,div2
+487,1623,Codeforces Round 763 (Div. 2),E,Middle Duplication,2500,1207,data structures;dfs and similar;greedy;strings;trees,https://codeforces.com/contest/1623/problem/E,div2
+488,1647,Codeforces Round 777 (Div. 2),E,Madoka and the Sixth-graders,2500,1068,data structures;dfs and similar;greedy,https://codeforces.com/contest/1647/problem/E,div2
+489,1658,Codeforces Round 779 (Div. 2),E,Gojou and Matrix Game,2500,1133,data structures;dp;games;hashing;implementation;math;number theory;sortings,https://codeforces.com/contest/1658/problem/E,div2
+490,1661,Educational Codeforces Round 126 (Rated for Div. 2),E,Narrow Components,2500,1029,brute force;data structures;dp;dsu;math;trees,https://codeforces.com/contest/1661/problem/E,div2
+491,1665,Codeforces Round 781 (Div. 2),E,MinimizOR,2500,1681,bitmasks;brute force;data structures;divide and conquer;greedy;implementation;two pointers,https://codeforces.com/contest/1665/problem/E,div2
+492,1673,Codeforces Round 785 (Div. 2),E,Power or XOR?,2500,764,bitmasks;combinatorics;math;number theory,https://codeforces.com/contest/1673/problem/E,div2
+493,1689,Codeforces Round 798 (Div. 2),E,ANDfinity,2500,1301,bitmasks;brute force;constructive algorithms;dfs and similar;dsu;graphs,https://codeforces.com/contest/1689/problem/E,div2
+494,1701,Educational Codeforces Round 131 (Rated for Div. 2),E,Text Editor,2500,1303,brute force;dp;greedy;strings,https://codeforces.com/contest/1701/problem/E,div2
+495,1716,Educational Codeforces Round 133 (Rated for Div. 2),E,Swap and Maximum Block,2500,1221,bitmasks;data structures;dfs and similar;divide and conquer;dp,https://codeforces.com/contest/1716/problem/E,div2
+496,1758,Codeforces Round 836 (Div. 2),E,"Tick, Tock",2500,911,combinatorics;dfs and similar;dsu;graphs,https://codeforces.com/contest/1758/problem/E,div2
+497,1767,Educational Codeforces Round 140 (Rated for Div. 2),E,Algebra Flash,2500,1077,bitmasks;brute force;dp;graphs;math;meet-in-the-middle;trees,https://codeforces.com/contest/1767/problem/E,div2
+498,1771,Codeforces Round 837 (Div. 2),E,Hossam and a Letter,2500,762,brute force;dp;implementation;two pointers,https://codeforces.com/contest/1771/problem/E,div2
+499,1778,Codeforces Round 848 (Div. 2),E,The Tree Has Fallen!,2500,997,bitmasks;dfs and similar;math;trees,https://codeforces.com/contest/1778/problem/E,div2
+500,1789,Codeforces Round 853 (Div. 2),E,Serval and Music Game,2500,906,brute force;dp;implementation;math;number theory,https://codeforces.com/contest/1789/problem/E,div2
+501,1796,Educational Codeforces Round 144 (Rated for Div. 2),E,Colored Subgraphs,2500,878,dfs and similar;dp;games;greedy;trees,https://codeforces.com/contest/1796/problem/E,div2
+502,1823,Codeforces Round 868 (Div. 2),E,Removing Graph,2500,1379,brute force;dp;games;graphs;math,https://codeforces.com/contest/1823/problem/E,div2
+503,1838,Codeforces Round 877 (Div. 2),E,Count Supersequences,2500,1671,combinatorics;dp;math,https://codeforces.com/contest/1838/problem/E,div2
+504,1845,Educational Codeforces Round 151 (Rated for Div. 2),E,Boxes and Balls,2500,1466,dp;implementation;math,https://codeforces.com/contest/1845/problem/E,div2
+505,1859,Codeforces Round 892 (Div. 2),E,Maximum Monogonosity,2500,1963,brute force;dp;math,https://codeforces.com/contest/1859/problem/E,div2
+506,1891,Codeforces Round 907 (Div. 2),E,Brukhovich and Exams,2500,940,brute force;greedy;implementation;math;sortings,https://codeforces.com/contest/1891/problem/E,div2
+507,1904,Codeforces Round 914 (Div. 2),E,Tree Queries,2500,1175,data structures;dfs and similar;graphs;implementation;trees,https://codeforces.com/contest/1904/problem/E,div2
+508,1917,Codeforces Round 917 (Div. 2),E,Construct Matrix,2500,1526,constructive algorithms;math,https://codeforces.com/contest/1917/problem/E,div2
+509,1973,Codeforces Round 945 (Div. 2),E,"Cat, Fox and Swaps ",2500,925,graphs;math;sortings,https://codeforces.com/contest/1973/problem/E,div2
+510,1976,Educational Codeforces Round 166 (Rated for Div. 2),E,Splittable Permutations,2500,1223,combinatorics;data structures;dfs and similar;greedy;math;trees,https://codeforces.com/contest/1976/problem/E,div2
+511,2026,Educational Codeforces Round 171 (Rated for Div. 2),E,Best Subsequence,2500,1678,bitmasks;dfs and similar;flows;graph matchings;graphs,https://codeforces.com/contest/2026/problem/E,div2
+512,2056,Codeforces Round 997 (Div. 2),E,Nested Segments,2500,915,combinatorics;dfs and similar;dp;dsu;math,https://codeforces.com/contest/2056/problem/E,div2
+513,2075,Educational Codeforces Round 176 (Rated for Div. 2),E,XOR Matrix,2500,933,bitmasks;combinatorics;dp;implementation;math,https://codeforces.com/contest/2075/problem/E,div2
+514,2125,Educational Codeforces Round 181 (Rated for Div. 2),E,Sets of Complementary Sums,2500,982,brute force;combinatorics;dp;math;two pointers,https://codeforces.com/contest/2125/problem/E,div2
+515,248,Codeforces Round 152 (Div. 2),E,Piglet's Birthday,2600,620,dp;math;probabilities,https://codeforces.com/contest/248/problem/E,div2
+516,285,Codeforces Round 175 (Div. 2),E,Positions in Permutations,2600,1153,combinatorics;dp;math,https://codeforces.com/contest/285/problem/E,div2
+517,374,Codeforces Round 220 (Div. 2),E,Inna and Babies,2600,193,binary search;data structures;dsu;geometry;implementation,https://codeforces.com/contest/374/problem/E,div2
+518,382,Codeforces Round 224 (Div. 2),E,Ksenia and Combinatorics,2600,407,combinatorics;dp,https://codeforces.com/contest/382/problem/E,div2
+519,527,Codeforces Round 296 (Div. 2),E,Data Center Drama,2600,2096,dfs and similar;graphs,https://codeforces.com/contest/527/problem/E,div2
+520,535,Codeforces Round 299 (Div. 2),E,Tavas and Pashmaks,2600,834,geometry;math,https://codeforces.com/contest/535/problem/E,div2
+521,599,Codeforces Round 332 (Div. 2),E,Sandy and Nuts,2600,707,bitmasks;dp;trees,https://codeforces.com/contest/599/problem/E,div2
+522,631,Codeforces Round 344 (Div. 2),E,Product Sum,2600,2810,data structures;dp;geometry,https://codeforces.com/contest/631/problem/E,div2
+523,682,Codeforces Round 358 (Div. 2),E,Alyona and Triangles,2600,689,geometry;two pointers,https://codeforces.com/contest/682/problem/E,div2
+524,703,Codeforces Round 365 (Div. 2),E,Mishka and Divisors,2600,642,dp;number theory,https://codeforces.com/contest/703/problem/E,div2
+525,754,Codeforces Round 390 (Div. 2),E,Dasha and cyclic table,2600,522,bitmasks;brute force;fft;strings;trees,https://codeforces.com/contest/754/problem/E,div2
+526,758,Codeforces Round 392 (Div. 2),E,Broken Tree,2600,523,dfs and similar;dp;graphs;greedy;trees,https://codeforces.com/contest/758/problem/E,div2
+527,811,Codeforces Round 416 (Div. 2),E,Vladik and Entertaining Flags,2600,921,data structures;dsu;graphs,https://codeforces.com/contest/811/problem/E,div2
+528,814,Codeforces Round 418 (Div. 2),E,An unavoidable detour for home,2600,700,combinatorics;dp;graphs;shortest paths,https://codeforces.com/contest/814/problem/E,div2
+529,832,Codeforces Round 425 (Div. 2),E,Vasya and Shifts,2600,355,matrices,https://codeforces.com/contest/832/problem/E,div2
+530,975,Codeforces Round 478 (Div. 2),E,Hag's Khashba,2600,321,geometry,https://codeforces.com/contest/975/problem/E,div2
+531,982,Codeforces Round 484 (Div. 2),E,Billiard,2600,766,geometry;number theory,https://codeforces.com/contest/982/problem/E,div2
+532,1051,Educational Codeforces Round 51 (Rated for Div. 2),E,Vasya and Big Integers,2600,1098,binary search;data structures;dp;hashing;strings,https://codeforces.com/contest/1051/problem/E,div2
+533,1061,Codeforces Round 523 (Div. 2),E,Politics,2600,563,flows;graphs,https://codeforces.com/contest/1061/problem/E,div2
+534,1325,Codeforces Round 628 (Div. 2),E,Ehab's REAL Number Theory Problem,2600,2219,brute force;dfs and similar;graphs;number theory;shortest paths,https://codeforces.com/contest/1325/problem/E,div2
+535,1391,Codeforces Round 663 (Div. 2),E,Pairs of Pairs,2600,1842,constructive algorithms;dfs and similar;graphs;greedy;trees,https://codeforces.com/contest/1391/problem/E,div2
+536,1406,Codeforces Round 670 (Div. 2),E,Deleting Numbers,2600,1797,interactive;math;number theory,https://codeforces.com/contest/1406/problem/E,div2
+537,1493,Codeforces Round 705 (Div. 2),E,Enormous XOR,2600,1007,bitmasks;constructive algorithms;greedy;math;strings;two pointers,https://codeforces.com/contest/1493/problem/E,div2
+538,1554,Codeforces Round 735 (Div. 2),E,You,2600,1300,dfs and similar;dp;math;number theory,https://codeforces.com/contest/1554/problem/E,div2
+539,1569,Educational Codeforces Round 113 (Rated for Div. 2),E,Playoff Restoration,2600,839,bitmasks;brute force;hashing;implementation;meet-in-the-middle,https://codeforces.com/contest/1569/problem/E,div2
+540,1614,Codeforces Round 757 (Div. 2),E,Divan and a Cottage,2600,908,binary search;data structures,https://codeforces.com/contest/1614/problem/E,div2
+541,1651,Educational Codeforces Round 124 (Rated for Div. 2),E,Sum of Matchings,2600,574,brute force;combinatorics;constructive algorithms;dfs and similar;graph matchings;greedy;math,https://codeforces.com/contest/1651/problem/E,div2
+542,1681,Educational Codeforces Round 129 (Rated for Div. 2),E,Labyrinth Adventures,2600,858,data structures;dp;matrices;shortest paths,https://codeforces.com/contest/1681/problem/E,div2
+543,1699,Codeforces Round 804 (Div. 2),E,Three Days Grace,2600,1320,data structures;dp;greedy;math;number theory;two pointers,https://codeforces.com/contest/1699/problem/E,div2
+544,1700,Codeforces Round 802 (Div. 2),E,Serega the Pirate,2600,920,brute force;constructive algorithms,https://codeforces.com/contest/1700/problem/E,div2
+545,1736,Codeforces Round 825 (Div. 2),E,Swap and Take,2600,798,dp;greedy,https://codeforces.com/contest/1736/problem/E,div2
+546,1762,Codeforces Round 838 (Div. 2),E,Tree Sum,2600,744,combinatorics;math;trees,https://codeforces.com/contest/1762/problem/E,div2
+547,1793,Codeforces Round 852 (Div. 2),E,Velepin and Marketing,2600,1209,binary search;data structures;dp;greedy;sortings;two pointers,https://codeforces.com/contest/1793/problem/E,div2
+548,1848,Codeforces Round 885 (Div. 2),E,Vika and Stone Skipping,2600,854,brute force;implementation;math;number theory,https://codeforces.com/contest/1848/problem/E,div2
+549,1977,Codeforces Round 948 (Div. 2),E,Tensor,2600,835,constructive algorithms;graphs;interactive,https://codeforces.com/contest/1977/problem/E,div2
+550,1981,Codeforces Round 949 (Div. 2),E,Turtle and Intersected Segments,2600,1073,data structures;dsu;graphs;greedy,https://codeforces.com/contest/1981/problem/E,div2
+551,2071,Codeforces Round 1007 (Div. 2),E,LeaFall,2600,523,combinatorics;dp;probabilities;trees,https://codeforces.com/contest/2071/problem/E,div2
+552,2103,Codeforces Round 1019 (Div. 2),E,Keep the Sum,2600,490,constructive algorithms;implementation;two pointers,https://codeforces.com/contest/2103/problem/E,div2
+553,2107,Codeforces Round 1023 (Div. 2),E,Ain and Apple Tree,2600,675,binary search;constructive algorithms;greedy;math;trees,https://codeforces.com/contest/2107/problem/E,div2
+554,2108,Codeforces Round 1022 (Div. 2),E,Spruce Dispute,2600,639,constructive algorithms;dfs and similar;graphs;greedy;implementation;shortest paths;trees,https://codeforces.com/contest/2108/problem/E,div2
+555,2119,Codeforces Round 1035 (Div. 2),E,And Constraint,2600,514,bitmasks;dp;greedy,https://codeforces.com/contest/2119/problem/E,div2
+556,336,Codeforces Round 195 (Div. 2),E,Vasily the Bear and Painting Square,2700,125,bitmasks;combinatorics;dp;implementation,https://codeforces.com/contest/336/problem/E,div2
+557,339,Codeforces Round 197 (Div. 2),E,Three Swaps,2700,576,constructive algorithms;dfs and similar;greedy,https://codeforces.com/contest/339/problem/E,div2
+558,460,Codeforces Round 262 (Div. 2),E,Roland and Rose,2700,355,brute force;geometry;math;sortings,https://codeforces.com/contest/460/problem/E,div2
+559,471,Codeforces Round 269 (Div. 2),E,MUH and Lots and Lots of Segments,2700,85,data structures;dsu,https://codeforces.com/contest/471/problem/E,div2
+560,592,Codeforces Round 328 (Div. 2),E,BCPC,2700,230,binary search;geometry;two pointers,https://codeforces.com/contest/592/problem/E,div2
+561,721,Codeforces Round 374 (Div. 2),E,Road to Home,2700,331,binary search;dp,https://codeforces.com/contest/721/problem/E,div2
+562,839,Codeforces Round 428 (Div. 2),E,Mother of Dragons,2700,967,brute force;graphs;math;meet-in-the-middle,https://codeforces.com/contest/839/problem/E,div2
+563,989,Codeforces Round 487 (Div. 2),E,A Trance of Nightfall,2700,266,dp;geometry;matrices;probabilities,https://codeforces.com/contest/989/problem/E,div2
+564,1279,Educational Codeforces Round 79 (Rated for Div. 2),E,New Year Permutations,2700,409,combinatorics;dp,https://codeforces.com/contest/1279/problem/E,div2
+565,1313,Codeforces Round 622 (Div. 2),E,Concatenation with intersection,2700,621,data structures;hashing;strings;two pointers,https://codeforces.com/contest/1313/problem/E,div2
+566,1364,Codeforces Round 649 (Div. 2),E,X-OR,2700,1493,bitmasks;constructive algorithms;divide and conquer;interactive;probabilities,https://codeforces.com/contest/1364/problem/E,div2
+567,1388,Codeforces Round 660 (Div. 2),E,Uncle Bogdan and Projections,2700,624,data structures;geometry;sortings,https://codeforces.com/contest/1388/problem/E,div2
+568,1421,Codeforces Round 676 (Div. 2),E,Swedish Heroes,2700,808,brute force;dp;implementation,https://codeforces.com/contest/1421/problem/E,div2
+569,1422,Codeforces Round 675 (Div. 2),E,Minlexes,2700,812,dp;greedy;implementation;strings,https://codeforces.com/contest/1422/problem/E,div2
+570,1514,Codeforces Round 716 (Div. 2),E,Baby Ehab's Hyper Apartment,2700,670,binary search;graphs;interactive;sortings;two pointers,https://codeforces.com/contest/1514/problem/E,div2
+571,1519,Educational Codeforces Round 108 (Rated for Div. 2),E,Off by One,2700,864,constructive algorithms;dfs and similar;geometry;graphs;sortings;trees,https://codeforces.com/contest/1519/problem/E,div2
+572,1521,Codeforces Round 720 (Div. 2),E,Nastia and a Beautiful Matrix,2700,714,binary search;constructive algorithms;dp;greedy,https://codeforces.com/contest/1521/problem/E,div2
+573,1543,Codeforces Round 730 (Div. 2),E,The Final Pursuit,2700,430,bitmasks;constructive algorithms;divide and conquer;graphs;greedy;math,https://codeforces.com/contest/1543/problem/E,div2
+574,1617,Codeforces Round 761 (Div. 2),E,Christmas Chocolates,2700,933,dfs and similar;dp;games;graphs;implementation;math;number theory;shortest paths;trees,https://codeforces.com/contest/1617/problem/E,div2
+575,1682,Codeforces Round 793 (Div. 2),E,Unordered Swaps,2700,672,constructive algorithms;dfs and similar;graphs;greedy;math;sortings;trees,https://codeforces.com/contest/1682/problem/E,div2
+576,1695,Codeforces Round 801 (Div. 2) and EPIC Institute of Technology Round,E,Ambiguous Dominoes,2700,474,constructive algorithms;dfs and similar;graphs,https://codeforces.com/contest/1695/problem/E,div2
+577,1720,Codeforces Round 815 (Div. 2),E,Misha and Paintings,2700,900,constructive algorithms;data structures;greedy;implementation;math,https://codeforces.com/contest/1720/problem/E,div2
+578,1730,Codeforces Round 823 (Div. 2),E,Maximums and Minimums,2700,699,combinatorics;data structures;divide and conquer;number theory,https://codeforces.com/contest/1730/problem/E,div2
+579,1733,Codeforces Round 821 (Div. 2),E,Conveyor,2700,1375,constructive algorithms;dp;math,https://codeforces.com/contest/1733/problem/E,div2
+580,1993,Codeforces Round 963 (Div. 2),E,Xor-Grid Problem,2700,686,bitmasks;constructive algorithms;dp;implementation,https://codeforces.com/contest/1993/problem/E,div2
+581,493,Codeforces Round 281 (Div. 2),E,Vasya and Polynomial,2800,508,math,https://codeforces.com/contest/493/problem/E,div2
+582,581,Codeforces Round 322 (Div. 2),E,Kojiro and Furrari,2800,215,dp;greedy,https://codeforces.com/contest/581/problem/E,div2
+583,625,Codeforces Round 342 (Div. 2),E,Frog Fights,2800,367,data structures;greedy,https://codeforces.com/contest/625/problem/E,div2
+584,842,Codeforces Round 430 (Div. 2),E,Nikita and game,2800,479,binary search;dfs and similar;divide and conquer;graphs;trees,https://codeforces.com/contest/842/problem/E,div2
+585,887,Codeforces Round 444 (Div. 2),E,Little Brother,2800,175,binary search;geometry;sortings,https://codeforces.com/contest/887/problem/E,div2
+586,1379,Codeforces Round 657 (Div. 2),E,Inverse Genealogy,2800,449,constructive algorithms;divide and conquer;dp;math;trees,https://codeforces.com/contest/1379/problem/E,div2
+587,1557,Codeforces Round 737 (Div. 2),E,Assiut Chess,2800,745,brute force;constructive algorithms;interactive,https://codeforces.com/contest/1557/problem/E,div2
+588,1732,Codeforces Round 830 (Div. 2),E,Location,2800,485,data structures;dp;math;number theory,https://codeforces.com/contest/1732/problem/E,div2
+589,1884,Codeforces Round 904 (Div. 2),E,Hard Design,2800,354,greedy;implementation;math,https://codeforces.com/contest/1884/problem/E,div2
+590,2055,Codeforces Round 996 (Div. 2),E,Haystacks,2800,418,brute force;constructive algorithms;data structures;greedy;sortings,https://codeforces.com/contest/2055/problem/E,div2
+591,2113,Codeforces Round 1031 (Div. 2),E,From Kazan with Love,2800,309,dfs and similar;graphs;implementation;trees,https://codeforces.com/contest/2113/problem/E,div2
+592,478,Codeforces Round 273 (Div. 2),E,Wavy numbers,2900,232,brute force;dfs and similar;meet-in-the-middle;sortings,https://codeforces.com/contest/478/problem/E,div2
+593,505,Codeforces Round 286 (Div. 2),E,Mr. Kitayuta vs. Bamboos,2900,1504,binary search;greedy,https://codeforces.com/contest/505/problem/E,div2
+594,955,Codeforces Round 471 (Div. 2),E,Icicles,2900,102,,https://codeforces.com/contest/955/problem/E,div2
+595,1372,Codeforces Round 655 (Div. 2),E,Omkar and Last Floor,2900,1339,dp;greedy;two pointers,https://codeforces.com/contest/1372/problem/E,div2
+596,1747,Codeforces Round 832 (Div. 2),E,List Generation,2900,578,combinatorics;dp;math,https://codeforces.com/contest/1747/problem/E,div2
+597,1847,Codeforces Round 882 (Div. 2),E,Triangle Platinum?,2900,355,brute force;combinatorics;implementation;interactive;math;probabilities,https://codeforces.com/contest/1847/problem/E,div2
+598,2042,Educational Codeforces Round 172 (Rated for Div. 2),E,Vertex Pairs,2900,466,binary search;brute force;data structures;dfs and similar;divide and conquer;greedy;implementation;trees,https://codeforces.com/contest/2042/problem/E,div2
+599,798,Codeforces Round 410 (Div. 2),E,Mike and code of a permutation,3000,524,constructive algorithms;data structures;graphs;sortings,https://codeforces.com/contest/798/problem/E,div2
+600,1934,Codeforces Round 931 (Div. 2),E,Weird LCM Operations,3000,274,brute force;constructive algorithms;number theory,https://codeforces.com/contest/1934/problem/E,div2

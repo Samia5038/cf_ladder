@@ -1,0 +1,1200 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Codeforces Ladder</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f9fa;
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.controls {
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+.controls input, .controls select {
+    padding: 6px 10px;
+    font-size: 14px;
+}
+button {
+    padding: 6px 12px;
+    font-size: 14px;
+    cursor: pointer;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+th {
+    background-color: #007bff;
+    color: white;
+    text-align: left;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+.tag {
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin: 2px;
+    font-size: 12px;
+    background-color: #e9ecef;
+}
+</style>
+</head>
+<body>
+<h1>Codeforces Ladder</h1>
+
+<div class="controls">
+    <input type="text" id="handle" placeholder="Enter your CF handle" value="Samia5038">
+    <input type="number" id="minRating" placeholder="Min rating" value="800">
+    <input type="number" id="maxRating" placeholder="Max rating" value="3500">
+    <select id="sort">
+        <option value="solved">Most Solved</option>
+        <option value="rating">Rating</option>
+        <option value="newest">Newest</option>
+        <option value="oldest">Oldest</option>
+    </select>
+    <button onclick="loadProblems()">Load Ladder</button>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Problem</th>
+            <th>Contest</th>
+            <th>Rating</th>
+            <th>Solved</th>
+            <th>Tags</th>
+            <th>Division</th>
+        </tr>
+    </thead>
+    <tbody id="problemsTableBody"></tbody>
+</table>
+
+<script>
+async function loadProblems() {
+    const handle = document.getElementById("handle").value;
+    const min = document.getElementById("minRating").value;
+    const max = document.getElementById("maxRating").value;
+    const sort = document.getElementById("sort").value;
+
+    const url = `http://127.0.0.1:5000/api/ladder?handle=${handle}&min=${min}&max=${max}&sort=${sort}`;
+    const res = await fetch(url);
+    const problems = await res.json();
+
+    const table = document.getElementById("problemsTableBody");
+    table.innerHTML = "";
+
+    if (problems.length === 0) {
+        table.innerHTML = `<tr><td colspan="7" style="text-align:center">No problems found</td></tr>`;
+        return;
+    }
+
+    problems.forEach((p, i) => {
+        const tagsHtml = p.tags.map(t => `<span class="tag">${t}</span>`).join(" ");
+        const row = `<tr>
+            <td>${i+1}</td>
+            <td><a href="${p.link}" target="_blank">${p.contestId}${p.index} — ${p.name}</a></td>
+            <td>${p.contestName}</td>
+            <td>${p.rating}</td>
+            <td>${p.solvedCount}</td>
+            <td>${tagsHtml}</td>
+            <td>${p.division}</td>
+        </tr>`;
+        table.innerHTML += row;
+    });
+}
+
+// Load on page load
+window.onload = loadProblems;
+</script>
+</body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Codeforces Ladder — Samia5038</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body { font-family: system-ui,Segoe UI,Roboto,Arial,sans-serif; margin: 20px; }
+table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+th, td { border: 1px solid #ddd; padding: 8px; vertical-align: top; }
+th { background: #f5f5f5; text-align: left; }
+tr:nth-child(even) { background: #fafafa; }
+.tag { display: inline-block; padding: 2px 6px; border-radius: 10px; border: 1px solid #ccc; margin: 2px; font-size: 12px; }
+.filter-row { margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<h1>Codeforces Ladder — Samia5038</h1>
+
+<div class="filter-row">
+    Min Rating: <input type="number" id="minRating" value="800">
+    Max Rating: <input type="number" id="maxRating" value="3500">
+    Sort by: 
+    <select id="sortKey">
+        <option value="solved">Solved</option>
+        <option value="rating" selected>Rating</option>
+        <option value="newest">Newest</option>
+        <option value="oldest">Oldest</option>
+    </select>
+</div>
+
+<div class="filter-row">
+    Problem Indices:
+    <label><input type="checkbox" class="indexCheckbox" value="A" checked> A</label>
+    <label><input type="checkbox" class="indexCheckbox" value="B" checked> B</label>
+    <label><input type="checkbox" class="indexCheckbox" value="C" checked> C</label>
+    <label><input type="checkbox" class="indexCheckbox" value="D" checked> D</label>
+    <label><input type="checkbox" class="indexCheckbox" value="E" checked> E</label>
+    <label><input type="checkbox" class="indexCheckbox" value="F" checked> F</label>
+    <label><input type="checkbox" class="indexCheckbox" value="G" checked> G</label>
+    <label><input type="checkbox" class="indexCheckbox" value="H" checked> H</label>
+</div>
+
+<button id="applyBtn">Apply</button>
+
+<table id="ladderTable">
+<thead>
+<tr>
+<th>#</th>
+<th>Problem</th>
+<th>Contest</th>
+<th>Division</th>
+<th>Rating</th>
+<th>Solved</th>
+<th>Tags</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+
+<script>
+async function fetchLadder() {
+    const minRating = document.getElementById('minRating').value;
+    const maxRating = document.getElementById('maxRating').value;
+    const sortKey = document.getElementById('sortKey').value;
+
+    // get selected indices
+    const indices = Array.from(document.querySelectorAll('.indexCheckbox:checked'))
+                        .map(cb => cb.value);
+
+    const url = new URL('http://127.0.0.1:5000/api/ladder');
+    url.searchParams.append('min', minRating);
+    url.searchParams.append('max', maxRating);
+    url.searchParams.append('sort', sortKey);
+
+    try {
+        const res = await fetch(url);
+        const data = await res.json();
+        const filtered = data.filter(p => indices.includes(p.index));
+        populateTable(filtered);
+    } catch (err) {
+        alert('Failed to fetch ladder. Make sure backend is running.');
+        console.error(err);
+    }
+}
+
+function populateTable(rows) {
+    const tbody = document.querySelector('#ladderTable tbody');
+    tbody.innerHTML = '';
+    rows.forEach((r, i) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+            <td>${i+1}</td>
+            <td><a href="${r.link}" target="_blank" rel="noopener">${r.index} — ${r.name}</a></td>
+            <td>${r.contestName}</td>
+            <td>${r.division}</td>
+            <td>${r.rating}</td>
+            <td>${r.solvedCount}</td>
+            <td>${r.tags.join(' ')}</td>
+        `;
+        tbody.appendChild(tr);
+    });
+}
+
+// initial load
+fetchLadder();
+
+// apply button
+document.getElementById('applyBtn').addEventListener('click', fetchLadder);
+</script>
+</body>
+</html> -->
+
+
+
+
+<!-- 
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CF Ladder — Interactive</title>
+<style>
+:root{--primary:#0d6efd;--muted:#6c757d}
+body{font-family:system-ui,Segoe UI,Roboto,Arial;background:#f5f7fb;margin:0;padding:20px}
+.container{max-width:1200px;margin:0 auto;background:#fff;padding:18px;border-radius:10px;box-shadow:0 6px 18px rgba(15,15,15,0.06)}
+h1{margin:0 0 14px;font-size:22px;text-align:center;color:#111}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;margin-bottom:12px}
+.controls input, .controls select, .controls button {padding:8px 10px;font-size:14px}
+.indices {display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.indices label{font-weight:600}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{padding:8px;border-bottom:1px solid #eee;text-align:left;vertical-align:top}
+th{background:var(--primary);color:#fff;position:sticky;top:0}
+tr:nth-child(even){background:#fbfcff}
+.tag{display:inline-block;background:#eef2ff;padding:3px 8px;border-radius:999px;margin:2px 4px;font-size:12px;color:#0b3d91}
+.small{font-size:13px;color:var(--muted)}
+.left{display:flex;gap:8px;align-items:center}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Codeforces Ladder — Interactive</h1>
+
+  <div class="controls">
+    <div class="left">
+      <label class="small">Handle</label>
+      <input id="handle" value="Samia5038" placeholder="Codeforces handle">
+    </div>
+
+    <div class="left">
+      <label class="small">Min Rating</label>
+      <input id="minRating" type="number" value="800" style="width:90px">
+    </div>
+
+    <div class="left">
+      <label class="small">Max Rating</label>
+      <input id="maxRating" type="number" value="3500" style="width:90px">
+    </div>
+
+    <div class="left">
+      <label class="small">Sort</label>
+      <select id="sortKey"><option value="solved">Most solved</option><option value="rating">Rating</option><option value="newest">Newest</option><option value="oldest">Oldest</option></select>
+    </div>
+
+    <div class="indices">
+      <label class="small">Indices</label>
+      <label><input type="checkbox" name="idx" value="A" checked> A</label>
+      <label><input type="checkbox" name="idx" value="B" checked> B</label>
+      <label><input type="checkbox" name="idx" value="C" checked> C</label>
+      <label><input type="checkbox" name="idx" value="D" checked> D</label>
+      <label><input type="checkbox" name="idx" value="E" checked> E</label>
+      <label><input type="checkbox" name="idx" value="F" checked> F</label>
+      <label><input type="checkbox" name="idx" value="G"> G</label>
+      <label><input type="checkbox" name="idx" value="H"> H</label>
+    </div>
+
+    <button id="apply">Apply</button>
+    <button id="random" title="Open a random unsolved problem">Random</button>
+  </div>
+
+  <div id="info" class="small" style="text-align:center;margin-bottom:6px"></div>
+
+  <table id="ladder">
+    <thead>
+      <tr><th>#</th><th>Problem</th><th>Contest</th><th>Division</th><th>Rating</th><th>Solved</th><th>Tags</th></tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</div>
+
+<script>
+const API_BASE = "http://127.0.0.1:5000/api/ladder";
+
+function getSelectedIndices(){
+  return Array.from(document.querySelectorAll('input[name="idx"]:checked')).map(n=>n.value).join(',');
+}
+
+async function load(){
+  const handle = document.getElementById('handle').value.trim();
+  const min = document.getElementById('minRating').value || 800;
+  const max = document.getElementById('maxRating').value || 3500;
+  const sort = document.getElementById('sortKey').value;
+  const indices = getSelectedIndices();
+  const url = `${API_BASE}?handle=${encodeURIComponent(handle)}&min=${min}&max=${max}&sort=${sort}&indices=${encodeURIComponent(indices)}`;
+  document.getElementById('info').textContent = 'Loading...';
+  try{
+    const res = await fetch(url);
+    const data = await res.json();
+    if (data.error){ document.getElementById('info').textContent = 'Error: '+data.error; return; }
+    render(data);
+    document.getElementById('info').textContent = `Showing ${data.length} problems (handle: ${handle || 'none'})`;
+  }catch(e){
+    document.getElementById('info').textContent = 'Failed to fetch — make sure backend is running';
+    console.error(e);
+  }
+}
+
+function render(data){
+  const tbody = document.querySelector('#ladder tbody');
+  tbody.innerHTML = '';
+  if(!data || data.length===0){ tbody.innerHTML = '<tr><td colspan="7" style="text-align:center">No problems</td></tr>'; return; }
+  data.forEach((p,i)=>{
+    const tags = (p.tags||[]).map(t=>`<span class="tag">${t}</span>`).join(' ');
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${i+1}</td>
+      <td><a href="${p.link}" target="_blank">${p.index} — ${escapeHtml(p.name)}</a></td>
+      <td class="small">${escapeHtml(p.contestName)}</td>
+      <td>${p.division}</td>
+      <td>${p.rating}</td>
+      <td>${p.solvedCount}</td>
+      <td>${tags}</td>`;
+    tbody.appendChild(tr);
+  });
+}
+
+function escapeHtml(s){ return String(s||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+document.getElementById('apply').addEventListener('click', load);
+
+document.getElementById('random').addEventListener('click', async ()=>{
+  const handle = document.getElementById('handle').value.trim();
+  const min = document.getElementById('minRating').value || 800;
+  const max = document.getElementById('maxRating').value || 3500;
+  const indices = getSelectedIndices();
+  const url = `${API_BASE}?handle=${encodeURIComponent(handle)}&min=${min}&max=${max}&sort=solved&indices=${encodeURIComponent(indices)}`;
+  try{
+    const res = await fetch(url);
+    const data = await res.json();
+    if (!data || !data.length){ alert('No problems found'); return; }
+    const pick = data[Math.floor(Math.random()*data.length)];
+    window.open(pick.link, '_blank');
+  }catch(e){ alert('Failed to fetch random problem'); }
+});
+
+// load on open
+load();
+</script>
+</body>
+</html> -->
+
+<!-- 
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CF Ladder — A–H filter</title>
+<style>
+:root{--primary:#0d6efd;--muted:#6c757d}
+body{font-family:system-ui,Segoe UI,Roboto,Arial;background:#f5f7fb;margin:0;padding:20px}
+.container{max-width:1200px;margin:0 auto;background:#fff;padding:18px;border-radius:10px;box-shadow:0 6px 18px rgba(15,15,15,0.06)}
+h1{margin:0 0 14px;font-size:22px;text-align:center;color:#111}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;margin-bottom:12px}
+.controls input, .controls select, .controls button {padding:8px 10px;font-size:14px}
+.indices {display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.indices label{font-weight:600}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{padding:8px;border-bottom:1px solid #eee;text-align:left;vertical-align:top}
+th{background:var(--primary);color:#fff;position:sticky;top:0}
+tr:nth-child(even){background:#fbfcff}
+.tag{display:inline-block;background:#eef2ff;padding:3px 8px;border-radius:999px;margin:2px 4px;font-size:12px;color:#0b3d91}
+.small{font-size:13px;color:var(--muted)}
+.button-row{display:flex;gap:8px;align-items:center}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Codeforces Ladder — Interactive (A–H)</h1>
+
+  <div class="controls">
+    <input id="handle" placeholder="CF handle (optional)" value="Samia5038">
+    <input id="minRating" type="number" value="800" style="width:90px" title="Min rating">
+    <input id="maxRating" type="number" value="3500" style="width:90px" title="Max rating">
+    <select id="sortKey"><option value="solved">Most solved</option><option value="rating">Rating</option><option value="newest">Newest</option><option value="oldest">Oldest</option></select>
+
+    <div class="indices" title="Pick indices">
+      <label><input type="checkbox" name="idx" value="A" checked> A</label>
+      <label><input type="checkbox" name="idx" value="B" checked> B</label>
+      <label><input type="checkbox" name="idx" value="C" checked> C</label>
+      <label><input type="checkbox" name="idx" value="D" checked> D</label>
+      <label><input type="checkbox" name="idx" value="E" checked> E</label>
+      <label><input type="checkbox" name="idx" value="F" checked> F</label>
+      <label><input type="checkbox" name="idx" value="G"> G</label>
+      <label><input type="checkbox" name="idx" value="H"> H</label>
+    </div>
+
+    <div class="button-row">
+      <button id="apply">Apply</button>
+      <button id="onlyA" title="Select only A">Only A</button>
+      <button id="onlyB" title="Select only B">Only B</button>
+      <button id="random" title="Open random problem">Random</button>
+      <button id="export">Export CSV</button>
+    </div>
+  </div>
+
+  <div id="info" class="small" style="text-align:center;margin-bottom:6px"></div>
+
+  <table id="ladder">
+    <thead>
+      <tr><th>#</th><th>Problem</th><th>Contest</th><th>Division</th><th>Rating</th><th>Solved</th><th>Tags</th></tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</div>
+
+<script>
+const API_BASE = "http://127.0.0.1:5000/api/ladder";
+
+function getSelectedIndices(){
+  return Array.from(document.querySelectorAll('input[name="idx"]:checked')).map(n=>n.value);
+}
+
+function setOnly(index){
+  document.querySelectorAll('input[name="idx"]').forEach(cb => cb.checked = false);
+  const el = document.querySelector(`input[name="idx"][value="${index}"]`);
+  if(el) el.checked = true;
+}
+
+async function load(){
+  const handle = document.getElementById('handle').value.trim();
+  const min = document.getElementById('minRating').value || 800;
+  const max = document.getElementById('maxRating').value || 3500;
+  const sort = document.getElementById('sortKey').value;
+  const indices = getSelectedIndices().join(',');
+  document.getElementById('info').textContent = 'Loading...';
+  try{
+    const url = `${API_BASE}?handle=${encodeURIComponent(handle)}&min=${min}&max=${max}&sort=${sort}&indices=${encodeURIComponent(indices)}`;
+    const res = await fetch(url);
+    const data = await res.json();
+    if(data.error){ document.getElementById('info').textContent = 'Error: '+data.error; return; }
+    render(data);
+    document.getElementById('info').textContent = `Showing ${data.length} problems — handle: ${handle || 'none'}`;
+  }catch(e){
+    document.getElementById('info').textContent = 'Failed to fetch — is backend running?';
+    console.error(e);
+  }
+}
+
+function render(data){
+  const tbody = document.querySelector('#ladder tbody');
+  tbody.innerHTML = '';
+  if(!data || data.length===0){ tbody.innerHTML = '<tr><td colspan="7" style="text-align:center">No problems</td></tr>'; return; }
+  data.forEach((p,i)=>{
+    const tags = (p.tags||[]).map(t=>`<span class="tag">${escapeHtml(t)}</span>`).join(' ');
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${i+1}</td>
+      <td><a href="${p.link}" target="_blank">${p.index} — ${escapeHtml(p.name)}</a></td>
+      <td class="small">${escapeHtml(p.contestName)}</td>
+      <td>${escapeHtml(p.division)}</td>
+      <td>${p.rating}</td>
+      <td>${p.solvedCount}</td>
+      <td>${tags}</td>`;
+    tbody.appendChild(tr);
+  });
+}
+
+function escapeHtml(s){ return String(s||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+document.getElementById('apply').addEventListener('click', load);
+document.getElementById('onlyA').addEventListener('click', ()=>{ setOnly('A'); load(); });
+document.getElementById('onlyB').addEventListener('click', ()=>{ setOnly('B'); load(); });
+
+document.getElementById('random').addEventListener('click', async ()=>{
+  const handle = document.getElementById('handle').value.trim();
+  const min = document.getElementById('minRating').value || 800;
+  const max = document.getElementById('maxRating').value || 3500;
+  const indices = getSelectedIndices().join(',');
+  try{
+    const url = `${API_BASE}?handle=${encodeURIComponent(handle)}&min=${min}&max=${max}&sort=solved&indices=${encodeURIComponent(indices)}`;
+    const res = await fetch(url);
+    const data = await res.json();
+    if(!data || data.length===0){ alert('No problems found'); return; }
+    const pick = data[Math.floor(Math.random()*data.length)];
+    window.open(pick.link, '_blank');
+  }catch(e){ alert('Failed to fetch random problem'); }
+});
+
+document.getElementById('export').addEventListener('click', ()=>{
+  const rows = Array.from(document.querySelectorAll('#ladder tbody tr'));
+  if(rows.length===0){ alert('Nothing to export'); return; }
+  const csv = ['#,contestId,index,name,contestName,rating,solvedCount,tags,division,link'];
+  rows.forEach((tr,i)=>{
+    const cells = Array.from(tr.querySelectorAll('td'));
+    const nameCell = cells[1].querySelector('a').textContent.replace(/,/g,'');
+    const link = cells[1].querySelector('a').href;
+    const contestName = cells[2].textContent.replace(/,/g,'');
+    const rating = cells[4].textContent;
+    const solvedCount = cells[5].textContent;
+    const tags = cells[6].textContent.replace(/,/g,';');
+    const index = cells[1].querySelector('a').textContent.split(' — ')[0].trim();
+    const contestId = link.split('/contest/')[1].split('/')[0];
+    const division = cells[3].textContent;
+    csv.push(`${i+1},${contestId},${index},"${nameCell}","${contestName}",${rating},${solvedCount},"${tags}",${division},${link}`);
+  });
+  const blob = new Blob([csv.join('\n')], {type:'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'ladder_export.csv'; a.click();
+  URL.revokeObjectURL(url);
+});
+
+// initial load
+load();
+</script>
+</body>
+</html> -->
+
+<!-- 
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CF Ladder — Paginated</title>
+<style>
+:root{--primary:#0d6efd;--muted:#6c757d}
+body{font-family:system-ui,Segoe UI,Roboto,Arial;background:#f5f7fb;margin:0;padding:20px}
+.container{max-width:1200px;margin:0 auto;background:#fff;padding:18px;border-radius:10px;box-shadow:0 6px 18px rgba(15,15,15,0.06)}
+h1{margin:0 0 14px;font-size:22px;text-align:center;color:#111}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;margin-bottom:12px}
+.controls input, .controls select, .controls button {padding:8px 10px;font-size:14px}
+.indices {display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.indices label{font-weight:600}
+.table-wrap{overflow:auto}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{padding:8px;border-bottom:1px solid #eee;text-align:left;vertical-align:top;white-space:nowrap}
+th{background:var(--primary);color:#fff;position:sticky;top:0}
+tr:nth-child(even){background:#fbfcff}
+.tag{display:inline-block;background:#eef2ff;padding:3px 8px;border-radius:999px;margin:2px 4px;font-size:12px;color:#0b3d91}
+.small{font-size:13px;color:var(--muted)}
+.pager {display:flex;gap:8px;align-items:center;justify-content:center;margin-top:10px}
+.pager input[type="number"]{width:70px;padding:6px}
+.info{margin-top:6px;text-align:center;color:var(--muted)}
+.button-row{display:flex;gap:8px;align-items:center}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Codeforces Ladder — Paginated (A–H)</h1>
+
+  <div class="controls">
+    <input id="handle" placeholder="CF handle (optional)" value="Samia5038">
+    <input id="minRating" type="number" value="800" style="width:90px" title="Min rating">
+    <input id="maxRating" type="number" value="3500" style="width:90px" title="Max rating">
+    <select id="sortKey"><option value="solved">Most solved</option><option value="rating">Rating</option><option value="newest">Newest</option><option value="oldest">Oldest</option></select>
+
+    <div class="indices" title="Pick indices">
+      <label><input type="checkbox" name="idx" value="A" checked> A</label>
+      <label><input type="checkbox" name="idx" value="B" checked> B</label>
+      <label><input type="checkbox" name="idx" value="C" checked> C</label>
+      <label><input type="checkbox" name="idx" value="D" checked> D</label>
+      <label><input type="checkbox" name="idx" value="E" checked> E</label>
+      <label><input type="checkbox" name="idx" value="F" checked> F</label>
+      <label><input type="checkbox" name="idx" value="G"> G</label>
+      <label><input type="checkbox" name="idx" value="H"> H</label>
+    </div>
+
+    <div class="button-row">
+      <button id="apply">Apply</button>
+      <button id="onlyA" title="Select only A">Only A</button>
+      <button id="onlyB" title="Select only B">Only B</button>
+      <button id="random" title="Open random problem">Random</button>
+      <button id="export" title="Export all filtered as CSV">Export CSV</button>
+    </div>
+  </div>
+
+  <div id="info" class="info">Loading...</div>
+
+  <div class="table-wrap">
+    <table id="ladder">
+      <thead>
+        <tr><th>#</th><th>Problem</th><th>Contest</th><th>Division</th><th>Rating</th><th>Solved</th><th>Tags</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="pager">
+    <button id="prev">Prev</button>
+    <span>Page</span>
+    <input id="pageInput" type="number" min="1" value="1">
+    <span>/ <span id="pageCount">1</span></span>
+    <button id="next">Next</button>
+    <label style="margin-left:12px">Per page:
+      <select id="pageSize"><option>10</option><option>25</option><option>50</option><option>100</option></select>
+    </label>
+  </div>
+</div>
+
+<script>
+const API_BASE = "http://127.0.0.1:5000/api/ladder";
+let fullData = [];          // full filtered results from backend
+let currentPage = 1;
+let pageSize = 25;
+
+function getSelectedIndices(){ return Array.from(document.querySelectorAll('input[name="idx"]:checked')).map(n=>n.value); }
+function setOnly(index){ document.querySelectorAll('input[name="idx"]').forEach(cb => cb.checked = false); const el = document.querySelector(`input[name="idx"][value="${index}"]`); if(el) el.checked = true; }
+
+async function load(){
+  const handle = document.getElementById('handle').value.trim();
+  const min = document.getElementById('minRating').value || 800;
+  const max = document.getElementById('maxRating').value || 3500;
+  const sort = document.getElementById('sortKey').value;
+  const indices = getSelectedIndices().join(',');
+  document.getElementById('info').textContent = 'Loading...';
+  try{
+    const url = `${API_BASE}?handle=${encodeURIComponent(handle)}&min=${min}&max=${max}&sort=${sort}&indices=${encodeURIComponent(indices)}`;
+    const res = await fetch(url);
+    const data = await res.json();
+    if(data.error){ document.getElementById('info').textContent = 'Error: '+data.error; fullData=[]; renderPage(); return; }
+    fullData = data;
+    currentPage = 1;
+    pageSize = parseInt(document.getElementById('pageSize').value,10);
+    renderPage();
+    document.getElementById('info').textContent = `Total: ${fullData.length} problems (filters applied)`;
+  }catch(e){
+    document.getElementById('info').textContent = 'Failed to fetch — make sure backend is running.';
+    console.error(e);
+    fullData = [];
+    renderPage();
+  }
+}
+
+function renderPage(){
+  const tbody = document.querySelector('#ladder tbody');
+  tbody.innerHTML = '';
+  const total = fullData.length;
+  pageSize = parseInt(document.getElementById('pageSize').value,10) || 25;
+  const pageCount = Math.max(1, Math.ceil(total / pageSize));
+  if(currentPage > pageCount) currentPage = pageCount;
+  document.getElementById('pageCount').textContent = pageCount;
+  document.getElementById('pageInput').value = currentPage;
+
+  if(total === 0){
+    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center">No problems</td></tr>';
+    return;
+  }
+  const start = (currentPage-1)*pageSize;
+  const end = Math.min(total, start + pageSize);
+  for(let i=start;i<end;i++){
+    const p = fullData[i];
+    const tags = (p.tags||[]).map(t=>`<span class="tag">${escapeHtml(t)}</span>`).join(' ');
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${i+1}</td>
+      <td><a href="${p.link}" target="_blank">${p.index} — ${escapeHtml(p.name)}</a></td>
+      <td class="small">${escapeHtml(p.contestName)}</td>
+      <td>${escapeHtml(p.division)}</td>
+      <td>${p.rating}</td>
+      <td>${p.solvedCount}</td>
+      <td>${tags}</td>`;
+    tbody.appendChild(tr);
+  }
+}
+
+function escapeHtml(s){ return String(s||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+// events
+document.getElementById('apply').addEventListener('click', load);
+document.getElementById('onlyA').addEventListener('click', ()=>{ setOnly('A'); load(); });
+document.getElementById('onlyB').addEventListener('click', ()=>{ setOnly('B'); load(); });
+
+document.getElementById('pageSize').addEventListener('change', ()=>{ currentPage=1; renderPage(); });
+document.getElementById('prev').addEventListener('click', ()=>{ if(currentPage>1){ currentPage--; renderPage(); }});
+document.getElementById('next').addEventListener('click', ()=>{ const maxp = Math.max(1, Math.ceil(fullData.length / pageSize)); if(currentPage<maxp){ currentPage++; renderPage(); }});
+document.getElementById('pageInput').addEventListener('change', (e)=>{ let v=parseInt(e.target.value||1,10); const maxp = Math.max(1, Math.ceil(fullData.length / pageSize)); if(isNaN(v)||v<1) v=1; if(v>maxp) v=maxp; currentPage=v; renderPage(); });
+
+document.getElementById('random').addEventListener('click', ()=>{
+  if(!fullData.length){ alert('No problems to pick from'); return; }
+  const pick = fullData[Math.floor(Math.random()*fullData.length)];
+  window.open(pick.link, '_blank');
+});
+
+document.getElementById('export').addEventListener('click', ()=>{
+  if(!fullData.length){ alert('Nothing to export'); return; }
+  const csv = ['#","contestId","index","name","contestName","rating","solvedCount","tags","division","link'];
+  fullData.forEach((p,i)=>{
+    const tags = (p.tags||[]).join(';').replace(/"/g,'""');
+    const name = (p.name||'').replace(/"/g,'""');
+    const contestName = (p.contestName||'').replace(/"/g,'""');
+    csv.push([i+1,p.contestId,p.index,`"${name}"`,`"${contestName}"`,p.rating,p.solvedCount,`"${tags}"`,p.division,p.link].join(','));
+  });
+  const blob = new Blob([csv.join('\n')], {type:'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href=url; a.download='ladder_export.csv'; a.click(); URL.revokeObjectURL(url);
+});
+
+// initial load
+load();
+</script>
+</body>
+</html> -->
+
+
+
+
+<!-- <!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CF Ladder — Paginated</title>
+<style>
+:root{--primary:#0d6efd;--muted:#6c757d}
+body{font-family:system-ui,Segoe UI,Roboto,Arial;background:#f5f7fb;margin:0;padding:20px}
+.container{max-width:1200px;margin:0 auto;background:#fff;padding:18px;border-radius:10px;box-shadow:0 6px 18px rgba(15,15,15,0.06)}
+h1{margin:0 0 14px;font-size:22px;text-align:center;color:#111}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;margin-bottom:12px}
+.controls input, .controls select, .controls button {padding:8px 10px;font-size:14px}
+.indices {display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.indices label{font-weight:600}
+.table-wrap{overflow:auto}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{padding:8px;border-bottom:1px solid #eee;text-align:left;vertical-align:top;white-space:nowrap}
+th{background:var(--primary);color:#fff;position:sticky;top:0}
+tr:nth-child(even){background:#fbfcff}
+.tag{display:inline-block;background:#eef2ff;padding:3px 8px;border-radius:999px;margin:2px 4px;font-size:12px;color:#0b3d91}
+.small{font-size:13px;color:var(--muted)}
+.pager {display:flex;gap:8px;align-items:center;justify-content:center;margin-top:10px}
+.pager input[type="number"]{width:70px;padding:6px}
+.info{margin-top:6px;text-align:center;color:var(--muted)}
+.button-row{display:flex;gap:8px;align-items:center}
+
+/* ✅ Highlight solved problems */
+tr.solved td {
+  background: #e6ffe6;   /* light green background */
+  color: #444;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Codeforces Ladder — Paginated (A–H)</h1>
+
+  <div class="controls">
+    <input id="handle" placeholder="CF handle (optional)" value="Samia5038">
+    <input id="minRating" type="number" value="800" style="width:90px" title="Min rating">
+    <input id="maxRating" type="number" value="3500" style="width:90px" title="Max rating">
+    <select id="sortKey">
+      <option value="solved">Most solved</option>
+      <option value="rating">Rating</option>
+      <option value="newest">Newest</option>
+      <option value="oldest">Oldest</option>
+    </select>
+
+    <div class="indices" title="Pick indices">
+      <label><input type="checkbox" name="idx" value="A" checked> A</label>
+      <label><input type="checkbox" name="idx" value="B" checked> B</label>
+      <label><input type="checkbox" name="idx" value="C" checked> C</label>
+      <label><input type="checkbox" name="idx" value="D" checked> D</label>
+      <label><input type="checkbox" name="idx" value="E" checked> E</label>
+      <label><input type="checkbox" name="idx" value="F" checked> F</label>
+      <label><input type="checkbox" name="idx" value="G"> G</label>
+      <label><input type="checkbox" name="idx" value="H"> H</label>
+    </div>
+
+    <div class="button-row">
+      <button id="apply">Apply</button>
+      <button id="onlyA" title="Select only A">Only A</button>
+      <button id="onlyB" title="Select only B">Only B</button>
+      <button id="random" title="Open random problem">Random</button>
+      <button id="export" title="Export all filtered as CSV">Export CSV</button>
+    </div>
+  </div>
+
+  <div id="info" class="info">Loading...</div>
+
+  <div class="table-wrap">
+    <table id="ladder">
+      <thead>
+        <tr>
+          <th>#</th><th>Problem</th><th>Contest</th><th>Division</th>
+          <th>Rating</th><th>Solved</th><th>Tags</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="pager">
+    <button id="prev">Prev</button>
+    <span>Page</span>
+    <input id="pageInput" type="number" min="1" value="1">
+    <span>/ <span id="pageCount">1</span></span>
+    <button id="next">Next</button>
+    <label style="margin-left:12px">Per page:
+      <select id="pageSize"><option>10</option><option>25</option><option>50</option><option>100</option></select>
+    </label>
+  </div>
+</div>
+
+<script>
+const API_BASE = "http://127.0.0.1:5000/api/ladder";
+let fullData = [];
+let currentPage = 1;
+let pageSize = 25;
+
+function getSelectedIndices(){ 
+  return Array.from(document.querySelectorAll('input[name="idx"]:checked')).map(n=>n.value); 
+}
+function setOnly(index){ 
+  document.querySelectorAll('input[name="idx"]').forEach(cb => cb.checked = false); 
+  const el = document.querySelector(`input[name="idx"][value="${index}"]`); 
+  if(el) el.checked = true; 
+}
+
+async function load(){
+  const handle = document.getElementById('handle').value.trim();
+  const min = document.getElementById('minRating').value || 800;
+  const max = document.getElementById('maxRating').value || 3500;
+  const sort = document.getElementById('sortKey').value;
+  const indices = getSelectedIndices().join(',');
+  document.getElementById('info').textContent = 'Loading...';
+  try{
+    const url = `${API_BASE}?handle=${encodeURIComponent(handle)}&min=${min}&max=${max}&sort=${sort}&indices=${encodeURIComponent(indices)}`;
+    const res = await fetch(url);
+    const data = await res.json();
+    if(data.error){ 
+      document.getElementById('info').textContent = 'Error: '+data.error; 
+      fullData=[]; renderPage(); 
+      return; 
+    }
+    fullData = data;
+    currentPage = 1;
+    pageSize = parseInt(document.getElementById('pageSize').value,10);
+    renderPage();
+    document.getElementById('info').textContent = `Total: ${fullData.length} problems (filters applied)`;
+  }catch(e){
+    document.getElementById('info').textContent = 'Failed to fetch — make sure backend is running.';
+    console.error(e);
+    fullData = [];
+    renderPage();
+  }
+}
+
+function renderPage(){
+  const tbody = document.querySelector('#ladder tbody');
+  tbody.innerHTML = '';
+  const total = fullData.length;
+  pageSize = parseInt(document.getElementById('pageSize').value,10) || 25;
+  const pageCount = Math.max(1, Math.ceil(total / pageSize));
+  if(currentPage > pageCount) currentPage = pageCount;
+  document.getElementById('pageCount').textContent = pageCount;
+  document.getElementById('pageInput').value = currentPage;
+
+  if(total === 0){
+    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center">No problems</td></tr>';
+    return;
+  }
+  const start = (currentPage-1)*pageSize;
+  const end = Math.min(total, start + pageSize);
+  for(let i=start;i<end;i++){
+    const p = fullData[i];
+    const tags = (p.tags||[]).map(t=>`<span class="tag">${escapeHtml(t)}</span>`).join(' ');
+    const tr = document.createElement('tr');
+    if (p.solved) tr.classList.add('solved');   // ✅ mark solved
+    tr.innerHTML = `<td>${i+1}</td>
+      <td><a href="${p.link}" target="_blank">${p.index} — ${escapeHtml(p.name)}</a></td>
+      <td class="small">${escapeHtml(p.contestName)}</td>
+      <td>${escapeHtml(p.division)}</td>
+      <td>${p.rating}</td>
+      <td>${p.solvedCount}</td>
+      <td>${tags}</td>`;
+    tbody.appendChild(tr);
+  }
+}
+
+function escapeHtml(s){ 
+  return String(s||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); 
+}
+
+// events
+document.getElementById('apply').addEventListener('click', load);
+document.getElementById('onlyA').addEventListener('click', ()=>{ setOnly('A'); load(); });
+document.getElementById('onlyB').addEventListener('click', ()=>{ setOnly('B'); load(); });
+
+document.getElementById('pageSize').addEventListener('change', ()=>{ currentPage=1; renderPage(); });
+document.getElementById('prev').addEventListener('click', ()=>{ if(currentPage>1){ currentPage--; renderPage(); }});
+document.getElementById('next').addEventListener('click', ()=>{ const maxp = Math.max(1, Math.ceil(fullData.length / pageSize)); if(currentPage<maxp){ currentPage++; renderPage(); }});
+document.getElementById('pageInput').addEventListener('change', (e)=>{ 
+  let v=parseInt(e.target.value||1,10); 
+  const maxp = Math.max(1, Math.ceil(fullData.length / pageSize)); 
+  if(isNaN(v)||v<1) v=1; 
+  if(v>maxp) v=maxp; 
+  currentPage=v; 
+  renderPage(); 
+});
+
+document.getElementById('random').addEventListener('click', ()=>{
+  if(!fullData.length){ alert('No problems to pick from'); return; }
+  const pick = fullData[Math.floor(Math.random()*fullData.length)];
+  window.open(pick.link, '_blank');
+});
+
+document.getElementById('export').addEventListener('click', ()=>{
+  if(!fullData.length){ alert('Nothing to export'); return; }
+  const csv = ['#","contestId","index","name","contestName","rating","solvedCount","tags","division","link'];
+  fullData.forEach((p,i)=>{
+    const tags = (p.tags||[]).join(';').replace(/"/g,'""');
+    const name = (p.name||'').replace(/"/g,'""');
+    const contestName = (p.contestName||'').replace(/"/g,'""');
+    csv.push([i+1,p.contestId,p.index,`"${name}"`,`"${contestName}"`,p.rating,p.solvedCount,`"${tags}"`,p.division,p.link].join(','));
+  });
+  const blob = new Blob([csv.join('\n')], {type:'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); 
+  a.href=url; 
+  a.download='ladder_export.csv'; 
+  a.click(); 
+  URL.revokeObjectURL(url);
+});
+
+// initial load
+load();
+</script>
+</body>
+</html> -->
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CF Ladder — Paginated</title>
+<style>
+:root{--primary:#0d6efd;--muted:#6c757d}
+body{font-family:system-ui,Segoe UI,Roboto,Arial;background:#f5f7fb;margin:0;padding:20px}
+.container{max-width:1200px;margin:0 auto;background:#fff;padding:18px;border-radius:10px;box-shadow:0 6px 18px rgba(15,15,15,0.06)}
+h1{margin:0 0 14px;font-size:22px;text-align:center;color:#111}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;margin-bottom:12px}
+.controls input, .controls select, .controls button {padding:8px 10px;font-size:14px}
+.indices {display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.indices label{font-weight:600}
+.table-wrap{overflow:auto}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{padding:8px;border-bottom:1px solid #eee;text-align:left;vertical-align:top;white-space:nowrap}
+th{background:var(--primary);color:#fff;position:sticky;top:0}
+tr:nth-child(even){background:#fbfcff}
+.tag{display:inline-block;background:#eef2ff;padding:3px 8px;border-radius:999px;margin:2px 4px;font-size:12px;color:#0b3d91}
+.small{font-size:13px;color:var(--muted)}
+.pager {display:flex;gap:8px;align-items:center;justify-content:center;margin-top:10px}
+.pager input[type="number"]{width:70px;padding:6px}
+.info{margin-top:6px;text-align:center;color:var(--muted)}
+.button-row{display:flex;gap:8px;align-items:center}
+.credit {margin-top: 20px; text-align: center; color: var(--muted); font-size: 14px;}
+
+/* ✅ Highlight solved problems */
+tr.solved td {
+  background: #e6ffe6;   /* light green background */
+  color: #444;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Codeforces Ladder — Paginated (A–H)</h1>
+
+  <div class="controls">
+    <input id="handle" placeholder="CF handle (optional)" value="Samia5038">
+    <input id="minRating" type="number" value="800" style="width:90px" title="Min rating">
+    <input id="maxRating" type="number" value="3500" style="width:90px" title="Max rating">
+    <select id="sortKey">
+      <option value="solved">Most solved</option>
+      <option value="rating">Rating</option>
+      <option value="newest">Newest</option>
+      <option value="oldest">Oldest</option>
+    </select>
+
+    <div class="indices" title="Pick indices">
+      <label><input type="checkbox" name="idx" value="A" checked> A</label>
+      <label><input type="checkbox" name="idx" value="B" checked> B</label>
+      <label><input type="checkbox" name="idx" value="C" checked> C</label>
+      <label><input type="checkbox" name="idx" value="D" checked> D</label>
+      <label><input type="checkbox" name="idx" value="E" checked> E</label>
+      <label><input type="checkbox" name="idx" value="F" checked> F</label>
+      <label><input type="checkbox" name="idx" value="G"> G</label>
+      <label><input type="checkbox" name="idx" value="H"> H</label>
+    </div>
+
+    <div class="button-row">
+      <button id="apply">Apply</button>
+      <button id="onlyA" title="Select only A">Only A</button>
+      <button id="onlyB" title="Select only B">Only B</button>
+      <button id="random" title="Open random problem">Random</button>
+      <button id="export" title="Export all filtered as CSV">Export CSV</button>
+    </div>
+  </div>
+
+  <div id="info" class="info">Loading...</div>
+
+  <div class="table-wrap">
+    <table id="ladder">
+      <thead>
+        <tr>
+          <th>#</th><th>Problem</th><th>Contest</th><th>Division</th>
+          <th>Rating</th><th>Solved</th><th>Tags</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="pager">
+    <button id="prev">Prev</button>
+    <span>Page</span>
+    <input id="pageInput" type="number" min="1" value="1">
+    <span>/ <span id="pageCount">1</span></span>
+    <button id="next">Next</button>
+    <label style="margin-left:12px">Per page:
+      <select id="pageSize"><option>10</option><option>25</option><option>50</option><option>100</option></select>
+    </label>
+  </div>
+  
+  <div class="credit">Made by Samia5038</div>
+</div>
+
+<script>
+const API_BASE = "http://127.0.0.1:5000/api/ladder";
+let fullData = [];
+let currentPage = 1;
+let pageSize = 25;
+
+function getSelectedIndices(){ 
+  return Array.from(document.querySelectorAll('input[name="idx"]:checked')).map(n=>n.value); 
+}
+function setOnly(index){ 
+  document.querySelectorAll('input[name="idx"]').forEach(cb => cb.checked = false); 
+  const el = document.querySelector(`input[name="idx"][value="${index}"]`); 
+  if(el) el.checked = true; 
+}
+
+async function load(){
+  const handle = document.getElementById('handle').value.trim();
+  const min = document.getElementById('minRating').value || 800;
+  const max = document.getElementById('maxRating').value || 3500;
+  const sort = document.getElementById('sortKey').value;
+  const indices = getSelectedIndices().join(',');
+  document.getElementById('info').textContent = 'Loading...';
+  try{
+    const url = `${API_BASE}?handle=${encodeURIComponent(handle)}&min=${min}&max=${max}&sort=${sort}&indices=${encodeURIComponent(indices)}`;
+    const res = await fetch(url);
+    const data = await res.json();
+    if(data.error){ 
+      document.getElementById('info').textContent = 'Error: '+data.error; 
+      fullData=[]; renderPage(); 
+      return; 
+    }
+    fullData = data;
+    currentPage = 1;
+    pageSize = parseInt(document.getElementById('pageSize').value,10);
+    renderPage();
+    document.getElementById('info').textContent = `Total: ${fullData.length} problems (filters applied)`;
+  }catch(e){
+    document.getElementById('info').textContent = 'Failed to fetch — make sure backend is running.';
+    console.error(e);
+    fullData = [];
+    renderPage();
+  }
+}
+
+function renderPage(){
+  const tbody = document.querySelector('#ladder tbody');
+  tbody.innerHTML = '';
+  const total = fullData.length;
+  pageSize = parseInt(document.getElementById('pageSize').value,10) || 25;
+  const pageCount = Math.max(1, Math.ceil(total / pageSize));
+  if(currentPage > pageCount) currentPage = pageCount;
+  document.getElementById('pageCount').textContent = pageCount;
+  document.getElementById('pageInput').value = currentPage;
+
+  if(total === 0){
+    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center">No problems</td></tr>';
+    return;
+  }
+  const start = (currentPage-1)*pageSize;
+  const end = Math.min(total, start + pageSize);
+  for(let i=start;i<end;i++){
+    const p = fullData[i];
+    const tags = (p.tags||[]).map(t=>`<span class="tag">${escapeHtml(t)}</span>`).join(' ');
+    const tr = document.createElement('tr');
+    if (p.solved) tr.classList.add('solved');   // ✅ mark solved
+    tr.innerHTML = `<td>${i+1}</td>
+      <td><a href="${p.link}" target="_blank">${p.index} — ${escapeHtml(p.name)}</a></td>
+      <td class="small">${escapeHtml(p.contestName)}</td>
+      <td>${escapeHtml(p.division)}</td>
+      <td>${p.rating}</td>
+      <td>${p.solvedCount}</td>
+      <td>${tags}</td>`;
+    tbody.appendChild(tr);
+  }
+}
+
+function escapeHtml(s){ 
+  return String(s||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); 
+}
+
+// events
+document.getElementById('apply').addEventListener('click', load);
+document.getElementById('onlyA').addEventListener('click', ()=>{ setOnly('A'); load(); });
+document.getElementById('onlyB').addEventListener('click', ()=>{ setOnly('B'); load(); });
+
+document.getElementById('pageSize').addEventListener('change', ()=>{ currentPage=1; renderPage(); });
+document.getElementById('prev').addEventListener('click', ()=>{ if(currentPage>1){ currentPage--; renderPage(); }});
+document.getElementById('next').addEventListener('click', ()=>{ const maxp = Math.max(1, Math.ceil(fullData.length / pageSize)); if(currentPage<maxp){ currentPage++; renderPage(); }});
+document.getElementById('pageInput').addEventListener('change', (e)=>{ 
+  let v=parseInt(e.target.value||1,10); 
+  const maxp = Math.max(1, Math.ceil(fullData.length / pageSize)); 
+  if(isNaN(v)||v<1) v=1; 
+  if(v>maxp) v=maxp; 
+  currentPage=v; 
+  renderPage(); 
+});
+
+document.getElementById('random').addEventListener('click', ()=>{
+  if(!fullData.length){ alert('No problems to pick from'); return; }
+  const pick = fullData[Math.floor(Math.random()*fullData.length)];
+  window.open(pick.link, '_blank');
+});
+
+document.getElementById('export').addEventListener('click', ()=>{
+  if(!fullData.length){ alert('Nothing to export'); return; }
+  const csv = ['#","contestId","index","name","contestName","rating","solvedCount","tags","division","link'];
+  fullData.forEach((p,i)=>{
+    const tags = (p.tags||[]).join(';').replace(/"/g,'""');
+    const name = (p.name||'').replace(/"/g,'""');
+    const contestName = (p.contestName||'').replace(/"/g,'""');
+    csv.push([i+1,p.contestId,p.index,`"${name}"`,`"${contestName}"`,p.rating,p.solvedCount,`"${tags}"`,p.division,p.link].join(','));
+  });
+  const blob = new Blob([csv.join('\n')], {type:'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); 
+  a.href=url; 
+  a.download='ladder_export.csv'; 
+  a.click(); 
+  URL.revokeObjectURL(url);
+});
+
+// initial load
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1209,"Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",E1,Rotate Columns (easy version),2000,3095,bitmasks;brute force;dp;greedy;sortings,https://codeforces.com/contest/1209/problem/E1,div1
+2,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",E1,The Game (Easy Version),2000,3935,data structures;dfs and similar;games;graphs;greedy;trees,https://codeforces.com/contest/2062/problem/E1,div1
+3,1336,Codeforces Round 635 (Div. 1),E1,Chiori and Doll Picking (easy version),2700,764,bitmasks;brute force;combinatorics;math,https://codeforces.com/contest/1336/problem/E1,div1
+4,1943,Codeforces Round 934 (Div. 1),E1,MEX Game 2 (Easy Version),2900,491,binary search;brute force;greedy,https://codeforces.com/contest/1943/problem/E1,div1
+5,2046,Codeforces Round 990 (Div. 1),E1,Cheops and a Contest (Easy Version),2900,192,constructive algorithms;greedy,https://codeforces.com/contest/2046/problem/E1,div1
+6,1967,Codeforces Round 942 (Div. 1),E1,Again Counting Arrays (Easy Version),3100,267,combinatorics;dp;fft;math,https://codeforces.com/contest/1967/problem/E1,div1
+7,2018,Codeforces Round 975 (Div. 1),E1,Complex Segments (Easy Version),3300,206,binary search;data structures;divide and conquer;dsu;greedy;math;sortings,https://codeforces.com/contest/2018/problem/E1,div1
+8,1545,Codeforces Round 732 (Div. 1),E1,AquaMoon and Time Stop (easy version),3500,94,data structures;dp,https://codeforces.com/contest/1545/problem/E1,div1

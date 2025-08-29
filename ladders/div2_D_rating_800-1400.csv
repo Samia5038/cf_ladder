@@ -1,0 +1,9 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,545,Codeforces Round 303 (Div. 2),D,Queue,1300,27128,greedy;implementation;sortings,https://codeforces.com/contest/545/problem/D,div2
+2,1355,Codeforces Round 643 (Div. 2),D,Game With Array,1400,18667,constructive algorithms;math,https://codeforces.com/contest/1355/problem/D,div2
+3,1837,Educational Codeforces Round 149 (Rated for Div. 2),D,Bracket Coloring,1400,18506,constructive algorithms;greedy,https://codeforces.com/contest/1837/problem/D,div2
+4,1140,Educational Codeforces Round 62 (Rated for Div. 2),D,Minimum Triangulation,1200,12928,dp;greedy;math,https://codeforces.com/contest/1140/problem/D,div2
+5,2104,Educational Codeforces Round 178 (Rated for Div. 2),D,Array and GCD,1400,11345,binary search;greedy;math;number theory,https://codeforces.com/contest/2104/problem/D,div2
+6,2111,Educational Codeforces Round 179 (Rated for Div. 2),D,Creating a Schedule,1400,10422,constructive algorithms;data structures;greedy;implementation;sortings,https://codeforces.com/contest/2111/problem/D,div2
+7,182,Codeforces Round 117 (Div. 2),D,Common Divisors,1400,8662,brute force;hashing;implementation;math;strings,https://codeforces.com/contest/182/problem/D,div2
+8,208,Codeforces Round 130 (Div. 2),D,"Prizes, Prizes, more Prizes",1200,7868,implementation,https://codeforces.com/contest/208/problem/D,div2

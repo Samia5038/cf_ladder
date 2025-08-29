@@ -1,0 +1,46 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,466,Codeforces Round 266 (Div. 2),A,Cheap Travel,1200,70981,implementation,https://codeforces.com/contest/466/problem/A,div2
+2,514,Codeforces Round 291 (Div. 2),A,Chewbaсca and Number,1200,63362,greedy;implementation,https://codeforces.com/contest/514/problem/A,div2
+3,327,Codeforces Round 191 (Div. 2),A,Flipping Game,1200,46259,brute force;dp;implementation,https://codeforces.com/contest/327/problem/A,div2
+4,1363,Codeforces Round 646 (Div. 2),A,Odd Selection,1200,38551,brute force;implementation;math,https://codeforces.com/contest/1363/problem/A,div2
+5,459,Codeforces Round 261 (Div. 2),A,Pashmak and Garden,1200,35078,implementation,https://codeforces.com/contest/459/problem/A,div2
+6,445,Codeforces Round 254 (Div. 2),A,DZY Loves Chessboard,1200,32120,dfs and similar;implementation,https://codeforces.com/contest/445/problem/A,div2
+7,1364,Codeforces Round 649 (Div. 2),A,XXXXX,1200,30051,brute force;data structures;number theory;two pointers,https://codeforces.com/contest/1364/problem/A,div2
+8,1355,Codeforces Round 643 (Div. 2),A,Sequence with Digits,1200,27924,brute force;implementation;math,https://codeforces.com/contest/1355/problem/A,div2
+9,1334,Educational Codeforces Round 85 (Rated for Div. 2),A,Level Statistics,1200,24001,implementation;math,https://codeforces.com/contest/1334/problem/A,div2
+10,27,"Codeforces Beta Round 27 (Codeforces format, Div. 2)",A,Next Test,1200,21783,implementation;sortings,https://codeforces.com/contest/27/problem/A,div2
+11,239,Codeforces Round 148 (Div. 2),A,Two Bags of Potatoes,1200,19993,greedy;implementation;math,https://codeforces.com/contest/239/problem/A,div2
+12,353,Codeforces Round 205 (Div. 2),A,Domino,1200,19457,implementation;math,https://codeforces.com/contest/353/problem/A,div2
+13,1384,Codeforces Round 659 (Div. 2),A,Common Prefixes,1200,19366,constructive algorithms;greedy;strings,https://codeforces.com/contest/1384/problem/A,div2
+14,350,Codeforces Round 203 (Div. 2),A,TL,1200,17058,brute force;greedy;implementation,https://codeforces.com/contest/350/problem/A,div2
+15,1826,Codeforces Round 870 (Div. 2),A,Trust Nobody,1200,16513,brute force;greedy;implementation;sortings,https://codeforces.com/contest/1826/problem/A,div2
+16,1076,Educational Codeforces Round 54 (Rated for Div. 2),A,Minimizing the String,1200,13783,greedy;strings,https://codeforces.com/contest/1076/problem/A,div2
+17,342,Codeforces Round 199 (Div. 2),A,Xenia and Divisors,1200,13412,greedy;implementation,https://codeforces.com/contest/342/problem/A,div2
+18,787,Codeforces Round 406 (Div. 2),A,The Monster,1200,11872,brute force;math;number theory,https://codeforces.com/contest/787/problem/A,div2
+19,304,Codeforces Round 183 (Div. 2),A,Pythagorean Theorem II,1200,11588,brute force;math,https://codeforces.com/contest/304/problem/A,div2
+20,743,Codeforces Round 384 (Div. 2),A,Vladik and flights,1200,11511,constructive algorithms;greedy;implementation,https://codeforces.com/contest/743/problem/A,div2
+21,222,Codeforces Round 137 (Div. 2),A,Shooshuns and Sequence ,1200,11398,brute force;implementation,https://codeforces.com/contest/222/problem/A,div2
+22,31,"Codeforces Beta Round 31 (Div. 2, Codeforces format)",A,Worms Evolution,1200,10972,implementation,https://codeforces.com/contest/31/problem/A,div2
+23,842,Codeforces Round 430 (Div. 2),A,Kirill And The Game,1200,10828,brute force;two pointers,https://codeforces.com/contest/842/problem/A,div2
+24,489,Codeforces Round 277.5 (Div. 2),A,SwapSort,1200,10364,greedy;implementation;sortings,https://codeforces.com/contest/489/problem/A,div2
+25,982,Codeforces Round 484 (Div. 2),A,Row,1200,9428,brute force;constructive algorithms,https://codeforces.com/contest/982/problem/A,div2
+26,463,Codeforces Round 264 (Div. 2),A,Caisa and Sugar,1200,9421,brute force;implementation,https://codeforces.com/contest/463/problem/A,div2
+27,574,Codeforces Round 318 [RussianCodeCup Thanks-Round] (Div. 2),A,Bear and Elections,1200,9355,greedy;implementation,https://codeforces.com/contest/574/problem/A,div2
+28,1000,Educational Codeforces Round 46 (Rated for Div. 2),A,Codehorses T-shirts,1200,9120,greedy;implementation,https://codeforces.com/contest/1000/problem/A,div2
+29,754,Codeforces Round 390 (Div. 2),A,Lesha and array splitting,1200,9041,constructive algorithms;greedy;implementation,https://codeforces.com/contest/754/problem/A,div2
+30,1082,Educational Codeforces Round 55 (Rated for Div. 2),A,Vasya and Book,1200,8983,implementation;math,https://codeforces.com/contest/1082/problem/A,div2
+31,1051,Educational Codeforces Round 51 (Rated for Div. 2),A,Vasya And Password,1200,8623,greedy;implementation;strings,https://codeforces.com/contest/1051/problem/A,div2
+32,940,Codeforces Round 466 (Div. 2),A,Points on the line,1200,8556,brute force;greedy;sortings,https://codeforces.com/contest/940/problem/A,div2
+33,828,"Codeforces Round 423 (Div. 2, rated, based on VK Cup Finals)",A,Restaurant Tables,1200,8175,implementation,https://codeforces.com/contest/828/problem/A,div2
+34,606,Codeforces Round 335 (Div. 2),A,Magic Spheres,1200,8118,implementation,https://codeforces.com/contest/606/problem/A,div2
+35,340,Codeforces Round 198 (Div. 2),A,The Wall,1200,8014,math,https://codeforces.com/contest/340/problem/A,div2
+36,254,Codeforces Round 155 (Div. 2),A,Cards with Numbers,1200,7522,constructive algorithms;sortings,https://codeforces.com/contest/254/problem/A,div2
+37,895,Codeforces Round 448 (Div. 2),A,Pizza Separation,1200,6751,brute force;implementation,https://codeforces.com/contest/895/problem/A,div2
+38,592,Codeforces Round 328 (Div. 2),A,PawnChess,1200,6444,implementation,https://codeforces.com/contest/592/problem/A,div2
+39,812,Codeforces Round 417 (Div. 2),A,Sagheer and Crossroads,1200,6340,implementation,https://codeforces.com/contest/812/problem/A,div2
+40,593,Codeforces Round 329 (Div. 2),A,2Char,1200,5992,brute force;implementation,https://codeforces.com/contest/593/problem/A,div2
+41,216,Codeforces Round 133 (Div. 2),A,Tiling with Hexagons,1200,5131,implementation;math,https://codeforces.com/contest/216/problem/A,div2
+42,234,"Codeforces Round 145 (Div. 2, ACM-ICPC Rules)",A,Lefthanders and Righthanders ,1200,4601,implementation,https://codeforces.com/contest/234/problem/A,div2
+43,203,Codeforces Round 128 (Div. 2),A,Two Problems,1200,4295,brute force;implementation,https://codeforces.com/contest/203/problem/A,div2
+44,88,Codeforces Beta Round 73 (Div. 2 Only),A,Chord,1200,3938,brute force;implementation,https://codeforces.com/contest/88/problem/A,div2
+45,102,Codeforces Beta Round 79 (Div. 2 Only),A,Clothes,1200,3143,brute force,https://codeforces.com/contest/102/problem/A,div2

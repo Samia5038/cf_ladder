@@ -1,0 +1,4 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1234,Codeforces Round 590 (Div. 3),B2,Social Network (hard version),1300,17859,data structures;implementation,https://codeforces.com/contest/1234/problem/B2,div3
+2,1249,Codeforces Round 595 (Div. 3),B2,Books Exchange (hard version),1300,17634,dfs and similar;dsu;math,https://codeforces.com/contest/1249/problem/B2,div3
+3,1551,Codeforces Round 734 (Div. 3),B2,Wonderful Coloring - 2,1400,16179,binary search;constructive algorithms;data structures;greedy,https://codeforces.com/contest/1551/problem/B2,div3

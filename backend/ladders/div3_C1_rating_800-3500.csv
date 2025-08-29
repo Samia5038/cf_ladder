@@ -1,0 +1,6 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1800,Codeforces Round 855 (Div. 3),C1,Powering the Hero (easy version),1000,25806,data structures;greedy,https://codeforces.com/contest/1800/problem/C1,div3
+2,2132,Codeforces Round 1043 (Div. 3),C1,The Cunning Seller (easy version),1000,20679,greedy;math,https://codeforces.com/contest/2132/problem/C1,div3
+3,1157,Codeforces Round 555 (Div. 3),C1,Increasing Subsequence (easy version),1300,13156,greedy,https://codeforces.com/contest/1157/problem/C1,div3
+4,1249,Codeforces Round 595 (Div. 3),C1,Good Numbers (easy version),1300,16164,brute force;greedy;implementation,https://codeforces.com/contest/1249/problem/C1,div3
+5,2010,Testing Round 19 (Div. 3),C1,Message Transmission Error (easy version),1400,8587,brute force;strings,https://codeforces.com/contest/2010/problem/C1,div3

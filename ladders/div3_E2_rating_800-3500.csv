@@ -1,0 +1,16 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1914,Codeforces Round 916 (Div. 3),E2,Game with Marbles (Hard Version),1400,14031,games;greedy;sortings,https://codeforces.com/contest/1914/problem/E2,div3
+2,1800,Codeforces Round 855 (Div. 3),E2,Unforgivable Curse (hard version),1500,14417,brute force;constructive algorithms;dfs and similar;dsu;graphs;greedy;strings,https://codeforces.com/contest/1800/problem/E2,div3
+3,1462,Codeforces Round 690 (Div. 3),E2,Close Tuples (hard version),1700,10702,binary search;combinatorics;implementation;math;sortings;two pointers,https://codeforces.com/contest/1462/problem/E2,div3
+4,1579,Codeforces Round 744 (Div. 3),E2,Array Optimization by Deque,1700,7064,data structures;greedy,https://codeforces.com/contest/1579/problem/E2,div3
+5,1335,Codeforces Round 634 (Div. 3),E2,Three Blocks Palindrome (hard version),1800,8868,brute force;data structures;dp;two pointers,https://codeforces.com/contest/1335/problem/E2,div3
+6,1846,Codeforces Round 883 (Div. 3),E2,Rudolf and Snowflakes (hard version),1800,7884,binary search;brute force;implementation;math,https://codeforces.com/contest/1846/problem/E2,div3
+7,1015,Codeforces Round 501 (Div. 3),E2,Stars Drawing (Hard Edition),1900,3842,binary search;dp;greedy,https://codeforces.com/contest/1015/problem/E2,div3
+8,1611,Codeforces Round 756 (Div. 3),E2,Escape The Maze (hard version),1900,4112,dfs and similar;dp;greedy;shortest paths;trees,https://codeforces.com/contest/1611/problem/E2,div3
+9,1744,Codeforces Round  828 (Div. 3),E2,Divisible Numbers (hard version),1900,6176,brute force;math;number theory,https://codeforces.com/contest/1744/problem/E2,div3
+10,1296,Codeforces Round 617 (Div. 3),E2,String Coloring (hard version),2000,5308,data structures;dp,https://codeforces.com/contest/1296/problem/E2,div3
+11,1108,Codeforces Round 535 (Div. 3),E2,Array and Segments (Hard version),2100,2375,data structures;implementation,https://codeforces.com/contest/1108/problem/E2,div3
+12,1216,Codeforces Round 587 (Div. 3),E2,Numerical Sequence (hard version),2200,1569,binary search;math,https://codeforces.com/contest/1216/problem/E2,div3
+13,1399,Codeforces Round 661 (Div. 3),E2,Weights Division (hard version),2200,2404,binary search;dfs and similar;greedy;sortings;trees;two pointers,https://codeforces.com/contest/1399/problem/E2,div3
+14,1005,Codeforces Round 496 (Div. 3),E2,Median on Segments (General Case Edition),2400,1406,sortings,https://codeforces.com/contest/1005/problem/E2,div3
+15,1374,Codeforces Round 653 (Div. 3),E2,Reading Books (hard version),2500,986,data structures;greedy;implementation;sortings;ternary search;two pointers,https://codeforces.com/contest/1374/problem/E2,div3

@@ -1,0 +1,152 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,492,Codeforces Round 280 (Div. 2),B,Vanya and Lanterns,1200,83379,binary search;implementation;math;sortings,https://codeforces.com/contest/492/problem/B,div2
+2,474,Codeforces Round 271 (Div. 2),B,Worms,1200,56182,binary search;implementation,https://codeforces.com/contest/474/problem/B,div2
+3,489,Codeforces Round 277.5 (Div. 2),B,BerSU Ball,1200,53235,dfs and similar;dp;graph matchings;greedy;sortings;two pointers,https://codeforces.com/contest/489/problem/B,div2
+4,433,Codeforces Round 248 (Div. 2),B,Kuriyama Mirai's Stones,1200,46965,dp;implementation;sortings,https://codeforces.com/contest/433/problem/B,div2
+5,1354,Educational Codeforces Round 87 (Rated for Div. 2),B,Ternary String,1200,33414,binary search;dp;implementation;two pointers,https://codeforces.com/contest/1354/problem/B,div2
+6,1541,Codeforces Round 728 (Div. 2),B,Pleasant Pairs,1200,33244,brute force;implementation;math;number theory,https://codeforces.com/contest/1541/problem/B,div2
+7,1420,Codeforces Round 672 (Div. 2),B,Rock and Lever,1200,30875,bitmasks;math,https://codeforces.com/contest/1420/problem/B,div2
+8,1514,Codeforces Round 716 (Div. 2),B,"AND 0, Sum Big",1200,29969,bitmasks;combinatorics;math,https://codeforces.com/contest/1514/problem/B,div2
+9,1339,Codeforces Round 633 (Div. 2),B,Sorted Adjacent Differences,1200,27474,constructive algorithms;sortings,https://codeforces.com/contest/1339/problem/B,div2
+10,4,Codeforces Beta Round 4 (Div. 2 Only),B,Before an Exam,1200,27427,constructive algorithms;greedy,https://codeforces.com/contest/4/problem/B,div2
+11,1355,Codeforces Round 643 (Div. 2),B,Young Explorers,1200,26708,dp;greedy;sortings,https://codeforces.com/contest/1355/problem/B,div2
+12,1369,Codeforces Round 652 (Div. 2),B,AccurateLee,1200,25103,greedy;implementation;strings,https://codeforces.com/contest/1369/problem/B,div2
+13,1487,Educational Codeforces Round 104 (Rated for Div. 2),B,Cat Cycle,1200,24767,math;number theory,https://codeforces.com/contest/1487/problem/B,div2
+14,1406,Codeforces Round 670 (Div. 2),B,Maximum Product,1200,23667,brute force;dp;greedy;implementation;sortings,https://codeforces.com/contest/1406/problem/B,div2
+15,961,Educational Codeforces Round 41 (Rated for Div. 2),B,Lecture Sleep,1200,23644,data structures;dp;implementation;two pointers,https://codeforces.com/contest/961/problem/B,div2
+16,1497,Codeforces Round 708 (Div. 2),B,M-arrays,1200,23528,constructive algorithms;greedy;math,https://codeforces.com/contest/1497/problem/B,div2
+17,1808,Codeforces Round 861 (Div. 2),B,Playing in a Casino,1200,23413,math;sortings,https://codeforces.com/contest/1808/problem/B,div2
+18,1792,Educational Codeforces Round 142 (Rated for Div. 2),B,Stand-up Comedian,1200,23152,greedy;math,https://codeforces.com/contest/1792/problem/B,div2
+19,1679,Codeforces Round 791 (Div. 2),B,Stone Age Problem,1200,23043,data structures;implementation,https://codeforces.com/contest/1679/problem/B,div2
+20,1455,Educational Codeforces Round 99 (Rated for Div. 2),B,Jumps,1200,22678,constructive algorithms;math,https://codeforces.com/contest/1455/problem/B,div2
+21,1922,Educational Codeforces Round 161 (Rated for Div. 2),B,Forming Triangles,1200,22491,combinatorics;constructive algorithms;math;sortings,https://codeforces.com/contest/1922/problem/B,div2
+22,1989,Educational Codeforces Round 167 (Rated for Div. 2),B,Substring and Subsequence,1200,22336,brute force;greedy;strings,https://codeforces.com/contest/1989/problem/B,div2
+23,1504,Codeforces Round 712 (Div. 2),B,Flip the Bits,1200,21990,constructive algorithms;greedy;implementation;math,https://codeforces.com/contest/1504/problem/B,div2
+24,1925,Codeforces Round 921 (Div. 2),B,A Balanced Problemset?,1200,21922,brute force;greedy;math;number theory,https://codeforces.com/contest/1925/problem/B,div2
+25,1536,Codeforces Round 724 (Div. 2),B,Prinzessin der Verurteilung,1200,21758,brute force;constructive algorithms;strings,https://codeforces.com/contest/1536/problem/B,div2
+26,327,Codeforces Round 191 (Div. 2),B,Hungry Sequence,1200,20904,math,https://codeforces.com/contest/327/problem/B,div2
+27,1934,Codeforces Round 931 (Div. 2),B,Yet Another Coin Problem,1200,20889,brute force;dp;greedy;math,https://codeforces.com/contest/1934/problem/B,div2
+28,1954,Educational Codeforces Round 164 (Rated for Div. 2),B,Make It Ugly,1200,20534,implementation;math,https://codeforces.com/contest/1954/problem/B,div2
+29,1362,"Codeforces Round 647 (Div. 2) - Thanks, Algo Muse!",B,Johnny and His Hobbies,1200,20350,bitmasks;brute force,https://codeforces.com/contest/1362/problem/B,div2
+30,1437,Educational Codeforces Round 97 (Rated for Div. 2),B,Reverse Binary Strings,1200,20224,constructive algorithms;greedy,https://codeforces.com/contest/1437/problem/B,div2
+31,1694,Codeforces Round 800 (Div. 2),B,Paranoid String,1200,20175,constructive algorithms;greedy,https://codeforces.com/contest/1694/problem/B,div2
+32,1935,Codeforces Round 932 (Div. 2),B,Informatics in MAC,1200,20112,constructive algorithms,https://codeforces.com/contest/1935/problem/B,div2
+33,2020,Codeforces Round 976 (Div. 2) and Divide By Zero 9.0,B,Brightness Begins,1200,19892,binary search;math,https://codeforces.com/contest/2020/problem/B,div2
+34,1848,Codeforces Round 885 (Div. 2),B,Vika and the Bridge,1200,19745,binary search;data structures;greedy;implementation;math;sortings,https://codeforces.com/contest/1848/problem/B,div2
+35,1928,Codeforces Round 924 (Div. 2),B,Equalize,1200,19684,binary search;greedy;sortings;two pointers,https://codeforces.com/contest/1928/problem/B,div2
+36,1371,Codeforces Round 654 (Div. 2),B,Magical Calendar,1200,19425,math,https://codeforces.com/contest/1371/problem/B,div2
+37,1736,Codeforces Round 825 (Div. 2),B,Playing with GCD,1200,19314,math;number theory,https://codeforces.com/contest/1736/problem/B,div2
+38,1327,Educational Codeforces Round 84 (Rated for Div. 2),B,Princesses and Princes,1200,19202,brute force;graphs;greedy,https://codeforces.com/contest/1327/problem/B,div2
+39,1990,Codeforces Round 960 (Div. 2),B,Array Craft,1200,19000,constructive algorithms;greedy,https://codeforces.com/contest/1990/problem/B,div2
+40,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",B,Collatz Conjecture,1200,18846,brute force;implementation;math;number theory,https://codeforces.com/contest/1982/problem/B,div2
+41,1853,Codeforces Round 887 (Div. 2),B,Fibonaccharsis,1200,18826,binary search;brute force;math,https://codeforces.com/contest/1853/problem/B,div2
+42,454,Codeforces Round 259 (Div. 2),B,Little Pony and Sort by Shift,1200,18793,implementation,https://codeforces.com/contest/454/problem/B,div2
+43,546,Codeforces Round 304 (Div. 2),B,Soldier and Badges,1200,18218,brute force;greedy;implementation;sortings,https://codeforces.com/contest/546/problem/B,div2
+44,1860,Educational Codeforces Round 153 (Rated for Div. 2),B,Fancy Coins,1200,18212,binary search;brute force;greedy;math,https://codeforces.com/contest/1860/problem/B,div2
+45,1042,Codeforces Round 510 (Div. 2),B,Vitamins,1200,17948,bitmasks;brute force;dp;implementation,https://codeforces.com/contest/1042/problem/B,div2
+46,456,Codeforces Round 260 (Div. 2),B,Fedya and Maths,1200,17810,math;number theory,https://codeforces.com/contest/456/problem/B,div2
+47,1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,B,Corner Twist,1200,17758,constructive algorithms;greedy;implementation;math,https://codeforces.com/contest/1983/problem/B,div2
+48,2118,Codeforces Round 1030 (Div. 2),B,Make It Permutation,1200,17688,constructive algorithms,https://codeforces.com/contest/2118/problem/B,div2
+49,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",B,Maximize Mex,1200,17643,brute force;greedy;math;number theory,https://codeforces.com/contest/2021/problem/B,div2
+50,1485,Codeforces Round 701 (Div. 2),B,Replace and Keep Sorted,1200,17567,dp;implementation;math,https://codeforces.com/contest/1485/problem/B,div2
+51,1886,Educational Codeforces Round 156 (Rated for Div. 2),B,Fear of the Dark,1200,17371,binary search;geometry;math,https://codeforces.com/contest/1886/problem/B,div2
+52,2069,Educational Codeforces Round 174 (Rated for Div. 2),B,Set of Strangers,1200,17328,greedy;matrices,https://codeforces.com/contest/2069/problem/B,div2
+53,2067,Codeforces Round 1004 (Div. 2),B,Two Large Bags,1200,17202,brute force;dp;greedy;sortings,https://codeforces.com/contest/2067/problem/B,div2
+54,1419,Codeforces Round 671 (Div. 2),B,Stairs,1200,16730,brute force;constructive algorithms;greedy;implementation;math,https://codeforces.com/contest/1419/problem/B,div2
+55,1592,Codeforces Round 746 (Div. 2),B,Hemose Shopping,1200,16671,constructive algorithms;dsu;math;sortings,https://codeforces.com/contest/1592/problem/B,div2
+56,2019,Codeforces Round 975 (Div. 2),B,All Pairs Segments,1200,16455,implementation;math,https://codeforces.com/contest/2019/problem/B,div2
+57,1647,Codeforces Round 777 (Div. 2),B,Madoka and the Elegant Gift,1200,16423,brute force;constructive algorithms;graphs;implementation,https://codeforces.com/contest/1647/problem/B,div2
+58,1174,Codeforces Round 563 (Div. 2),B,Ehab Is an Odd Person,1200,16290,sortings,https://codeforces.com/contest/1174/problem/B,div2
+59,1277,"Codeforces Round 606 (Div. 2, based on Technocup 2020 Elimination Round 4)",B,Make Them Odd,1200,16157,greedy;number theory,https://codeforces.com/contest/1277/problem/B,div2
+60,1104,Codeforces Round 534 (Div. 2),B,Game with string,1200,16081,data structures;implementation;math,https://codeforces.com/contest/1104/problem/B,div2
+61,552,Codeforces Round 308 (Div. 2),B,Vanya and Books,1200,15784,implementation;math,https://codeforces.com/contest/552/problem/B,div2
+62,1763,Codeforces Round 840 (Div. 2) and Enigma 2022 - Cybros LNMIIT,B,Incinerate,1200,15756,binary search;brute force;data structures;implementation;math;sortings,https://codeforces.com/contest/1763/problem/B,div2
+63,743,Codeforces Round 384 (Div. 2),B,Chloe and the sequence ,1200,15509,binary search;bitmasks;constructive algorithms;implementation,https://codeforces.com/contest/743/problem/B,div2
+64,2085,Codeforces Round 1011 (Div. 2),B,Serval and Final MEX,1200,15478,constructive algorithms;implementation,https://codeforces.com/contest/2085/problem/B,div2
+65,2119,Codeforces Round 1035 (Div. 2),B,Line Segments,1200,15450,geometry;greedy;math,https://codeforces.com/contest/2119/problem/B,div2
+66,285,Codeforces Round 175 (Div. 2),B,Find Marble,1200,15438,implementation,https://codeforces.com/contest/285/problem/B,div2
+67,2109,Codeforces Round 1025 (Div. 2),B,Slice to Survive,1200,15361,bitmasks;greedy;math,https://codeforces.com/contest/2109/problem/B,div2
+68,47,Codeforces Beta Round 44 (Div. 2),B,Coins,1200,15239,implementation,https://codeforces.com/contest/47/problem/B,div2
+69,298,Codeforces Round 180 (Div. 2),B,Sail,1200,15194,brute force;greedy;implementation,https://codeforces.com/contest/298/problem/B,div2
+70,714,Codeforces Round 371 (Div. 2),B,Filya and Homework,1200,15103,implementation;sortings,https://codeforces.com/contest/714/problem/B,div2
+71,439,Codeforces Round 251 (Div. 2),B,"Devu, the Dumb Guy",1200,14742,implementation;sortings,https://codeforces.com/contest/439/problem/B,div2
+72,78,Codeforces Beta Round 70 (Div. 2),B,Easter Eggs,1200,14560,constructive algorithms;implementation,https://codeforces.com/contest/78/problem/B,div2
+73,1200,Codeforces Round 578 (Div. 2),B,Block Adventure,1200,14285,dp;greedy,https://codeforces.com/contest/1200/problem/B,div2
+74,1245,Codeforces Round 597 (Div. 2),B,Restricted RPS,1200,14209,constructive algorithms;dp;greedy,https://codeforces.com/contest/1245/problem/B,div2
+75,1903,Codeforces Round 912 (Div. 2),B,StORage room,1200,14147,bitmasks;brute force;constructive algorithms;greedy,https://codeforces.com/contest/1903/problem/B,div2
+76,1076,Educational Codeforces Round 54 (Rated for Div. 2),B,Divisor Subtraction,1200,13943,implementation;math;number theory,https://codeforces.com/contest/1076/problem/B,div2
+77,1185,Codeforces Round 568 (Div. 2),B,Email from Polycarp,1200,13924,implementation;strings,https://codeforces.com/contest/1185/problem/B,div2
+78,998,Codeforces Round 493 (Div. 2),B,Cutting,1200,13886,dp;greedy;sortings,https://codeforces.com/contest/998/problem/B,div2
+79,1546,Codeforces Round 732 (Div. 2),B,AquaMoon and Stolen String,1200,13582,interactive;math,https://codeforces.com/contest/1546/problem/B,div2
+80,879,Codeforces Round 443 (Div. 2),B,Table Tennis,1200,13568,data structures;implementation,https://codeforces.com/contest/879/problem/B,div2
+81,1207,Educational Codeforces Round 71 (Rated for Div. 2),B,Square Filling,1200,13536,constructive algorithms;greedy;implementation,https://codeforces.com/contest/1207/problem/B,div2
+82,129,Codeforces Beta Round 94 (Div. 2 Only),B,Students and Shoelaces,1200,13166,brute force;dfs and similar;graphs;implementation,https://codeforces.com/contest/129/problem/B,div2
+83,387,Codeforces Round 227 (Div. 2),B,George and Round,1200,12587,brute force;greedy;two pointers,https://codeforces.com/contest/387/problem/B,div2
+84,1068,"Codeforces Round 518 (Div. 2) [Thanks, Mail.Ru!]",B,LCM,1200,12359,math;number theory,https://codeforces.com/contest/1068/problem/B,div2
+85,2113,Codeforces Round 1031 (Div. 2),B,Good Start,1200,12322,constructive algorithms;math,https://codeforces.com/contest/2113/problem/B,div2
+86,1155,Educational Codeforces Round 63 (Rated for Div. 2),B,Game with Telephone Numbers,1200,12293,games;greedy;implementation,https://codeforces.com/contest/1155/problem/B,div2
+87,682,Codeforces Round 358 (Div. 2),B,Alyona and Mex,1200,12224,sortings,https://codeforces.com/contest/682/problem/B,div2
+88,701,Codeforces Round 364 (Div. 2),B,Cells Not Under Attack,1200,12136,data structures;math,https://codeforces.com/contest/701/problem/B,div2
+89,1581,Codeforces Round 745 (Div. 2),B,Diameter of Graph,1200,12039,constructive algorithms;graphs;greedy;math,https://codeforces.com/contest/1581/problem/B,div2
+90,911,Educational Codeforces Round 35 (Rated for Div. 2),B,Two Cakes,1200,12001,binary search;brute force;implementation,https://codeforces.com/contest/911/problem/B,div2
+91,432,Codeforces Round 246 (Div. 2),B,Football Kit,1200,11969,brute force;greedy;implementation,https://codeforces.com/contest/432/problem/B,div2
+92,262,Codeforces Round 160 (Div. 2),B,Roma and Changing Signs,1200,11908,greedy,https://codeforces.com/contest/262/problem/B,div2
+93,651,Codeforces Round 345 (Div. 2),B,Beautiful Paintings,1200,11877,greedy;sortings,https://codeforces.com/contest/651/problem/B,div2
+94,1140,Educational Codeforces Round 62 (Rated for Div. 2),B,Good String,1200,11548,implementation;strings,https://codeforces.com/contest/1140/problem/B,div2
+95,902,Codeforces Round 453 (Div. 2),B,Coloring a Tree,1200,11456,dfs and similar;dsu;greedy,https://codeforces.com/contest/902/problem/B,div2
+96,431,Codeforces Round 247 (Div. 2),B,Shower Line,1200,11341,brute force;implementation,https://codeforces.com/contest/431/problem/B,div2
+97,1143,Codeforces Round 549 (Div. 2),B,Nirvana,1200,11119,brute force;math;number theory,https://codeforces.com/contest/1143/problem/B,div2
+98,625,Codeforces Round 342 (Div. 2),B,War of the Corporations,1200,11108,constructive algorithms;greedy;strings,https://codeforces.com/contest/625/problem/B,div2
+99,1011,Codeforces Round 499 (Div. 2),B,Planning The Expedition,1200,10522,binary search;brute force;implementation,https://codeforces.com/contest/1011/problem/B,div2
+100,385,Codeforces Round 226 (Div. 2),B,Bear and Strings,1200,10498,brute force;greedy;implementation;math;strings,https://codeforces.com/contest/385/problem/B,div2
+101,554,Codeforces Round 309 (Div. 2),B,Ohana Cleans Up,1200,10338,brute force;greedy;strings,https://codeforces.com/contest/554/problem/B,div2
+102,959,Codeforces Round 473 (Div. 2),B,Mahmoud and Ehab and the message,1200,10187,dsu;greedy;implementation,https://codeforces.com/contest/959/problem/B,div2
+103,408,Codeforces Round 239 (Div. 2),B,Garland,1200,9921,implementation,https://codeforces.com/contest/408/problem/B,div2
+104,1191,Codeforces Round 573 (Div. 2),B,Tokitsukaze and Mahjong,1200,9727,brute force;implementation,https://codeforces.com/contest/1191/problem/B,div2
+105,1121,"Codeforces Round 543 (Div. 2, based on Technocup 2019 Final Round)",B,Mike and Children,1200,9635,brute force;implementation,https://codeforces.com/contest/1121/problem/B,div2
+106,892,Codeforces Round 446 (Div. 2),B,Wrath,1200,9479,greedy;implementation;two pointers,https://codeforces.com/contest/892/problem/B,div2
+107,1153,Codeforces Round 551 (Div. 2),B,Serval and Toy Bricks,1200,9304,constructive algorithms;greedy,https://codeforces.com/contest/1153/problem/B,div2
+108,344,Codeforces Round 200 (Div. 2),B,Simple Molecules,1200,9286,brute force;graphs;math,https://codeforces.com/contest/344/problem/B,div2
+109,133,Codeforces Beta Round 96 (Div. 2),B,Unary,1200,9128,implementation,https://codeforces.com/contest/133/problem/B,div2
+110,934,Codeforces Round 462 (Div. 2),B,A Prosperous Lot,1200,8954,constructive algorithms;implementation,https://codeforces.com/contest/934/problem/B,div2
+111,302,Codeforces Round 182 (Div. 2),B,Eugeny and Play List,1200,8913,binary search;implementation;two pointers,https://codeforces.com/contest/302/problem/B,div2
+112,583,Codeforces Round 323 (Div. 2),B,Robot's Task,1200,8867,greedy;implementation,https://codeforces.com/contest/583/problem/B,div2
+113,749,Codeforces Round 388 (Div. 2),B,Parallelogram is Back,1200,8740,brute force;constructive algorithms;geometry,https://codeforces.com/contest/749/problem/B,div2
+114,740,Codeforces Round 381 (Div. 2),B,Alyona and flowers,1200,8617,constructive algorithms,https://codeforces.com/contest/740/problem/B,div2
+115,1027,Educational Codeforces Round 49 (Rated for Div. 2),B,Numbers on the Chessboard,1200,8551,implementation;math,https://codeforces.com/contest/1027/problem/B,div2
+116,361,Codeforces Round 210 (Div. 2),B,Levko and Permutation,1200,8507,constructive algorithms;math;number theory,https://codeforces.com/contest/361/problem/B,div2
+117,591,Codeforces Round 327 (Div. 2),B,Rebranding,1200,8424,implementation;strings,https://codeforces.com/contest/591/problem/B,div2
+118,854,"Codeforces Round 433 (Div. 2, based on Olympiad of Metropolises)",B,Maxim Buys an Apartment,1200,8390,constructive algorithms;math,https://codeforces.com/contest/854/problem/B,div2
+119,990,Educational Codeforces Round 45 (Rated for Div. 2),B,Micro-World,1200,8381,greedy;sortings,https://codeforces.com/contest/990/problem/B,div2
+120,400,Codeforces Round 234 (Div. 2),B,Inna and New Matrix of Candies,1200,8335,brute force;implementation;schedules,https://codeforces.com/contest/400/problem/B,div2
+121,1130,Codeforces Round 542 [Alex Lopashev Thanks-Round] (Div. 2),B,Two Cakes,1200,8145,greedy,https://codeforces.com/contest/1130/problem/B,div2
+122,560,Codeforces Round 313 (Div. 2),B,Gerald is into Art,1200,8107,constructive algorithms;implementation,https://codeforces.com/contest/560/problem/B,div2
+123,1084,Codeforces Round 526 (Div. 2),B,Kvass and the Fair Nut,1200,8082,greedy;implementation,https://codeforces.com/contest/1084/problem/B,div2
+124,424,Codeforces Round 242 (Div. 2),B,Megacity,1200,8073,binary search;greedy;implementation;sortings,https://codeforces.com/contest/424/problem/B,div2
+125,1013,Codeforces Round 500 (Div. 2) [based on EJOI],B,And,1200,7951,greedy,https://codeforces.com/contest/1013/problem/B,div2
+126,903,Educational Codeforces Round 34 (Rated for Div. 2),B,The Modcrab,1200,7945,greedy;implementation,https://codeforces.com/contest/903/problem/B,div2
+127,920,Educational Codeforces Round 37 (Rated for Div. 2),B,Tea Queue,1200,7771,implementation,https://codeforces.com/contest/920/problem/B,div2
+128,1064,"Codeforces Round 516 (Div. 2, by Moscow Team Olympiad)",B,Equations of Mathematical Magic,1200,7728,math,https://codeforces.com/contest/1064/problem/B,div2
+129,631,Codeforces Round 344 (Div. 2),B,Print Check,1200,7664,constructive algorithms;implementation,https://codeforces.com/contest/631/problem/B,div2
+130,985,Educational Codeforces Round 44 (Rated for Div. 2),B,Switches and Lamps,1200,7638,implementation,https://codeforces.com/contest/985/problem/B,div2
+131,59,Codeforces Beta Round 55 (Div. 2),B,Fortune Telling,1200,7571,implementation;number theory,https://codeforces.com/contest/59/problem/B,div2
+132,315,Codeforces Round 187 (Div. 2),B,Sereja and Array,1200,7480,implementation,https://codeforces.com/contest/315/problem/B,div2
+133,131,Codeforces Beta Round 95 (Div. 2),B,Opposites Attract,1200,7315,implementation;math,https://codeforces.com/contest/131/problem/B,div2
+134,931,"Codeforces Round 468 (Div. 2, based on Technocup 2018 Final Round)",B,World Cup,1200,7295,constructive algorithms;implementation,https://codeforces.com/contest/931/problem/B,div2
+135,569,Codeforces Round 315 (Div. 2),B,Inventory,1200,7280,greedy;math,https://codeforces.com/contest/569/problem/B,div2
+136,989,Codeforces Round 487 (Div. 2),B,A Tide of Riverscape,1200,7183,constructive algorithms;strings,https://codeforces.com/contest/989/problem/B,div2
+137,366,Codeforces Round 214 (Div. 2),B,Dima and To-do List,1200,6966,brute force;implementation,https://codeforces.com/contest/366/problem/B,div2
+138,151,Codeforces Round 107 (Div. 2),B,Phone Numbers,1200,6644,implementation;strings,https://codeforces.com/contest/151/problem/B,div2
+139,811,Codeforces Round 416 (Div. 2),B,Vladik and Complicated Book,1200,6640,implementation;sortings,https://codeforces.com/contest/811/problem/B,div2
+140,899,Codeforces Round 452 (Div. 2),B,Months and Years,1200,6102,implementation,https://codeforces.com/contest/899/problem/B,div2
+141,186,Codeforces Round 118 (Div. 2),B,Growing Mushrooms,1200,5954,greedy;sortings,https://codeforces.com/contest/186/problem/B,div2
+142,9,Codeforces Beta Round 9 (Div. 2 Only),B,Running Student,1200,5877,brute force;geometry;implementation,https://codeforces.com/contest/9/problem/B,div2
+143,255,Codeforces Round 156 (Div. 2),B,Code Parsing,1200,5255,implementation,https://codeforces.com/contest/255/problem/B,div2
+144,143,Codeforces Round 102 (Div. 2),B,Help Kingdom of Far Far Away 2,1200,5179,implementation;strings,https://codeforces.com/contest/143/problem/B,div2
+145,63,Codeforces Beta Round 59 (Div. 2),B,Settlers' Training,1200,5018,implementation,https://codeforces.com/contest/63/problem/B,div2
+146,80,Codeforces Beta Round 69 (Div. 2 Only),B,Depression,1200,4734,geometry;math,https://codeforces.com/contest/80/problem/B,div2
+147,401,Codeforces Round 235 (Div. 2),B,Sereja and Contests,1200,4504,greedy;implementation;math,https://codeforces.com/contest/401/problem/B,div2
+148,1075,Lyft Level 5 Challenge 2018 - Final Round (Open Div. 2),B,Taxi drivers and Lyft,1200,4387,implementation;sortings,https://codeforces.com/contest/1075/problem/B,div2
+149,112,Codeforces Beta Round 85 (Div. 2 Only),B,Petya and Square,1200,4348,implementation;math,https://codeforces.com/contest/112/problem/B,div2
+150,194,Codeforces Round 122 (Div. 2),B,Square,1200,3777,math,https://codeforces.com/contest/194/problem/B,div2
+151,69,Codeforces Beta Round 63 (Div. 2),B,Bets,1200,3435,greedy;implementation,https://codeforces.com/contest/69/problem/B,div2

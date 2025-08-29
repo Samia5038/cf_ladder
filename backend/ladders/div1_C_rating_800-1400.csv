@@ -1,0 +1,37 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1428,Codeforces Raif Round 1 (Div. 1 + Div. 2),C,ABBB,1100,21634,brute force;data structures;greedy;strings,https://codeforces.com/contest/1428/problem/C,div1
+2,1656,"CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",C,Make Equal With Mod,1200,20438,constructive algorithms;math;number theory;sortings,https://codeforces.com/contest/1656/problem/C,div1
+3,1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",C,Virus,1200,20218,greedy;implementation;sortings,https://codeforces.com/contest/1704/problem/C,div1
+4,1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),C,Basil's Garden,1200,19732,dp;greedy,https://codeforces.com/contest/1987/problem/C,div1
+5,1037,"Manthan, Codefest 18 (rated, Div. 1 + Div. 2)",C,Equalize,1300,19622,dp;greedy;strings,https://codeforces.com/contest/1037/problem/C,div1
+6,1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",C,Penalty,1200,19003,bitmasks;brute force;dp;greedy,https://codeforces.com/contest/1553/problem/C,div1
+7,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",C,Cirno and Operations,1200,17167,brute force;math,https://codeforces.com/contest/2062/problem/C,div1
+8,1844,Codeforces Round 884 (Div. 1 + Div. 2),C,Particles,1300,17051,dp;greedy;implementation;math,https://codeforces.com/contest/1844/problem/C,div1
+9,2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),C,Black Circles,1200,16975,brute force;geometry;greedy;math,https://codeforces.com/contest/2002/problem/C,div1
+10,1991,Pinely Round 4 (Div. 1 + Div. 2),C,Absolute Zero,1300,16655,constructive algorithms;greedy;math,https://codeforces.com/contest/1991/problem/C,div1
+11,1975,Codeforces Round 947 (Div. 1 + Div. 2),C,Chamo and Mocha's Array,1200,16421,binary search;brute force;greedy,https://codeforces.com/contest/1975/problem/C,div1
+12,1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",C,Make It Permutation,1300,15822,brute force;greedy;sortings,https://codeforces.com/contest/1810/problem/C,div1
+13,1530,"Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",C,Pursuit,1200,15199,binary search;brute force;greedy;sortings,https://codeforces.com/contest/1530/problem/C,div1
+14,1863,Pinely Round 2 (Div. 1 + Div. 2),C,MEX Repetition,1100,15073,implementation;math,https://codeforces.com/contest/1863/problem/C,div1
+15,1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),C,Divisor Chain,1300,14657,bitmasks;constructive algorithms;math;number theory,https://codeforces.com/contest/1864/problem/C,div1
+16,1654,"Codeforces Round 778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round)",C,Alice and the Cake,1400,14255,data structures;greedy;implementation;sortings,https://codeforces.com/contest/1654/problem/C,div1
+17,1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),C,Fillomino 2,1400,13854,constructive algorithms;dfs and similar;greedy;implementation,https://codeforces.com/contest/1517/problem/C,div1
+18,1214,"Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",C,Bad Sequence,1200,13790,data structures;greedy,https://codeforces.com/contest/1214/problem/C,div1
+19,1534,Codeforces LATOKEN Round 1 (Div. 1 + Div. 2),C,Little Alawn's Puzzle,1300,13327,combinatorics;dp;dsu;graphs;math,https://codeforces.com/contest/1534/problem/C,div1
+20,1726,Codeforces Round 819 (Div. 1 + Div. 2) and Grimoire of Code Annual Contest 2022,C,Jatayu's Balanced Bracket Sequence,1300,13060,data structures;dsu;graphs;greedy,https://codeforces.com/contest/1726/problem/C,div1
+21,1684,Codeforces Round 792 (Div. 1 + Div. 2),C,Column Swapping,1400,12971,brute force;constructive algorithms;greedy;implementation;sortings,https://codeforces.com/contest/1684/problem/C,div1
+22,1774,"Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",C,Ice and Fire,1300,12866,constructive algorithms;dp;greedy,https://codeforces.com/contest/1774/problem/C,div1
+23,1909,Pinely Round 3 (Div. 1 + Div. 2),C,Heavy Intervals,1400,12554,constructive algorithms;data structures;dsu;greedy;math;sortings,https://codeforces.com/contest/1909/problem/C,div1
+24,1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",C,Colorful Table,1300,12540,binary search;data structures;dp;implementation;math;two pointers,https://codeforces.com/contest/1870/problem/C,div1
+25,2124,"EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",C,Subset Multiplication,1300,12285,constructive algorithms;greedy;math;number theory,https://codeforces.com/contest/2124/problem/C,div1
+26,1740,Codeforces Round 831 (Div. 1 + Div. 2),C,Bricks and Bags,1400,11936,constructive algorithms;games;greedy;sortings,https://codeforces.com/contest/1740/problem/C,div1
+27,1896,"CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",C,Matching Arrays,1400,10931,binary search;constructive algorithms;greedy;sortings,https://codeforces.com/contest/1896/problem/C,div1
+28,1220,Codeforces Round 586 (Div. 1 + Div. 2),C,Substring Game in the Lesson,1300,10569,games;greedy;strings,https://codeforces.com/contest/1220/problem/C,div1
+29,1023,"Codeforces Round 504 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",C,Bracket Subsequence,1200,10365,greedy,https://codeforces.com/contest/1023/problem/C,div1
+30,1761,Pinely Round 1 (Div. 1 + Div. 2),C,Set Construction,1400,10325,constructive algorithms;dfs and similar;graphs;greedy,https://codeforces.com/contest/1761/problem/C,div1
+31,1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",C,Complex Market Analysis,1400,10215,binary search;dp;implementation;number theory;schedules;two pointers,https://codeforces.com/contest/1609/problem/C,div1
+32,2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",C,You Soared Afar With Grace,1400,10188,constructive algorithms;data structures;greedy;implementation,https://codeforces.com/contest/2084/problem/C,div1
+33,1750,"CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)",C,Complementary XOR,1400,10116,constructive algorithms;implementation,https://codeforces.com/contest/1750/problem/C,div1
+34,2127,"Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",C,Trip Shopping,1400,9101,games;greedy;sortings,https://codeforces.com/contest/2127/problem/C,div1
+35,2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",C,Trapped in the Witch's Labyrinth,1400,8305,constructive algorithms;dfs and similar;graphs;implementation,https://codeforces.com/contest/2034/problem/C,div1
+36,765,Codeforces Round 397 by Kaspersky Lab and Barcelona Bootcamp (Div. 1 + Div. 2 combined),C,Table Tennis Game 2,1200,7222,math,https://codeforces.com/contest/765/problem/C,div1

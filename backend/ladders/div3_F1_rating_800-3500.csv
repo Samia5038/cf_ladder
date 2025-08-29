@@ -1,0 +1,13 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1133,Codeforces Round 544 (Div. 3),F1,Spanning Tree with Maximum Degree,1600,8416,graphs,https://codeforces.com/contest/1133/problem/F1,div3
+2,1520,Codeforces Round 719 (Div. 3),F1,Guess the K-th Zero (Easy version),1600,13343,binary search;interactive,https://codeforces.com/contest/1520/problem/F1,div3
+3,1660,Codeforces Round 780 (Div. 3),F1,Promising String (easy version),1700,7706,brute force;implementation;math;strings,https://codeforces.com/contest/1660/problem/F1,div3
+4,1118,Codeforces Round 540 (Div. 3),F1,Tree Cutting (Easy Version),1800,6369,dfs and similar;trees,https://codeforces.com/contest/1118/problem/F1,div3
+5,1843,Codeforces Round 881 (Div. 3),F1,Omsk Metro (simple version),1800,5924,data structures;dfs and similar;dp;graphs;greedy;math;trees,https://codeforces.com/contest/1843/problem/F1,div3
+6,1077,Codeforces Round 521 (Div. 3),F1,Pictures with Kittens (easy version),1900,4892,dp,https://codeforces.com/contest/1077/problem/F1,div3
+7,1141,Codeforces Round 547 (Div. 3),F1,Same Sum Blocks (Easy),1900,4065,greedy,https://codeforces.com/contest/1141/problem/F1,div3
+8,1560,Codeforces Round 739 (Div. 3),F1,Nearest Beautiful Number (easy version),1900,6490,binary search;bitmasks;brute force;constructive algorithms;dfs and similar;greedy,https://codeforces.com/contest/1560/problem/F1,div3
+9,1980,Codeforces Round 950 (Div. 3),F1,Field Division (easy version),1900,4176,data structures;math;sortings,https://codeforces.com/contest/1980/problem/F1,div3
+10,1165,Codeforces Round 560 (Div. 3),F1,Microtransactions (easy version),2000,2048,binary search;greedy,https://codeforces.com/contest/1165/problem/F1,div3
+11,1203,Codeforces Round 579 (Div. 3),F1,Complete the Projects (easy version),2100,3813,greedy,https://codeforces.com/contest/1203/problem/F1,div3
+12,1367,Codeforces Round 650 (Div. 3),F1,Flying Sort (Easy Version),2100,3439,dp;greedy;two pointers,https://codeforces.com/contest/1367/problem/F1,div3

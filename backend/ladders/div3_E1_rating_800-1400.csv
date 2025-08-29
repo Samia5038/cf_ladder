@@ -1,0 +1,5 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1579,Codeforces Round 744 (Div. 3),E1,Permutation Minimization by Deque,1000,23593,constructive algorithms;greedy;math,https://codeforces.com/contest/1579/problem/E1,div3
+2,1846,Codeforces Round 883 (Div. 3),E1,Rudolf and Snowflakes (simple version),1300,21136,brute force;implementation;math,https://codeforces.com/contest/1846/problem/E1,div3
+3,1800,Codeforces Round 855 (Div. 3),E1,Unforgivable Curse (easy version),1400,14555,brute force;constructive algorithms;dsu;graphs;greedy;strings,https://codeforces.com/contest/1800/problem/E1,div3
+4,1914,Codeforces Round 916 (Div. 3),E1,Game with Marbles (Easy Version),1400,13617,brute force;games;greedy;sortings,https://codeforces.com/contest/1914/problem/E1,div3

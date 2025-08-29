@@ -1,0 +1,13 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1133,Codeforces Round 544 (Div. 3),F2,Spanning Tree with One Fixed Degree,1900,3617,constructive algorithms;dfs and similar;dsu;graphs;greedy,https://codeforces.com/contest/1133/problem/F2,div3
+2,1141,Codeforces Round 547 (Div. 3),F2,Same Sum Blocks (Hard),1900,4443,data structures;greedy,https://codeforces.com/contest/1141/problem/F2,div3
+3,1165,Codeforces Round 560 (Div. 3),F2,Microtransactions (hard version),2000,2333,binary search;greedy;implementation,https://codeforces.com/contest/1165/problem/F2,div3
+4,1077,Codeforces Round 521 (Div. 3),F2,Pictures with Kittens (hard version),2100,3818,data structures;dp,https://codeforces.com/contest/1077/problem/F2,div3
+5,1560,Codeforces Round 739 (Div. 3),F2,Nearest Beautiful Number (hard version),2100,4706,bitmasks;brute force;constructive algorithms;dfs and similar;dp;greedy,https://codeforces.com/contest/1560/problem/F2,div3
+6,1660,Codeforces Round 780 (Div. 3),F2,Promising String (hard version),2100,2960,data structures;implementation;math;strings,https://codeforces.com/contest/1660/problem/F2,div3
+7,1520,Codeforces Round 719 (Div. 3),F2,Guess the K-th Zero (Hard version),2200,3196,binary search;constructive algorithms;data structures;interactive,https://codeforces.com/contest/1520/problem/F2,div3
+8,1203,Codeforces Round 579 (Div. 3),F2,Complete the Projects (hard version),2300,3113,dp;greedy,https://codeforces.com/contest/1203/problem/F2,div3
+9,1843,Codeforces Round 881 (Div. 3),F2,Omsk Metro (hard version),2300,1875,data structures;dfs and similar;divide and conquer;dp;math;trees,https://codeforces.com/contest/1843/problem/F2,div3
+10,1367,Codeforces Round 650 (Div. 3),F2,Flying Sort (Hard Version),2400,1785,binary search;data structures;dp;greedy;sortings;two pointers,https://codeforces.com/contest/1367/problem/F2,div3
+11,1980,Codeforces Round 950 (Div. 3),F2,Field Division (hard version),2400,1149,math;sortings,https://codeforces.com/contest/1980/problem/F2,div3
+12,1118,Codeforces Round 540 (Div. 3),F2,Tree Cutting (Hard Version),2700,590,combinatorics;dfs and similar;dp;trees,https://codeforces.com/contest/1118/problem/F2,div3

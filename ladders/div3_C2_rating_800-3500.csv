@@ -1,0 +1,6 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1800,Codeforces Round 855 (Div. 3),C2,Powering the Hero (hard version),1100,25174,data structures;greedy,https://codeforces.com/contest/1800/problem/C2,div3
+2,2132,Codeforces Round 1043 (Div. 3),C2,The Cunning Seller (hard version),1400,9584,binary search;greedy;math,https://codeforces.com/contest/2132/problem/C2,div3
+3,1249,Codeforces Round 595 (Div. 3),C2,Good Numbers (hard version),1500,13192,binary search;greedy;math;meet-in-the-middle,https://codeforces.com/contest/1249/problem/C2,div3
+4,1157,Codeforces Round 555 (Div. 3),C2,Increasing Subsequence (hard version),1700,8557,greedy,https://codeforces.com/contest/1157/problem/C2,div3
+5,2010,Testing Round 19 (Div. 3),C2,Message Transmission Error (hard version),1700,4096,hashing;string suffix structures;strings;two pointers,https://codeforces.com/contest/2010/problem/C2,div3

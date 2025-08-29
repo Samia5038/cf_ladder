@@ -1,0 +1,17 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1909,Pinely Round 3 (Div. 1 + Div. 2),F2,Small Permutation Problem (Hard Version),2500,1108,combinatorics;dp;math,https://codeforces.com/contest/1909/problem/F2,div1
+2,1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),F2,Interesting Problem (Hard Version),2600,1178,dp,https://codeforces.com/contest/1987/problem/F2,div1
+3,1774,"Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",F2,Magician and Pigs (Hard Version),2700,775,binary search;brute force;data structures;implementation,https://codeforces.com/contest/1774/problem/F2,div1
+4,1844,Codeforces Round 884 (Div. 1 + Div. 2),F2,Min Cost Permutation (Hard Version),2800,457,binary search;constructive algorithms;data structures;greedy;math;sortings,https://codeforces.com/contest/1844/problem/F2,div1
+5,2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),F2,Court Blue (Hard Version),2800,532,brute force;dp;math;number theory,https://codeforces.com/contest/2002/problem/F2,div1
+6,2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",F2,Khayyam's Royal Decree (Hard Version),2800,522,combinatorics;dp;math;sortings,https://codeforces.com/contest/2034/problem/F2,div1
+7,2124,"EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",F2,Appending Permutations (Hard Version),2800,406,combinatorics;dp,https://codeforces.com/contest/2124/problem/F2,div1
+8,1534,Codeforces LATOKEN Round 1 (Div. 1 + Div. 2),F2,Falling Sand (Hard Version),3000,652,dfs and similar;dp;graphs;greedy,https://codeforces.com/contest/1534/problem/F2,div1
+9,2018,Codeforces Round 975 (Div. 1),F2,Speedbreaker Counting (Medium Version),3000,238,dp;greedy;math,https://codeforces.com/contest/2018/problem/F2,div1
+10,2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",F2,Shohag Loves Counting (Hard Version),3200,241,dp;number theory,https://codeforces.com/contest/2039/problem/F2,div1
+11,1349,Codeforces Round 641 (Div. 1),F2,Slime and Sequences (Hard Version),3500,124,dp;fft;math,https://codeforces.com/contest/1349/problem/F2,div1
+12,1761,Pinely Round 1 (Div. 1 + Div. 2),F2,Anti-median (Hard Version),3500,95,combinatorics;dp;math,https://codeforces.com/contest/1761/problem/F2,div1
+13,2046,Codeforces Round 990 (Div. 1),F2,Yandex Cuneiform (Hard Version),3500,78,constructive algorithms;data structures;greedy;implementation,https://codeforces.com/contest/2046/problem/F2,div1
+14,2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",F2,Kevin and Binary String (Hard Version),3500,122,data structures;dp,https://codeforces.com/contest/2061/problem/F2,div1
+15,2115,Codeforces Round 1028 (Div. 1),F2,Gellyfish and Lycoris Radiata (Hard Version),3500,76,data structures,https://codeforces.com/contest/2115/problem/F2,div1
+16,2129,Codeforces Round 1040 (Div. 1),F2,Top-K Tracker (Hard Version),3500,66,interactive;interactive,https://codeforces.com/contest/2129/problem/F2,div1

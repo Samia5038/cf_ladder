@@ -1,0 +1,23 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1352,Codeforces Round 640 (Div. 4),C,K-th Not Divisible by n,1200,63116,binary search;math,https://codeforces.com/contest/1352/problem/C,div4
+2,1791,Codeforces Round 849 (Div. 4),C,Prepend and Append,800,59773,implementation;two pointers,https://codeforces.com/contest/1791/problem/C,div4
+3,1873,Codeforces Round 898 (Div. 4),C,Target Practice,800,54730,implementation;math,https://codeforces.com/contest/1873/problem/C,div4
+4,1850,Codeforces Round 886 (Div. 4),C,Word on the Paper,800,49708,implementation;strings,https://codeforces.com/contest/1850/problem/C,div4
+5,1915,Codeforces Round 918 (Div. 4),C,Can I Square?,800,49126,binary search;implementation,https://codeforces.com/contest/1915/problem/C,div4
+6,1950,Codeforces Round 937 (Div. 4),C,Clock Conversion,800,44353,implementation;math,https://codeforces.com/contest/1950/problem/C,div4
+7,2044,Codeforces Round 993 (Div. 4),C,Hard Problem,800,41389,greedy;math,https://codeforces.com/contest/2044/problem/C,div4
+8,1760,Codeforces Round 835 (Div. 4),C,Advantage,800,40984,data structures;implementation;sortings,https://codeforces.com/contest/1760/problem/C,div4
+9,1999,Codeforces Round 964 (Div. 4),C,Showering,800,39624,greedy;implementation,https://codeforces.com/contest/1999/problem/C,div4
+10,1669,Codeforces Round 784 (Div. 4),C,Odd/Even Increments,800,38771,greedy;greedy;implementation;math,https://codeforces.com/contest/1669/problem/C,div4
+11,1703,Codeforces Round 806 (Div. 4),C,Cypher,800,38707,brute force;implementation;strings,https://codeforces.com/contest/1703/problem/C,div4
+12,1971,Codeforces Round 944 (Div. 4),C,Clock and Strings,900,38262,implementation,https://codeforces.com/contest/1971/problem/C,div4
+13,1985,Codeforces Round 952 (Div. 4),C,Good Prefixes,1000,37435,greedy,https://codeforces.com/contest/1985/problem/C,div4
+14,1692,Codeforces Round 799 (Div. 4),C,Where's the Bishop?,800,37077,implementation,https://codeforces.com/contest/1692/problem/C,div4
+15,1742,Codeforces Round 827 (Div. 4),C,Stripes,900,36464,implementation,https://codeforces.com/contest/1742/problem/C,div4
+16,1722,Codeforces Round 817 (Div. 4),C,Word Game,800,33799,data structures;implementation,https://codeforces.com/contest/1722/problem/C,div4
+17,1807,Codeforces Round 859 (Div. 4),C,Find and Replace,800,32739,greedy;implementation;strings,https://codeforces.com/contest/1807/problem/C,div4
+18,1676,Codeforces Round 790 (Div. 4),C,Most Similar Words,800,32667,brute force;greedy;implementation;implementation;math;strings,https://codeforces.com/contest/1676/problem/C,div4
+19,1829,Codeforces Round 871 (Div. 4),C,Mr. Perfectly Fine,800,31064,bitmasks;greedy;implementation,https://codeforces.com/contest/1829/problem/C,div4
+20,2009,Codeforces Round 971 (Div. 4),C,The Legend of Freya the Frog,1100,30867,implementation;math,https://codeforces.com/contest/2009/problem/C,div4
+21,1926,Codeforces Round 928 (Div. 4),C,Vlad and a Sum of Sum of Digits,1200,30300,dp;implementation,https://codeforces.com/contest/1926/problem/C,div4
+22,2094,Codeforces Round 1017 (Div. 4),C,Brr Brrr Patapim,900,26441,math,https://codeforces.com/contest/2094/problem/C,div4

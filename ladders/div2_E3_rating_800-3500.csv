@@ -1,0 +1,3 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1808,Codeforces Round 861 (Div. 2),E3,Minibuses on Venus (hard version),2800,501,brute force;combinatorics;dp;math,https://codeforces.com/contest/1808/problem/E3,div2
+2,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",E3,Digital Village (Extreme Version),2800,593,data structures;dfs and similar;dp;dsu;graphs;greedy;math;trees,https://codeforces.com/contest/2021/problem/E3,div2

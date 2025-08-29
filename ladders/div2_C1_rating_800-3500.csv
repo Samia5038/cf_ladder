@@ -1,0 +1,13 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1185,Codeforces Round 568 (Div. 2),C1,Exam in BerSU (easy version),1200,11630,greedy;sortings,https://codeforces.com/contest/1185/problem/C1,div2
+2,1497,Codeforces Round 708 (Div. 2),C1,k-LCM (easy version),1200,27812,constructive algorithms;math,https://codeforces.com/contest/1497/problem/C1,div2
+3,1420,Codeforces Round 672 (Div. 2),C1,Pokémon Army (easy version),1300,18400,constructive algorithms;dp;greedy,https://codeforces.com/contest/1420/problem/C1,div2
+4,1736,Codeforces Round 825 (Div. 2),C1,Good Subarrays (Easy Version),1300,15923,binary search;data structures;schedules;two pointers,https://codeforces.com/contest/1736/problem/C1,div2
+5,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",C1,Adjust The Presentation (Easy Version),1300,13429,constructive algorithms;greedy,https://codeforces.com/contest/2021/problem/C1,div2
+6,1354,Educational Codeforces Round 87 (Rated for Div. 2),C1,Simple Polygon Embedding,1400,16128,binary search;geometry;math;ternary search,https://codeforces.com/contest/1354/problem/C1,div2
+7,1313,Codeforces Round 622 (Div. 2),C1,Skyscrapers (easy version),1500,10762,brute force;data structures;dp;greedy,https://codeforces.com/contest/1313/problem/C1,div2
+8,1526,Codeforces Round 723 (Div. 2),C1,Potions (Easy Version),1500,25219,brute force;data structures;dp;greedy,https://codeforces.com/contest/1526/problem/C1,div2
+9,2109,Codeforces Round 1025 (Div. 2),C1,Hacking Numbers (Easy Version),1500,9696,bitmasks;constructive algorithms;interactive;math;number theory,https://codeforces.com/contest/2109/problem/C1,div2
+10,1486,Codeforces Round 703 (Div. 2),C1,Guessing the Greatest (easy version),1600,13469,binary search;interactive,https://codeforces.com/contest/1486/problem/C1,div2
+11,1732,Codeforces Round 830 (Div. 2),C1,Sheikh (Easy version),1800,6775,binary search;bitmasks;greedy;two pointers,https://codeforces.com/contest/1732/problem/C1,div2
+12,1163,Codeforces Round 558 (Div. 2),C1,Power Transmission (Easy Edition),1900,3469,brute force;geometry,https://codeforces.com/contest/1163/problem/C1,div2

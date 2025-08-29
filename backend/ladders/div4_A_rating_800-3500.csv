@@ -1,0 +1,24 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1352,Codeforces Round 640 (Div. 4),A,Sum of Round Numbers,800,93016,implementation;math,https://codeforces.com/contest/1352/problem/A,div4
+2,1669,Codeforces Round 784 (Div. 4),A,Division?,800,76905,implementation,https://codeforces.com/contest/1669/problem/A,div4
+3,1676,Codeforces Round 790 (Div. 4),A,Lucky?,800,76443,implementation,https://codeforces.com/contest/1676/problem/A,div4
+4,1692,Codeforces Round 799 (Div. 4),A,Marathon,800,76664,implementation,https://codeforces.com/contest/1692/problem/A,div4
+5,1703,Codeforces Round 806 (Div. 4),A,YES or YES?,800,84031,brute force;implementation;strings,https://codeforces.com/contest/1703/problem/A,div4
+6,1722,Codeforces Round 817 (Div. 4),A,Spell Check,800,58619,implementation,https://codeforces.com/contest/1722/problem/A,div4
+7,1742,Codeforces Round 827 (Div. 4),A,Sum,800,89837,implementation,https://codeforces.com/contest/1742/problem/A,div4
+8,1760,Codeforces Round 835 (Div. 4),A,Medium Number,800,70825,implementation;sortings,https://codeforces.com/contest/1760/problem/A,div4
+9,1791,Codeforces Round 849 (Div. 4),A,Codeforces Checking,800,72060,implementation;strings,https://codeforces.com/contest/1791/problem/A,div4
+10,1807,Codeforces Round 859 (Div. 4),A,Plus or Minus,800,74813,implementation,https://codeforces.com/contest/1807/problem/A,div4
+11,1829,Codeforces Round 871 (Div. 4),A,Love Story,800,61817,implementation;strings,https://codeforces.com/contest/1829/problem/A,div4
+12,1850,Codeforces Round 886 (Div. 4),A,To My Critics,800,66375,implementation;sortings,https://codeforces.com/contest/1850/problem/A,div4
+13,1873,Codeforces Round 898 (Div. 4),A,Short Sort,800,63667,brute force;implementation,https://codeforces.com/contest/1873/problem/A,div4
+14,1915,Codeforces Round 918 (Div. 4),A,Odd One Out,800,69784,bitmasks;implementation,https://codeforces.com/contest/1915/problem/A,div4
+15,1926,Codeforces Round 928 (Div. 4),A,Vlad and the Best of Five,800,55831,implementation,https://codeforces.com/contest/1926/problem/A,div4
+16,1950,Codeforces Round 937 (Div. 4),A,"Stair, Peak, or Neither?",800,62273,implementation,https://codeforces.com/contest/1950/problem/A,div4
+17,1971,Codeforces Round 944 (Div. 4),A,My First Sorting Problem,800,53688,implementation;sortings,https://codeforces.com/contest/1971/problem/A,div4
+18,1985,Codeforces Round 952 (Div. 4),A,Creating Words,800,64199,implementation;strings,https://codeforces.com/contest/1985/problem/A,div4
+19,1999,Codeforces Round 964 (Div. 4),A,A+B Again?,800,72117,implementation;math,https://codeforces.com/contest/1999/problem/A,div4
+20,2009,Codeforces Round 971 (Div. 4),A,Minimize!,800,64381,brute force;math,https://codeforces.com/contest/2009/problem/A,div4
+21,2044,Codeforces Round 993 (Div. 4),A,Easy Problem,800,52426,brute force;math,https://codeforces.com/contest/2044/problem/A,div4
+22,2065,Codeforces Round 1003 (Div. 4),A,Skibidus and Amog'u,800,49350,brute force;constructive algorithms;greedy;implementation;strings,https://codeforces.com/contest/2065/problem/A,div4
+23,2094,Codeforces Round 1017 (Div. 4),A,Trippi Troppi,800,45464,strings,https://codeforces.com/contest/2094/problem/A,div4

@@ -1,0 +1,24 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1669,Codeforces Round 784 (Div. 4),F,Eating Candies,1100,32769,binary search;data structures;greedy;two pointers,https://codeforces.com/contest/1669/problem/F,div4
+2,1676,Codeforces Round 790 (Div. 4),F,Longest Strike,1300,18893,data structures;greedy;implementation;sortings;two pointers,https://codeforces.com/contest/1676/problem/F,div4
+3,1692,Codeforces Round 799 (Div. 4),F,3SUM,1300,25639,brute force;math,https://codeforces.com/contest/1692/problem/F,div4
+4,1703,Codeforces Round 806 (Div. 4),F,Yet Another Problem About Pairs Satisfying an Inequality,1300,24983,binary search;data structures;dp;greedy;sortings,https://codeforces.com/contest/1703/problem/F,div4
+5,1829,Codeforces Round 871 (Div. 4),F,Forever Winter,1300,20148,dfs and similar;graphs;math,https://codeforces.com/contest/1829/problem/F,div4
+6,1850,Codeforces Round 886 (Div. 4),F,We Were Both Children,1300,22605,brute force;implementation;math;number theory,https://codeforces.com/contest/1850/problem/F,div4
+7,1873,Codeforces Round 898 (Div. 4),F,Money Trees,1300,18211,binary search;greedy;math;two pointers,https://codeforces.com/contest/1873/problem/F,div4
+8,1352,Codeforces Round 640 (Div. 4),F,Binary String Reconstruction,1500,18572,constructive algorithms;dfs and similar;math,https://codeforces.com/contest/1352/problem/F,div4
+9,1742,Codeforces Round 827 (Div. 4),F,Smaller,1500,13160,constructive algorithms;greedy;strings,https://codeforces.com/contest/1742/problem/F,div4
+10,1760,Codeforces Round 835 (Div. 4),F,Quests,1500,13825,binary search;greedy;sortings,https://codeforces.com/contest/1760/problem/F,div4
+11,1791,Codeforces Round 849 (Div. 4),F,Range Update Point Query,1500,14263,binary search;brute force;data structures,https://codeforces.com/contest/1791/problem/F,div4
+12,1915,Codeforces Round 918 (Div. 4),F,Greetings,1500,18231,data structures;divide and conquer;sortings,https://codeforces.com/contest/1915/problem/F,div4
+13,1985,Codeforces Round 952 (Div. 4),F,Final Boss,1500,18366,binary search;data structures,https://codeforces.com/contest/1985/problem/F,div4
+14,1999,Codeforces Round 964 (Div. 4),F,Expected Median,1500,12773,combinatorics;math,https://codeforces.com/contest/1999/problem/F,div4
+15,1971,Codeforces Round 944 (Div. 4),F,Circle Perimeter,1600,11666,binary search;brute force;dfs and similar;geometry;implementation;math,https://codeforces.com/contest/1971/problem/F,div4
+16,2094,Codeforces Round 1017 (Div. 4),F,Trulimero Trulicina,1600,9685,constructive algorithms,https://codeforces.com/contest/2094/problem/F,div4
+17,1722,Codeforces Round 817 (Div. 4),F,L-shapes,1700,7595,dfs and similar;implementation,https://codeforces.com/contest/1722/problem/F,div4
+18,1807,Codeforces Round 859 (Div. 4),F,Bouncy Ball,1700,6968,brute force;dfs and similar;implementation,https://codeforces.com/contest/1807/problem/F,div4
+19,1950,Codeforces Round 937 (Div. 4),F,"0, 1, 2, Tree!",1700,10516,bitmasks;brute force;greedy;implementation;trees,https://codeforces.com/contest/1950/problem/F,div4
+20,2009,Codeforces Round 971 (Div. 4),F,Firefly's Queries,1700,7831,bitmasks;data structures;flows;math,https://codeforces.com/contest/2009/problem/F,div4
+21,2065,Codeforces Round 1003 (Div. 4),F,Skibidus and Slay,1700,6187,data structures;dfs and similar;graphs;greedy;trees,https://codeforces.com/contest/2065/problem/F,div4
+22,2044,Codeforces Round 993 (Div. 4),F,Easy Demon Problem,1900,5120,binary search;brute force;data structures;math;number theory,https://codeforces.com/contest/2044/problem/F,div4
+23,1926,Codeforces Round 928 (Div. 4),F,Vlad and Avoiding X,2200,1929,bitmasks;brute force;dfs and similar;dp;implementation,https://codeforces.com/contest/1926/problem/F,div4

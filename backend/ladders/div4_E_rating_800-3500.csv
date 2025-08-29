@@ -1,0 +1,24 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1676,Codeforces Round 790 (Div. 4),E,Eating Queries,1100,30239,binary search;greedy;sortings,https://codeforces.com/contest/1676/problem/E,div4
+2,1760,Codeforces Round 835 (Div. 4),E,Binary Inversions,1100,22004,data structures;greedy;math,https://codeforces.com/contest/1760/problem/E,div4
+3,1791,Codeforces Round 849 (Div. 4),E,Negatives and Positives,1100,35138,dp;greedy;sortings,https://codeforces.com/contest/1791/problem/E,div4
+4,1829,Codeforces Round 871 (Div. 4),E,The Lakes,1100,23674,dfs and similar;dsu;graphs;implementation,https://codeforces.com/contest/1829/problem/E,div4
+5,1850,Codeforces Round 886 (Div. 4),E,Cardboard for Pictures,1100,29325,binary search;geometry;implementation;math,https://codeforces.com/contest/1850/problem/E,div4
+6,1873,Codeforces Round 898 (Div. 4),E,Building an Aquarium,1100,35154,binary search;sortings,https://codeforces.com/contest/1873/problem/E,div4
+7,1669,Codeforces Round 784 (Div. 4),E,2-Letter Strings,1200,19878,data structures;math;strings,https://codeforces.com/contest/1669/problem/E,div4
+8,1692,Codeforces Round 799 (Div. 4),E,Binary Deque,1200,27683,binary search;implementation;two pointers,https://codeforces.com/contest/1692/problem/E,div4
+9,1703,Codeforces Round 806 (Div. 4),E,Mirror Grid,1200,23076,implementation,https://codeforces.com/contest/1703/problem/E,div4
+10,1742,Codeforces Round 827 (Div. 4),E,Scuza,1200,31751,binary search;greedy;math,https://codeforces.com/contest/1742/problem/E,div4
+11,1985,Codeforces Round 952 (Div. 4),E,Secret Box,1200,22497,brute force;combinatorics;math,https://codeforces.com/contest/1985/problem/E,div4
+12,2094,Codeforces Round 1017 (Div. 4),E,Boneca Ambalabu,1200,16109,bitmasks,https://codeforces.com/contest/2094/problem/E,div4
+13,1807,Codeforces Round 859 (Div. 4),E,Interview,1300,15082,binary search;implementation;interactive,https://codeforces.com/contest/1807/problem/E,div4
+14,1915,Codeforces Round 918 (Div. 4),E,Romantic Glasses,1300,28501,data structures;greedy;math,https://codeforces.com/contest/1915/problem/E,div4
+15,1999,Codeforces Round 964 (Div. 4),E,Triple Operations,1300,21994,dp;implementation;math,https://codeforces.com/contest/1999/problem/E,div4
+16,2044,Codeforces Round 993 (Div. 4),E,Insane Problem,1300,16446,binary search;greedy;implementation;math;number theory,https://codeforces.com/contest/2044/problem/E,div4
+17,2009,Codeforces Round 971 (Div. 4),E,Klee's SUPER DUPER LARGE Array!!!,1400,16218,binary search;math;ternary search,https://codeforces.com/contest/2009/problem/E,div4
+18,1352,Codeforces Round 640 (Div. 4),E,Special Elements,1500,22505,brute force;implementation;two pointers,https://codeforces.com/contest/1352/problem/E,div4
+19,1926,Codeforces Round 928 (Div. 4),E,Vlad and an Odd Ordering,1500,13822,binary search;bitmasks;data structures;dp;implementation;math;number theory,https://codeforces.com/contest/1926/problem/E,div4
+20,1950,Codeforces Round 937 (Div. 4),E,Nearly Shortest Repeating Substring,1500,16419,brute force;implementation;number theory;strings,https://codeforces.com/contest/1950/problem/E,div4
+21,1971,Codeforces Round 944 (Div. 4),E,Find the Car,1500,16781,binary search;math;sortings,https://codeforces.com/contest/1971/problem/E,div4
+22,1722,Codeforces Round 817 (Div. 4),E,Counting Rectangles,1600,12293,brute force;data structures;dp;implementation,https://codeforces.com/contest/1722/problem/E,div4
+23,2065,Codeforces Round 1003 (Div. 4),E,Skibidus and Rizz,1600,10544,constructive algorithms;greedy;strings,https://codeforces.com/contest/2065/problem/E,div4

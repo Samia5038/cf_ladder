@@ -1,0 +1,24 @@
+#,contestId,contestName,index,name,rating,solvedCount,tags,link,division
+1,1873,Codeforces Round 898 (Div. 4),D,1D Eraser,800,39555,greedy;implementation;two pointers,https://codeforces.com/contest/1873/problem/D,div4
+2,1807,Codeforces Round 859 (Div. 4),D,Odd Queries,900,44547,data structures;implementation,https://codeforces.com/contest/1807/problem/D,div4
+3,1850,Codeforces Round 886 (Div. 4),D,Balanced Round,900,48962,brute force;greedy;implementation;sortings,https://codeforces.com/contest/1850/problem/D,div4
+4,1915,Codeforces Round 918 (Div. 4),D,Unnatural Language Processing,900,33382,greedy;implementation;strings,https://codeforces.com/contest/1915/problem/D,div4
+5,1985,Codeforces Round 952 (Div. 4),D,Manhattan Circle,900,39026,implementation;math,https://codeforces.com/contest/1985/problem/D,div4
+6,1676,Codeforces Round 790 (Div. 4),D,X-Sum,1000,27732,brute force;greedy;implementation,https://codeforces.com/contest/1676/problem/D,div4
+7,1760,Codeforces Round 835 (Div. 4),D,Challenging Valleys,1000,25673,implementation;two pointers,https://codeforces.com/contest/1760/problem/D,div4
+8,1791,Codeforces Round 849 (Div. 4),D,Distinct Split,1000,40142,brute force;greedy;strings,https://codeforces.com/contest/1791/problem/D,div4
+9,1829,Codeforces Round 871 (Div. 4),D,Gold Rush,1000,30452,brute force;dfs and similar;dp;implementation,https://codeforces.com/contest/1829/problem/D,div4
+10,1669,Codeforces Round 784 (Div. 4),D,Colorful Stamp,1100,24110,implementation,https://codeforces.com/contest/1669/problem/D,div4
+11,1692,Codeforces Round 799 (Div. 4),D,The Clock,1100,20785,brute force;implementation,https://codeforces.com/contest/1692/problem/D,div4
+12,1703,Codeforces Round 806 (Div. 4),D,Double Strings,1100,27750,brute force;data structures;strings,https://codeforces.com/contest/1703/problem/D,div4
+13,1722,Codeforces Round 817 (Div. 4),D,Line,1100,25311,greedy;sortings,https://codeforces.com/contest/1722/problem/D,div4
+14,1742,Codeforces Round 827 (Div. 4),D,Coprime,1100,29055,brute force;greedy;number theory,https://codeforces.com/contest/1742/problem/D,div4
+15,1950,Codeforces Round 937 (Div. 4),D,Product of Binary Decimals,1100,25392,brute force;dp;implementation;number theory,https://codeforces.com/contest/1950/problem/D,div4
+16,1971,Codeforces Round 944 (Div. 4),D,Binary Cut,1100,28996,dp;greedy;implementation;sortings;strings,https://codeforces.com/contest/1971/problem/D,div4
+17,1999,Codeforces Round 964 (Div. 4),D,Slavic's Exam,1100,30879,greedy;implementation;strings,https://codeforces.com/contest/1999/problem/D,div4
+18,2044,Codeforces Round 993 (Div. 4),D,Harder Problem,1100,22242,constructive algorithms;greedy;math,https://codeforces.com/contest/2044/problem/D,div4
+19,2094,Codeforces Round 1017 (Div. 4),D,Tung Tung Sahur,1100,20384,greedy;strings;two pointers,https://codeforces.com/contest/2094/problem/D,div4
+20,2065,Codeforces Round 1003 (Div. 4),D,Skibidus and Sigma,1200,18688,greedy;sortings,https://codeforces.com/contest/2065/problem/D,div4
+21,1352,Codeforces Round 640 (Div. 4),D,"Alice, Bob and Candies",1300,28237,implementation,https://codeforces.com/contest/1352/problem/D,div4
+22,1926,Codeforces Round 928 (Div. 4),D,Vlad and Division,1300,17429,bitmasks;greedy,https://codeforces.com/contest/1926/problem/D,div4
+23,2009,Codeforces Round 971 (Div. 4),D,Satyam and Counting,1400,17417,geometry;math,https://codeforces.com/contest/2009/problem/D,div4
