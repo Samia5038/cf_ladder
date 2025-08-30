@@ -33,5 +33,6 @@ This is a simple API made only for [Codeforces Ladder](https://aesthetic-fenglis
 - Open-source and easy to run locally or deploy yourself
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](\frontend\LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](frontend/LICENSE) file for details.
+
 
